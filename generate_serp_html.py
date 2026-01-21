@@ -15,6 +15,30 @@ ASSET_FOLDER_NAME = "html_asset_files"
 
 from urllib.parse import urlparse
 
+def _domain_and_path(url: str, max_path: int = 50) -> tuple[str, str]:
+    """
+    Returns (domain, breadcrumb_text) where breadcrumb_text looks like:
+      example.com › section › page
+    """
+    try:
+        p = urlparse(url)
+        domain = (p.netloc or "").lower()
+        if domain.startswith("www."):
+            domain = domain[4:]
+
+        path = (p.path or "").strip("/")
+        if not path:
+            return domain, domain
+
+        parts = [s for s in path.split("/") if s]
+        crumb = " › ".join(parts)
+        if len(crumb) > max_path:
+            crumb = crumb[: max_path - 1].rstrip() + "…"
+
+        return domain, f"{domain} › {crumb}"
+    except Exception:
+        return "", (url or "")
+
 def _domain(url: str) -> str:
     try:
         d = urlparse(url).netloc
@@ -33,7 +57,7 @@ def fix_asset_paths(html: str) -> str:
 
 def format_query(row: pd.Series) -> str:
     q = str(row.get("query", "")).strip()
-    q = q.replace("COUNTYSEAT", str(row.get("countyseat", "")).strip())
+    q = q.replace("COUNTYSEAT", str(row.get("CountySeat", "")).strip())
     q = q.replace("STATE", str(row.get("State", "")).strip())
     return q
 
@@ -69,7 +93,9 @@ def sanitize(result: Tag) -> None:
 
 
 def fill_one_result(result: Tag, url: str, title: str, snippet: str, source_name: str) -> None:
-    # URL + title
+    display_site = (source_name or "").strip() or _domain(url)
+
+    # Link + title
     a = result.select_one("div.yuRUbf a")
     if a is not None and url:
         a["href"] = url
@@ -79,21 +105,21 @@ def fill_one_result(result: Tag, url: str, title: str, snippet: str, source_name
         h3.clear()
         h3.append(title)
 
-    # Replace breadcrumb/display line (this is where your Livescience text is)
-    display = source_name.strip() or _domain(url)
-
-    # Common breadcrumb containers in saved SERPs
-    for sel in ("div.TbwUpd", "cite", "span.VuuXrf"):
-        node = result.select_one(sel)
-        if node is not None:
-            node.clear()
-            node.append(display)
-            break
-
-    # If it's split into multiple spans (often "domain › section › section"), nuke them too
-    for node in result.select("div.TbwUpd span"):
+    # Website title (THIS is the "Live Science" node in your template)
+    for node in result.select("span.VuuXrf"):
         node.clear()
-        node.append(display)
+        node.append(display_site)
+
+    # Breadcrumb/display URL line (often shows "https://www.livescience.com › ...")
+    tbw = result.select_one("div.TbwUpd")
+    if tbw is not None:
+        tbw.clear()
+        tbw.append(display_site)
+
+    cite = result.select_one("cite")
+    if cite is not None:
+        cite.clear()
+        cite.append(display_site)
 
     # Snippet
     sn = result.select_one("div.VwiC3b")
