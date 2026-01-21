@@ -1,0 +1,920 @@
+retrieval_id,aio_presence,aio_text,num_words,num_aio_sources,query_idx,query,category,subjectivity,answer_type,info_need,FIPS,State,County,CountySeat,pct_database or aggregator,pct_educational institution,pct_government,pct_local news,pct_national news,pct_other,pct_social media or forum,pct_wikipedia
+bdf711ef-f0bd-42f9-8268-fbda30e380a0,0,,0,,22,how many days do you need in COUNTYSEAT STATE,culture,subjective,numeric,civics,29031,MO,Cape Girardeau,Jackson,,,,,,,,
+2b356ceb-6973-45b5-9b6d-349e34333e22,1,"The ""best"" private school in Emporia, KS, often points to Sacred Heart Catholic School, praised for its faith-based learning and strong student-teacher ratio, alongside Emporia Christian School, another strong local choice with a good ratio, though rankings can vary by focus (faith vs. secular/Christian). Both schools offer focused, smaller environments for elementary-aged students in the Emporia area, with Sacred Heart typically noted as a top-ranked elementary option.
+Top Private Schools in Emporia:
+How to Decide:
+Faith-Based vs. Christian: Sacred Heart is Catholic, while Emporia Christian is broadly Christian, offering different religious focuses.
+Student-Teacher Ratio: Both offer small class sizes, which is a significant benefit for personalized learning.
+Check Reviews: Look at sites like Niche for more detailed grades and parent reviews for each school.",131,7.0,48,what is the best private school in COUNTYSEAT STATE,education,mixed,open-ended,education,20111,KS,Lyon,Emporia,0.7142857142857143,0.1428571428571428,0.0,0.0,0.0,0.0,0.1428571428571428,0.0
+d81b89b8-5e90-4156-b6a0-b6831562857c,1,"While a precise average for Weiser, ID, isn't directly listed, expect your Weiser water bill to be around the Idaho state average of $51-$53 monthly, but it can vary based on usage; some nearby areas show combined water/sewer/trash in the $100+ range, so check the City of Weiser website or American Legal Publishing's code library for specific rates, as usage and bundled services (sewer/trash) heavily influence costs.
+General Idaho Averages:
+SoFi: Lists the average Idaho water bill at $51/month (2025).
+LawnStarter: Puts Idaho's average at $53/month (2025).
+Factors Affecting Your Bill:
+Usage: Higher consumption means a higher bill.
+Location: Bills vary even within Idaho; nearby areas sometimes bundle water, sewer, and garbage, pushing totals higher (e.g., $118-$147 for combined services in some reports).
+City Services: Weiser's city codes mention service deposits and potential for different business/residential rates.
+To Get Your Specific Cost:
+Check the City of Weiser's official pages for current water rates.",167,7.0,93,how much is the average water bill in COUNTYSEAT STATE,economy,mixed,numeric,economy,16087,ID,Washington,Weiser,0.2857142857142857,0.0,0.1428571428571428,0.0,0.0,0.4285714285714285,0.1428571428571428,0.0
+173aa3db-902e-4e6d-8439-a3a1a0c27040,1,"There's no precise, publicly available count for annual tourists in Yellville, AR, but tourism significantly spikes during events like the Turkey Trot Festival, drawing crowds far exceeding its ~1,200 residents, with focus on its small-town charm and nearby Ozark outdoor recreation. Official data often tracks visitor numbers by county or region (like Buffalo National River), not the town itself, though Yellville serves as a gateway for tourists exploring Marion County.
+Key Factors Influencing Yellville Tourism:
+Turkey Trot Festival: This major annual event in October brings thousands for the National Wild Turkey Calling Contest, significantly boosting local activity.
+Gateway to the Ozarks: Yellville's location in Marion County makes it a base for visitors enjoying the Buffalo National River, hunting, fishing, and scenic drives.
+Small-Town Appeal: Tourists are drawn to its traditional atmosphere and community events.
+How to Estimate:
+Look at local event attendance records (like past Turkey Trot numbers) for a baseline of immediate visitors.
+Check Marion County tourism reports or nearby attractions (like the National Forest) for regional visitor trends.",175,5.0,66,how many tourists visit COUNTYSEAT STATE each year,culture,objective,numeric,economy,5089,AR,Marion,Yellville,0.4,0.0,0.2,0.0,0.0,0.0,0.0,0.4
+9cffd52c-bd83-44f6-b3f9-24920786ccf4,1,"In Smithland, KY, the Black population is a very small percentage, with recent data showing it around 2% to 2.4%, though some sources note even lower figures or zero for specific recent years, indicating a small absolute number of residents, like 5 Black residents in some reports. For instance, Census Reporter shows 2% Black, while World Population Review lists 2.39%.
+Census Reporter (approx. 2023 data): 2% Black.
+World Population Review (2025 data): 2.39% Black or African American.
+Data USA (2023 data): 5 Black or African American (Non-Hispanic) residents out of a population of 209, which is about 2.4%.",103,3.0,63,what percent of COUNTYSEAT STATE is black,culture,objective,numeric,civics,21139,KY,Livingston,Smithland,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ec3d4a53-0dc6-4943-8200-5fefecc9daed,1,"There isn't a single number for total deaths in Lumberton, NC, as it varies yearly, but recent data highlights significant homicide rates in Robeson County (where Lumberton is located), with 46% of homicides involving arguments and many linked to firearms. The city gained national attention for the unsolved 2017 deaths of three women—Christina Bennett, Rhonda Jones, and Megan Oxendine—which remain a focus for the FBI and local police.
+Key Information & Statistics
+2024 Data (Robeson County): The North Carolina Department of Public Safety (ncdps.gov) noted that 105 residents had Emergency Department visits for firearm injuries, with 46% of homicides stemming from arguments.
+High Homicide Rate (Historically): Reddit users and news reports indicate Robeson County often sees a disproportionately high number of homicides compared to its population.
+The 2017 Unsolved Cases
+The Victims: Christina Bennett, Rhonda Jones, and Megan Oxendine were found dead between April and June 2017 within a four-block area of Lumberton.
+Ongoing Investigation: The FBI and Lumberton Police continue to seek public tips in these cold cases, offering rewards for information.
+Where to Find More Information
+For recent local statistics, check The Robesonian (robesonian.com).
+For details on the unsolved cases, visit the FBI's Death Investigations page (fbi.gov).",206,9.0,103,how many deaths in COUNTYSEAT STATE,safety,mixed,numeric,safety,37155,NC,Robeson,Lumberton,0.0,0.0,0.2222222222222222,0.5555555555555556,0.0,0.1111111111111111,0.1111111111111111,0.0
+062e24c9-5b12-4be9-9c88-9f312d29fdef,1,"Greenwood, MS, has one main public school district, the Greenwood-Leflore Consolidated School District (GLCSD), formed from a merger of previous districts, and operates under a city government divided into 7 municipal council wards, each electing a representative. So, depending on whether you mean schools or city governance, it's either one district or seven wards.
+For Education (Schools):
+Greenwood-Leflore Consolidated School District (GLCSD): This district serves the city and surrounding areas, consolidating the former Greenwood and Leflore County districts.
+For City Government (Wards):
+Seven Wards: The City of Greenwood uses a Mayor-Council system with seven wards, each having its own councilperson.",104,4.0,40,how many districts are in COUNTYSEAT STATE,geography,objective,numeric,civics,28083,MS,Leflore,Greenwood,0.0,0.0,0.5,0.0,0.0,0.25,0.0,0.25
+e4ed8335-964a-4ac2-a321-9dcb8d36efce,1,"There isn't one single ""best"" academy in Monticello, FL, as it depends on your priorities, but Aucilla Christian Academy (ACA) is a prominent Christian K-12 option known for academics, athletics, and a close-knit environment, while Monticello Christian Academy (MCA) offers a smaller K-12 setting with strong college-prep for some students. For public options, Jefferson County Schools offer programs like the virtual learning approach, but for private academies, ACA and MCA are the key local choices, each with different vibes.
+Top Private Academy Options:
+Aucilla Christian Academy (ACA): A popular K3-12 Christian school focused on whole-child development (spiritual, academic, emotional, physical) with AP courses and strong sports, described as having a strong community feel where everyone knows each other.
+Monticello Christian Academy (MCA): A smaller private K-12 school (grades 1-12), noted for a low student-teacher ratio and 100% college matriculation for graduates, emphasizing individual attention.
+Factors to Consider:
+Christian Education: Both ACA and MCA offer a faith-based approach, but ACA seems to be a larger, well-established presence.
+School Size: ACA is a bit larger with more resources (like APs), while MCA offers a very intimate, family-like environment.
+Academics & College Prep: Both aim for academic success, with MCA highlighting its college-bound focus and ACA offering APs and dual enrollment.
+Sports & Activities: ACA is known for its strong athletics (Warrior Nation!), while MCA has faced challenges with sports due to its size but offers other enrichment.
+How to Decide:Visit both schools! Check their websites (Aucilla.org, etc.) and attend open houses or schedule tours to see which environment feels like the best fit for your child's needs and your family's values.",285,9.0,55,which COUNTYSEAT STATE academy is the best,education,mixed,open-ended,education,12065,FL,Jefferson,Monticello,0.5555555555555556,0.3333333333333333,0.0,0.0,0.1111111111111111,0.0,0.0,0.0
+d3d4376c-6bd4-4f9b-b43f-649564741196,1,"Savannah, Tennessee, is best known for its rich Civil War history, especially its connection to the Battle of Shiloh, the historic Cherry Mansion, the Tennessee River Museum, and the legendary sheriff Buford Pusser (of Walking Tall fame), offering Southern charm, riverfront parks, and small-town feel with significant American history.
+Key Highlights:
+Civil War Heritage: A major site for Civil War buffs, with nearby Shiloh National Military Park and the Cherry Mansion, where General Grant strategized.
+Buford Pusser: Home to the Buford Pusser Home & Museum, honoring the controversial sheriff who inspired the Walking Tall movies.
+Riverfront Charm: Situated on the Tennessee River, it boasts parks like Wayne Jerrolds River Park and scenic river views.
+Local Culture: Known for Southern hospitality, catfish, farmers' markets, and a laid-back atmosphere.
+Tennessee River Museum: Details the area's history from prehistoric times through the Civil War.
+In essence, Savannah TN is a small, historic town rich in Southern heritage and pivotal American history, particularly from the Civil War era.",166,6.0,28,what is COUNTYSEAT STATE best known for,culture,subjective,open-ended,civics,47071,TN,Hardin,Savannah,0.0,0.0,0.0,0.0,0.1666666666666666,0.5,0.1666666666666666,0.1666666666666666
+4abb077b-c02c-4ff7-b7e4-e92cb1665deb,1,"Black or African American residents make up a majority of Sylvester, GA's population, with recent data from the U.S. Census Bureau and Data USA indicating figures around 58.5% to 62.1%, depending on the specific dataset and year (e.g., 2020 Census data shows ~59.2%, while 2023 estimates are similar), making it the largest racial group in the city.
+Here's a breakdown from recent estimates:
+U.S. Census (QuickFacts): ~58.5% Black alone.
+Data USA (2023): ~58.5% Black or African American (Non-Hispanic).
+World Population Review (2025 est.): ~58.5% Black or African American.
+Neilsberg (2017-2021 ACS): ~62.11% Black or African American.
+This shows a significant Black majority population in Sylvester, GA, consistent across multiple sources.",124,5.0,63,what percent of COUNTYSEAT STATE is black,culture,objective,numeric,civics,13321,GA,Worth,Sylvester,0.6,0.0,0.2,0.0,0.0,0.0,0.0,0.2
+8056c839-3031-4ae6-ad41-7f7ca44a1db8,1,"To apply for Section 8 (Housing Choice Vouchers) near Hamilton, GA, you need to contact the specific Public Housing Agency (PHA) that serves Harris County (where Hamilton is) or nearby areas, usually through the Georgia Department of Community Affairs (DCA) or local housing authority websites, as applications are managed locally and lists are often closed, requiring online pre-applications, document submission (ID, SSNs, income proof), and patience for long waiting lists.
+Find Your Local Housing Agency:
+Check Waiting List Status:
+Gather Required Documents (Prepare Ahead):
+Apply (Usually Online):
+Wait for Selection:
+Key Tip: Focus on the Georgia DCA Housing Choice Voucher page and search for the specific county's housing authority to find application portals and waitlist info.",118,10.0,51,how to apply for section 8 near COUNTYSEAT STATE,economy,objective,open-ended,economy,13145,GA,Harris,Hamilton,0.0,0.0,0.7,0.0,0.0,0.0,0.3,0.0
+dfcc59aa-0e54-4d49-8c7f-3c87405cd90d,1,"The elevation of Carrollton, Kentucky, is approximately 482 feet (147 meters) above sea level, though some sources cite slightly different figures like 485 feet or 466 feet, with variations depending on the specific measurement point within the city.
+Commonly cited: 482 ft (147 m).
+Slightly higher: 485 ft (county seat elevation).
+Slightly lower: 466 ft (142 m).",57,4.0,12,what is the elevation of COUNTYSEAT STATE,geography,objective,numeric,environment,21041,KY,Carroll,Carrollton,0.5,0.25,0.0,0.0,0.0,0.0,0.0,0.25
+b01659e1-17d5-4e7d-b264-2d0bf7131eaf,1,"Yes, Mason, TX water has naturally occurring fluoride, with recent reports showing levels around 0.29 ppm (parts per million), well below the EPA's 4.0 ppm limit, but not intentionally added by the municipality for fluoridation. The fluoride present comes from the erosion of natural deposits in the groundwater.
+Key Details:
+Naturally Present: Fluoride is found in groundwater from natural sources like mineral deposits.
+Levels Vary: The amount fluctuates, but recent reports (2023-2024) show levels around 0.29 ppm.
+Not Added: The City of Mason doesn't add extra fluoride for public health purposes, unlike some larger Texas systems.
+Meets Standards: These levels are considered safe and below the EPA's maximum contaminant level (MCL) of 4.0 ppm.
+For the most current data, you can always check the City of Mason's annual Consumer Confidence Report (CCR).",141,5.0,113,does COUNTYSEAT STATE water have fluoride,health,objective,binary,health,48313,TX,Madison,Mason,0.2,0.0,0.6,0.0,0.0,0.2,0.0,0.0
+57518d89-1b77-48be-95d1-0acc40b8b671,1,"Eugene, Oregon, is generally considered safe but has higher property crime and specific areas with more illicit activity, though its violent crime is sometimes lower than the national average; visitors and residents advise being aware of surroundings, locking cars (car break-ins are common), and avoiding isolated areas at night, with areas like Downtown and West Eugene noted for more challenges due to homelessness and drug issues, while areas like South Hills and Fox Hollow are considered safer.
+Property Crime:: Car break-ins (theft from vehicles) and mailbox theft are significant concerns.
+Violent Crime:: Rates fluctuate, but some sources suggest it's lower than the national average, while others note it's higher than the rest of Oregon.
+Illicit Activity:: Visible homelessness and drug use are present, particularly downtown, leading to concerns about public space misuse.
+Hate Crimes:: Historically, Eugene has reported a significant portion of Oregon's bias/hate crimes, though numbers vary year to year.
+Fox Hollow, Amazon, South Hills, Fairmont, South Eugene, and Friendly.
+Downtown Eugene (due to homelessness, drug activity)
+West Eugene
+Whitaker
+Be Aware: Stay alert in public spaces, especially at night or in isolated areas.
+Secure Your Vehicle: Lock doors and don't leave valuables in your car.
+Use Common Sense: Be cautious at tourist spots and on public transport, just like any city.",220,9.0,43,how safe is COUNTYSEAT STATE,safety,mixed,open-ended,safety,41039,OR,Lane,Eugene,0.1111111111111111,0.0,0.1111111111111111,0.2222222222222222,0.0,0.1111111111111111,0.4444444444444444,0.0
+43e26197-1688-41d6-be91-95f03adf5dac,1,"Mount Olivet, KY, is a place with significant poverty, with around 35% of its population living below the federal poverty line, much higher than Kentucky's average, but it also has diverse incomes, with some residents earning well, leading to a mixed economic picture despite high poverty rates for children and seniors.
+Key Poverty Indicators:
+High Poverty Rate: About 34.8% of Mount Olivet residents live below the poverty line, which is more than double the Kentucky state average (around 16%) and higher than the national average.
+Child Poverty: Poverty is especially high among children, with roughly 45% under 18 living in poverty.
+Senior Poverty: A significant portion of seniors (around 34%) also experience poverty.
+Income Disparity: While median incomes are low (around $25k-$27k for households), some sources note the presence of both wealthy and poor individuals, according to NeighborhoodScout.
+Context:
+County Comparison: Mount Olivet's poverty rate is considerably higher than Robertson County's overall rate (around 27.4%).
+State Context: Kentucky generally has higher poverty rates than the rest of the U.S., and Mount Olivet reflects this trend significantly.
+In summary, Mount Olivet experiences notable economic hardship, particularly for vulnerable groups, though it's not uniformly poor, making it a community with substantial economic challenges but also some diversity in financial situations.",216,8.0,15,how poor is COUNTYSEAT STATE,economy,mixed,open-ended,economy,21201,KY,Robertson,Mount Olivet,0.625,0.0,0.0,0.0,0.0,0.125,0.0,0.25
+832773e1-2391-467f-a43d-2f5d70b2ef62,1,"In Princeton, IL, a standard annual business license costs $250, paid to the City Clerk upon application, but fees vary significantly by business type, with some requiring only a small application fee or state-level permits, while others (like selling alcohol) incur much higher costs. You'll likely need to register with the state and possibly get specific permits for your industry, adding to overall costs.
+Local Princeton License Fee:
+Standard Fee: $250 annually for a general license, paid with your application to the City Clerk's office.
+Other Potential Costs:
+State-Level Fees: Illinois requires registration with the Secretary of State (e.g., $150 for an LLC) and the Department of Revenue.
+Specific Industry Licenses: Depending on what you sell (alcohol, lottery), you'll pay more for special product licenses.
+Professional Licenses: If you're a professional (accountant, cosmetologist), expect fees for state-issued occupational licenses.
+Application Fees: Some online platforms charge a small application fee, like $25.
+To Get Started:
+Check with the City: Contact the City of Princeton Clerk to understand your specific local requirements.
+State Registration: Register your business entity with the Illinois Secretary of State.
+Illinois Department of Revenue: Register for state taxes.
+Industry-Specific Permits: Research any state or local permits needed for your particular business activity.",213,7.0,59,how much does it cost to get a business license in COUNTYSEAT STATE,economy,objective,numeric,economy,17011,IL,Bureau,Princeton,0.4285714285714285,0.0,0.1428571428571428,0.0,0.0,0.4285714285714285,0.0,0.0
+0595f21b-3ed4-4f8c-a5f5-1a3bd26ff640,1,"Mayersville, MS, is a very small, rural community with a predominantly Black population, offering a quiet, slow pace and low cost of living typical of Mississippi, but it lacks major amenities and faces challenges common in the state like lower education/health metrics and potential economic opportunities, so whether it's ""good"" depends heavily on prioritizing affordability and quiet over modern conveniences and diverse jobs.
+What to Consider:
+Demographics: Over 90% African American, very small population.
+Pace: Expect a very slow, rural lifestyle, far from city conveniences.
+Cost: Housing and living costs are generally low, a major pro for Mississippi.
+Amenities: Limited; you'll likely need to travel for shopping, dining, and specialized services.
+State Context: Mississippi faces national challenges in education, health, and economic opportunity, which can impact smaller towns like Mayersville.
+Natural Disasters: The region is prone to severe weather (tornadoes, floods, hurricanes).
+Who Might Like It:
+Those seeking extreme quiet and a tight-knit community feel.
+People prioritizing very low housing costs above all else.
+Who Might Not Like It:
+Anyone needing diverse job opportunities, good schools, or nightlife.
+Those who prefer modern amenities, varied dining, and quick access to services.
+In essence, Mayersville offers affordability and quiet but comes with significant trade-offs in amenities and economic development compared to more populated areas in Mississippi like Gulfport or Jackson.",223,6.0,18,is COUNTYSEAT STATE a good area,safety,subjective,binary,safety,28055,MS,Issaquena,Mayersville,0.3333333333333333,0.1666666666666666,0.0,0.0,0.1666666666666666,0.1666666666666666,0.0,0.1666666666666666
+490b9554-f1c5-405b-82a8-c3cb85e539ea,1,"Family law matters (divorce, custody, support) in St. Francisville, LA, are filed with the West Feliciana Parish Clerk of Court, located in the courthouse at 4789 Prosperity Street. This office handles all civil, family, and juvenile filings for the area.
+Where to File in St. Francisville:
+Location: West Feliciana Parish Clerk of Court, 4789 Prosperity Street, St. Francisville, LA 70775.
+Types of Cases: Divorce, child custody, support, and adoption, among other civil matters.
+Contact Info: The Clerk of Court is Stewart Hughes.
+Additional Information:
+Records Search: You can search civil, land, and marriage records on their website.
+Self-Help: While forms are not explicitly detailed on the Clerk's site, some legal resources are available through the 17th Judicial District Court's self-help tools or local libraries for assistance with documentation.",132,5.0,56,family law where to file COUNTYSEAT STATE,civics,objective,open-ended,civics,22125,LA,West Feliciana,St. Francisville,0.0,0.0,0.8,0.0,0.0,0.2,0.0,0.0
+d5a4dcc6-ae79-4078-888a-9d6ef37dd43f,1,"To get an expedited passport from Chilton, WI, you'll use the Chilton Post Office as an acceptance facility for the standard expedited fee ($60) and faster return shipping ($22.05), or find nearby private couriers (like in Neenah/Oshkosh) for potentially quicker turnarounds (even 24 hrs), plus you can get photos and ship from FedEx in Chilton. The key steps involve booking an appointment at the local Post Office (57 E Main St, Chilton) or a private service, marking ""EXPEDITE"" on your envelope, and paying extra for faster processing/shipping.
+Find an Acceptance Facility: The Chilton Post Office (57 E Main St) accepts applications and offers expedited service.
+Schedule Appointment: Book online via the USPS tool (search for Chilton, WI) for an appointment to submit your application.
+Prepare Documents: Gather your birth certificate, passport photo (get one at FedEx/Walgreens), and payment for fees.
+Pay Expedite Fee: Include the $60 fee for expedited processing and $22.05 for 1-2 day return shipping (paid to the ""U.S. DEPARTMENT OF STATE"").
+Mark ""EXPEDITE"": Write ""EXPEDITE"" on the outside of the mailing envelope.
+FedEx Office (Chilton): Offers passport photos and partners with RushMyPassport for expedited services. Start online and finish in-store for a smooth process.
+Allstate Passports & Visas (Neenah/Oshkosh): Provides rush services, potentially getting your passport in as little as 24 hours for emergencies, or faster options for urgent travel.
+Urgent Passport (Nationwide): Uses authorized couriers to get passports in days, with options for 3-day processing.
+Travel Time: Standard expedited service takes 2-3 weeks plus mailing time; use private services if you're leaving in under 6 weeks.
+Photos: FedEx Office in Chilton can take your passport photos.
+Calumet County Clerk: Also offers passport services and can advise on expedited processing times (2-3 weeks).",299,11.0,19,how to get an expedited passport in COUNTYSEAT STATE,civics,objective,open-ended,civics,55015,WI,Calumet,Chilton,0.0909090909090909,0.0,0.5454545454545454,0.0,0.0,0.3636363636363636,0.0,0.0
+327b41dc-e239-4498-ba09-e6102cd1f90e,1,"A trip to Franklin, LA, varies widely by your starting point and travel style, but expect costs for flights (starting around $90 roundtrip from some areas), hotels (from $30-$85+/night), and food/activities, with budget travel being feasible given local hotel prices and the town's small, historic nature, focusing on free attractions like Bayou Teche.
+Sample Cost Estimates (Varies Greatly):
+Transportation (Flights):
+Accommodation:
+Food & Activities:
+Budgeting Tips:
+Travel Off-Season: Spring (March-May) and Fall (Sept-Nov) offer pleasant weather and potentially lower hotel rates than winter (Dec-Feb).
+Drive if Possible: If you're in the Gulf Coast region, driving might be cheaper than flying.
+Explore Free Sights: Focus on the historic architecture, bayou scenery, and local culture.
+In Summary: You can have a very affordable weekend trip to Franklin by driving and staying in budget hotels (under $200 total for lodging and transport if driving), or it can cost several hundred dollars or more if flying from far away and opting for nicer accommodations or more paid activities.",172,6.0,57,how much is a trip to COUNTYSEAT STATE,economy,mixed,numeric,economy,22101,LA,St. Mary,Franklin,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+a7a9c051-ed91-4e17-a52c-062cb2fa15af,0,,0,,53,what is the ethnicity of COUNTYSEAT STATE,culture,mixed,open-ended,civics,45065,SC,McCormick,Marion,,,,,,,,
+20afcb92-371d-46d3-a335-1da980aaff11,1,"Public transportation in Walla Walla, Washington, is largely fare-free through Valley Transit for most services (Fixed Route, Dial-a-Ride) for the general public and all riders under 18, thanks to state funding until 2026, though Job Access and Vanpool have separate costs, with passes around $12/month.
+Valley Transit Services (Mostly Free):
+Fixed Route Buses: No cost for the general public.
+Dial-a-Ride: Free for most riders who can't access a bus stop.
+Deviated Fixed Route & Connector: Also zero-fare.
+Youth (18 & Under): All modes are free.
+Paid Services:
+Job Access: Requires a monthly pass for unlimited rides, costing about $12.
+Vanpool/Rideshare: Has separate fare structures.
+Key Points:
+Funding: This fare-free structure is part of a pilot program funded by Washington state, expected to last until 2026.
+How to Use: Just hop on the bus or schedule a Dial-a-Ride; no tickets needed for the free services.
+For the latest details or specific fare information on the Job Access program, check the Valley Transit website.",172,6.0,34,how much is public transportation in COUNTYSEAT STATE,transportation,mixed,numeric,transportation,53071,WA,Walla Walla,Walla Walla,0.0,0.0,0.5,0.1666666666666666,0.0,0.1666666666666666,0.0,0.1666666666666666
+1739f673-24d2-47f3-ab25-ff9d03e39153,1,"To start a business in Zapata, TX, develop a solid business plan, choose your structure (like a Sole Prop or LLC) and register your name with the Zapata County Clerk (and Secretary of State if a corp), secure funding, get necessary licenses/permits (local/state), and understand state tax/employer rules, using resources like the Texas.gov & SBA for guidance on Zapata County.
+Here's a step-by-step guide for Zapata County:
+Business Plan: Outline your goals, strategies, and financial projections.
+Business Structure: Decide on a Sole Proprietorship, Partnership, LLC, or Corporation, consulting a lawyer/accountant.
+Name & Registration:
+Funding: Explore options like loans, grants, or personal capital.
+Licenses & Permits: Check federal, state (Texas Comptroller for Sales Tax Permit), and local requirements (Zapata County/City) for your industry.
+Taxes & EIN: Get an Employer Identification Number (EIN) from the IRS and understand state tax obligations.
+Location & Zoning: Choose a spot in Zapata and ensure it meets local zoning laws.
+Employer Rules: Understand Texas labor laws for payroll, minimum wage, and overtime if hiring.
+Key Resources:
+Texas.gov & Governor's Office: Texas.gov & Office of the Texas Governor (.gov) (Start business guides, Small Business Portal).
+SBA: Small Business Administration (.gov) (Federal resources).
+Zapata County Clerk: Zapata County, Texas (For DBA filings).",209,9.0,41,how to start a business in COUNTYSEAT STATE,economy,objective,open-ended,economy,48505,TX,Zapata,Zapata,0.0,0.0,0.8888888888888888,0.0,0.0,0.1111111111111111,0.0,0.0
+c7b84c6c-4ba5-46eb-ba96-c83df33b9d3b,1,"Greensboro, GA offers family fun on Lake Oconee with boating/fishing, exploring history at the Old Gaol, enjoying parks like Old Salem Park, and getting active at local spots like Oconee Brewing Company or renting ATVs at Offroad Adventures at Durhamtown, plus nearby options like the Hand Me Down Zoo or Funopolis for amusement.
+Lake Oconee: Boating, jet skiing, kayaking, fishing with guides.
+Oconee Wild Watersports: Rent boats, jet skis, or kayaks.
+Old Salem Park: Parks, camping, and trails.
+Offroad Adventures: ATV rentals and tours.
+BoMax Ranch & Retreat: Horseback riding and hiking.
+Old Gaol: Explore the historic county jail.
+Historic Scull Shoals Mill Village: A glimpse into the past.
+Highgate Estate & Gardens: Beautiful grounds to stroll.
+Hand Me Down Zoo (Eatonton): Petting zoo experience.
+Zoo-Bear Hollow Wildlife Trail (Athens): Another local zoo option.
+Funopolis Family Fun Center (McDonough): Mini-golf and amusement.
+The Splatter Place / Color Sling: Creative art activities.
+Oconee Brewing Company: Family-friendly brewery.
+Lake Oconee Village: Shopping and dining.
+Check local listings for seasonal events like the Southland Jubilee Festival.
+For a classic GA experience, look for blueberry picking at farms like HEMI Blueberry Farm in season.",191,6.0,20,fun family things to do in COUNTYSEAT STATE,events,subjective,open-ended,civics,13133,GA,Greene,Greensboro,0.0,0.0,0.1666666666666666,0.1666666666666666,0.0,0.0,0.6666666666666666,0.0
+58fc8c2f-6469-464d-9937-cb2cf8206626,1,"There are no major acute-care hospitals directly within Brentwood, NH, but nearby towns offer several options like Exeter Hospital and Wentworth-Douglass Hospital, with major centers such as Portsmouth Regional and Elliot Hospital a short drive away for comprehensive care. While Brentwood hosts some health facilities like the Fernald Nursing Home (part of Rockingham County services), residents typically travel to neighboring communities for hospital services.
+Key Nearby Hospitals:
+Exeter Hospital: Located in Exeter, NH, about 7 miles from Brentwood.
+Wentworth-Douglass Hospital: In Dover, NH, serving the Seacoast area.
+Parkland Medical Center: In Derry, NH, about 14 miles away.
+Portsmouth Regional Hospital: A larger regional hospital in Portsmouth, NH.
+Elliot Hospital: In Manchester, NH, a major medical center in the state.
+For specific needs, you'd look to these neighboring facilities, as Brentwood is a smaller town primarily focused on residential living.",143,7.0,92,how many hospitals are in COUNTYSEAT STATE,health,objective,numeric,health,33015,NH,Rockingham,Brentwood,0.4285714285714285,0.0,0.1428571428571428,0.0,0.0,0.2857142857142857,0.1428571428571428,0.0
+483bc5b8-cfae-4eca-b763-f699476c0cde,1,"Yes, Green Lake School District (GLSD) in Wisconsin likely has school today, Thursday, December 18, 2025, as there are no immediate alerts for closings, but you should check their official Green Lake School District website, their Facebook page or the WISN 12 News closings page for any late-breaking schedule changes.
+To Confirm:
+Visit the GLSD Website: www.glsd.k12.wi.us/.
+Check their Calendar: Look for the 2025-2026 calendar on their site for specific dates.
+Look for Alerts: WISN 12's closings page is a good resource for last-minute changes.",93,5.0,50,does COUNTYSEAT STATE have school today,education,objective,binary,education,55047,WI,Green Lake,Green Lake,0.0,0.6,0.0,0.2,0.0,0.0,0.2,0.0
+7344e6f9-af64-4838-b494-9ad7ba9ea406,1,"To get a free Palmer, AK library card (part of the Mat-Su Library Network), you must be a Mat-Su Borough resident or property owner, apply in person at the Palmer Public Library (or other MSLN branches) with a valid government photo ID (like a driver's license showing your name/address) for adults, or have a parent/guardian present for kids, and fill out an application to get immediate access or have the card mailed to you.
+Steps to Get Your Card:
+Confirm Eligibility: You must live in the Mat-Su Borough or own property there to get a free card.
+Gather Your ID: Bring a government-issued photo ID (Driver's License, Passport) with your name, address, and birth date.
+Visit the Library: Go to the Palmer Public Library (or another Mat-Su branch like Wasilla, Sutton, etc.) during open hours.
+Fill Out Application: Complete the library's application form.
+Get Your Card: You can get your card immediately or have it mailed if you prefer.
+For Kids (Ages 0-17):
+A parent or legal guardian must be present with their ID to sign.
+Non-Residents:
+Temporary cards are available for $10 for 4 months.
+Key Points:
+Cards are part of the Mat-Su Library Network, giving access to all MSLN libraries.
+Cards cannot be issued in the last 30 minutes before closing.
+You can start an application online, but must finish in person for the official card.",241,5.0,75,how to get a free library of COUNTYSEAT STATE card,civics,objective,open-ended,civics,2170,AK,Matanuska-Susitna,Palmer,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+6e8b2f12-d347-43bc-8966-62d3f08f02cb,0,,0,,32,what time do polls open COUNTYSEAT STATE,politics,mixed,numeric,politics,47119,TN,Maury,Selmer,,,,,,,,
+ec741561-3e44-4a5b-9e48-d27ee414aec0,1,"Yes, Madison, GA shows promise for real estate investment due to strong long-term appreciation, desirable small-town charm attracting families and retirees, proximity to Atlanta, and a growing demand outpacing supply, though recent data suggests a cooling market with higher days on market and fluctuating prices, indicating a balanced to buyer-leaning market now, making it a good bet for patient investors focused on growth.
+Why it's a Good Investment (Pros):
+Strong Appreciation History: NeighborhoodScout notes Madison's historically high appreciation rates, placing it in the top 20% nationally over the last decade, with recent trends still showing positive growth.
+High Quality of Life: It offers a mix of historic charm, great schools, and a strong community, attracting families and retirees, especially those wanting to escape Atlanta's bustle but stay close, say Niche and Wendy Dickey Homes.
+Growing Demand: Demand from families moving from Atlanta is increasing, pushing prices up and creating a competitive environment, notes Josh Lavik.
+Rental Potential: A significant portion of residents rent, suggesting a healthy rental market for investors, according to Niche.
+Current Market Considerations (Cons/Neutrals):
+Cooling/Buyer's Market: Recent data points (late 2025) show increased days on the market (DOM) and falling sale prices compared to the previous year, indicating a shift from a seller's to a more balanced or buyer-leaning market, according to Redfin and Realtor.com.
+Price Fluctuations: While historically strong, recent months saw significant price drops year-over-year, requiring careful analysis of current trends, according to Redfin.
+Overall: Madison, GA is a strong long-term play due to its desirable features and consistent demand, but recent market shifts suggest a more opportune time for buyers, requiring investors to be patient and focus on properties with strong fundamentals rather than quick flips.",297,8.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,13211,GA,Morgan,Madison,0.5,0.0,0.125,0.0,0.0,0.25,0.125,0.0
+f85074f6-44c7-4896-ac8d-196f18413047,1,"As of right now (Wednesday evening, Dec 10, 2025), there are no widespread announcements for school closures near Sterling, CO, for tomorrow (Thursday, Dec 11), but conditions can change; check your specific district's website or local news (like KOAA News 5 for general Colorado updates) for the latest info as weather or other issues can cause last-minute changes.
+How to Check for Tomorrow (Thursday, Dec 11, 2025):
+Your School District: Most reliable is the official district website (e.g., Sterling Public Schools) or their direct communication (app, text alerts).
+Local News Outlets: Check KOAA, KREZ News, or Other Sterling Area News Sources for alerts.
+Weather Forecasts: Be mindful of any overnight severe weather, as this is a common reason for closures.",123,5.0,23,are public schools closed tomorrow near COUNTYSEAT STATE,education,objective,binary,education,8075,CO,Logan,Sterling,0.2,0.0,0.2,0.2,0.2,0.0,0.0,0.2
+a96da0dd-6799-4b0b-906b-13c4ef89d076,1,"Homes in Hugoton, KS, are quite affordable, with a median listing price around $172,000 to $197,000, though prices vary significantly from under $100,000 for smaller homes to over $500,000 for larger properties, featuring a mix of modest starter homes and larger family residences.
+Price Ranges & Examples:
+Lower End: You can find homes for under $100,000, such as a 2-bedroom for around $95,000 or 3-bedroom options in the low $100s.
+Mid-Range: Many 3- and 4-bedroom homes fall in the $130,000 to $200,000 range.
+Higher End: Larger or updated homes, especially those with 4 or 5 bedrooms, can reach $250,000, $400,000, or even over $500,000.
+Key Market Points:
+Affordability: Hugoton is known for its affordability compared to national averages.
+Variety: The market offers diverse options, from budget-friendly to larger family homes.
+Active Market: There are typically several homes for sale, with some selling relatively quickly.",159,8.0,7,how much does a house in COUNTYSEAT STATE cost,economy,mixed,numeric,economy,20189,KS,Stevens,Hugoton,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1986e81c-3ce9-4c4c-8c36-9fb52543579b,1,"Public transportation in Watkins Glen, NY, primarily relies on Schuyler County Transit (SCT), with standard cash fares around $1.00 per ride on fixed routes, or $2.00 for connections to Corning/Tompkins, while discounted fares for seniors/disabled are $0.50, but for specialized/demand services, fares can be $3.00 or more; always confirm with SCT for current rates as they can vary by route type (fixed vs. rural connection).
+Key Fares (Check for Updates on Schuyler County Transit)
+Standard Cash Fare: About $1.00 per trip.
+Reduced Fare: $0.50 for seniors (60+) and persons with disabilities (ID required).
+Connections: $2.00 for routes to Corning & Tompkins.
+Rural Connections/Demand: $3.00 per ride (no discounts) for some specific routes.
+Passes: SCT offers multi-ride passes (e.g., 11 rides for $10).
+How to Pay & Where to Find Info
+Payment: Cash (exact change often needed) or SCT tickets.
+Details: Visit the Schuyler County Transit website or Watkins Glen Housing Authority (Village Connections) for brochures.
+Important Considerations
+Route Dependent: Fares differ for local fixed routes vs. inter-county connections or rural services.
+Exact Change: Drivers usually don't carry change for standard fares.",195,5.0,34,how much is public transportation in COUNTYSEAT STATE,transportation,mixed,numeric,transportation,36097,NY,Schuyler,Watkins Glen,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+fa6bb864-95f3-4bce-8542-a1c6f37d8a9b,1,"City Council members in London, Ohio, earn a modest stipend, with recent figures from around 2018 suggesting around $5,000 annually, though salaries are set by local ordinance and can change; expect a few thousand dollars a year, as it's a part-time role, contrasting with large cities where council pay can be substantial.
+Key Details:
+Part-Time Role: Serving on the city council in London is generally a part-time commitment, not a full-time salary, notes Indeed.
+Local Ordinances: Salaries are determined by local city laws (ordinances) and can be adjusted.
+Examples from Nearby Areas (2024/2023):
+To Get the Most Current Figure:
+Check the official City of London, Ohio website for their current ordinances or contact the City Clerk's office directly for the latest salary information.",131,7.0,73,how much do city council members make in COUNTYSEAT STATE,politics,objective,numeric,politics,39097,OH,Madison,London,0.5714285714285714,0.0,0.1428571428571428,0.2857142857142857,0.0,0.0,0.0,0.0
+f146b9f7-fb74-4fc7-90c4-89b7a8aeedc4,1,"To apply for Section 8 (Housing Choice Voucher) near Dade City, FL, you must apply through the Pasco County Housing Authority (PCHA), but their voucher waitlist is often closed, so you need to check their website (pascocountyhousing.org) for opening announcements, as they only open briefly, often online, and then close again. You'll also want to monitor other nearby areas like Tampa, as their lists are often closed, and always be wary of scams, applying only through official housing authority portals when they open.
+Visit the PCHA Website: Go to Pasco County Housing Authority to check for announcements about the Section 8 waiting list opening.
+Watch for Openings: The waiting list opens sporadically (e.g., a few days in May 2025) and applications are typically online-only during those brief windows.
+Apply Online When Open: When the list is open, apply through the link provided on their site (e.g., a portal like pasco.housingmanager.com).
+Monitor Nearby Authorities: Check the Tampa Housing Authority (tampaha.org/assisted-housing-hcv-section-8) and the Miami-Dade County housing portal (mdvoucher.com) as well, though their lists also close, notes a YouTube video (https://www.youtube.com/watch?v=3Y3G-SlA0FM) and another source (https://www.mdvoucher.com/).
+Waitlists Close: Most local housing authorities, including Tampa's, have closed waiting lists; you must wait for an announcement.
+Eligibility: Eligibility is based on income, family status (elderly, disabled, family), and citizenship status, determined by the Public Housing Authority (PHA).
+Be Cautious: Avoid scams; only use official housing authority websites for applications.",259,8.0,51,how to apply for section 8 near COUNTYSEAT STATE,economy,objective,open-ended,economy,12101,FL,Pasco,Dade City,0.0,0.0,0.625,0.125,0.0,0.0,0.25,0.0
+3b3a2f42-7260-42a0-ac75-0687ac698bd5,1,"In Amelia Court House, VA, it is currently 36°F (2°C) and cloudy, with a chance of light snow precipitation. The wind is out of the northeast at 2 mph.
+Daytime: Expect a high of around 60°F (16°C) with light rain developing in the afternoon.
+Tonight: Rain is highly likely with a chance near 100%, and temperatures will remain around a low of 50°F (10°C).
+Winds: East winds around 5 mph will become south around 5-10 mph in the afternoon and increase to 10-15 mph with gusts up to 30 mph after midnight.
+Friday: The morning may start with a chance of rain, becoming mostly sunny in the afternoon. It will be breezy with a high near 59°F (15°C), and cooler overnight with a low in the upper 20s F.
+Saturday: The day is expected to be sunny with a high in the lower 50s F.
+Weekend: Expect partly sunny skies for Sunday, with highs in the mid-50s F.
+For detailed hourly conditions and a full 10-day outlook, you can check sources like The Weather Channel or the National Weather Service.",192,10.0,26,what is the weather like in COUNTYSEAT STATE,geography,mixed,open-ended,environment,51007,VA,Amelia,Amelia Courthouse,0.5,0.0,0.4,0.0,0.0,0.1,0.0,0.0
+e32540c4-1020-4202-a91e-e4fd2d983557,1,"No, Waterloo, IA is not in a congestion charge zone.
+Congestion charging schemes are typically found in large metropolitan areas such as London and New York City, designed to reduce heavy traffic in dense urban centers. Waterloo has less overall road congestion and has focused on other methods, such as installing new traffic signals, to manage local traffic flow and emissions.
+You can check if a specific address in a city that does have a zone is included by using official government websites, such as the Transport for London postcode checker.",91,7.0,21,is COUNTYSEAT STATE in congestion charge zone,transportation,objective,binary,transportation,19013,IA,Black Hawk,Waterloo,0.1428571428571428,0.0,0.1428571428571428,0.1428571428571428,0.1428571428571428,0.4285714285714285,0.0,0.0
+506f4d37-224e-4677-9cf8-ec96549d0f91,1,"The city of Iron Mountain, Michigan, sits at an elevation of approximately 1,138 feet (347 meters) above sea level, located in Dickinson County in Michigan's Upper Peninsula.
+Elevation: 1,138 ft / 347 m.
+Location: Dickinson County, Michigan.",39,1.0,12,what is the elevation of COUNTYSEAT STATE,geography,objective,numeric,environment,26043,MI,Dickinson,Iron Mountain,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ab11d9c0-3f09-4d6b-947c-75a5960032fb,1,"Health insurance costs in Greensburg, LA, vary widely but average around $7,000/year per person in Louisiana, with potential for $0-$100s monthly premiums via ACA subsidies for lower incomes, while Medicare Advantage offers $0 premium plans for seniors. Key factors are income, age, plan type (ACA, Private, Medicare), and provider, with major players like Blue Cross/Blue Shield and UnitedHealthcare offering options.
+For Individual & Family Plans (ACA Marketplace):
+Subsidies: Many people qualify for significant tax credits, potentially reducing monthly costs to $0 for bronze or silver plans if income is low (100-150% FPL).
+Providers: Look at providers like UnitedHealthcare and Blue Cross/Blue Shield of Louisiana.
+How to Check: Visit HealthCare.gov or speak with a local agent to get personalized quotes for your income.
+For Medicare (Age 65+ in Greensburg):
+$0 Premium Options: Many Medicare Advantage (Part C) plans are available with $0 monthly premiums in Greensburg.
+Average Costs: Average monthly premiums for paying members are around $31.71, with average out-of-pocket maximums around $5,500 annually.
+General Louisiana Averages:
+State Average: About $7,047 annually per person or $28,188 for a family, but this includes all types of plans.
+To Get an Actual Price for You:
+Identify Your Need: Individual/Family ACA, Medicare, or Private?
+Use Official Sites: Go to HealthCare.gov or the Louisiana Dept of Insurance site.
+Shop Around: Compare plans from providers like Blue Cross, UnitedHealthcare, etc., available in St. Helena Parish (where Greensburg is).",246,7.0,70,how much is health insurance COUNTYSEAT STATE,health,mixed,numeric,health,22091,LA,St. Helena,Greensburg,0.5714285714285714,0.0,0.1428571428571428,0.0,0.0,0.2857142857142857,0.0,0.0
+fcf233c0-4c3d-4b95-b292-2814129ac079,0,,0,,19,how to get an expedited passport in COUNTYSEAT STATE,civics,objective,open-ended,civics,37015,NC,Bertie,Windsor,,,,,,,,
+8090935d-a0fe-400d-a28a-0b58e44f7ff0,1,"A good salary in Hampton, SC, depends on lifestyle, but a median household income around $45k-$71k, with average individual earnings around $48k-$50k, suggests that $60,000 to $80,000+ annually provides comfort for many, allowing for middle-class living with some cushion, while higher incomes ($90k+) offer significant financial ease in this area.
+What the Data Shows:
+Median Household Income: Around $45,000 - $71,000 in Wade Hampton/Hampton County.
+Average Salary (Wade Hampton): About $48,666 annually ($23.40/hr).
+Middle-Class Range (SC): $45k to $135k, with the median at $67,804.
+High Earners (Hampton County): Management roles can reach over $100k, while other skilled areas like Tech and Healthcare are strong.
+So, What's ""Good""?
+Comfortable Living: Aim for the $60k - $80k range, allowing for bills, savings, and a bit extra, especially if you have a partner contributing.
+Very Comfortable/Affluent: Earning $90k+ provides substantial financial breathing room, notes this Reddit thread.
+Meeting Basic Needs: A single income around $50k can cover essentials but offers little cushion for unexpected expenses.
+Factors Influencing Your ""Good"" Salary:
+Household Size: More people to support needs a higher income.
+Occupation: High-skill jobs (Management, Healthcare, Tech) pay significantly more.
+Cost of Living: While lower than big cities, housing costs are rising.",212,5.0,95,what is a good salary in COUNTYSEAT STATE,economy,mixed,numeric,economy,45049,SC,Hampton,Hampton,0.6,0.0,0.0,0.2,0.0,0.0,0.2,0.0
+f45686be-10ac-4eef-a8de-67a7d8f7be73,0,,0,,61,is COUNTYSEAT STATE in a state of emergency,safety,objective,binary,safety,47163,TN,Sullivan,Blountville,,,,,,,,
+daa7b497-6439-42da-87fa-a43cf6167f95,1,"To get a city of Ada, OK tax account number, you must directly contact the City of Ada Finance Department. The City of Ada manages its own local sales and use taxes.
+Phone: You can reach the Finance Director, Carl Turner, at (580) 436-6300 x303, or the main city switchboard at (580) 436-6300.
+Address: The office is located at 231 S. Townsend Street, Ada, OK 74820.
+For state-level taxes (such as state sales tax, withholding tax, and unemployment tax), you will need to register with state agencies:
+State Sales/Use Tax and Withholding Tax: Register for an account ID number with the Oklahoma Tax Commission (OTC) through the Oklahoma Taxpayer Access Point (OKTap).
+Unemployment Insurance Tax: Register with the Oklahoma Employment Security Commission (OESC) to get an employer account number.
+Federal Tax ID (EIN): Most businesses need an Employer Identification Number (EIN) from the IRS website for federal tax purposes.
+The City of Ada Finance Department can provide specific guidance on local tax obligations and the necessary registration steps.",172,12.0,17,how do I get a city of COUNTYSEAT STATE tax account number,economy,objective,open-ended,economy,40123,OK,Pontotoc,Ada,0.0833333333333333,0.0833333333333333,0.75,0.0,0.0,0.0833333333333333,0.0,0.0
+75bacc66-76dc-41b0-b50c-a413f817af5c,1,"There is no real estate transfer tax in Roseburg, Oregon, or anywhere else in the state, with one exception.
+Oregon state law generally prohibits a real estate transfer tax on property sales. The single exception is in Washington County, Oregon, which imposes its own local transfer tax. Roseburg is located in Douglas County, which does not have this tax.
+While you will not pay a specific ""transfer tax"" on a real estate transaction in Roseburg, you may still be responsible for typical closing costs, which can include various fees for recording documents and other services.",95,6.0,104,what is the transfer tax in COUNTYSEAT STATE,economy,objective,numeric,economy,41019,OR,Douglas,Roseburg,0.3333333333333333,0.0,0.5,0.0,0.1666666666666666,0.0,0.0,0.0
+2c4658e2-40de-4679-bfdc-d1f16b19741a,1,"Perryville, Arkansas, is a small town known for its quiet charm and proximity to outdoor recreation, featuring attractions like Lake Sylvia, the Heifer Ranch, and access to the Ouachita National Recreation Trail, with natural beauty from nearby Petit Jean State Park and the Fourche La Fave River providing hiking, swimming, and camping, plus community events like the annual Arkansas Goat Fest.
+Key Attractions & Activities:
+Lake Sylvia Recreation Area: A popular spot for swimming, fishing, and hiking around the lake.
+Heifer Ranch: An educational farm showcasing sustainable agriculture with gardens and livestock.
+Petit Jean State Park: Arkansas's first state park, offering Cedar Falls, caves, and trails.
+Flatside Wilderness Area: Great for hiking and exploring.
+Harris Brake Lake & Trailhead: Another local lake and trail system.
+Fourche La Fave River: A scenic river flowing through the county, forming Nimrod Lake.
+Arkansas Goat Fest: An annual event with vendors, food trucks, and goat-themed fun.
+Community Vibe:
+Perryville offers a peaceful, small-town atmosphere with local shops and a strong community feel.
+Location:
+It's the county seat of Perry County, about 45 miles northwest of Little Rock, making it accessible for weekend trips.",191,6.0,13,what is in COUNTYSEAT STATE,culture,subjective,open-ended,civics,5105,AR,Perry,Perryville,0.1666666666666666,0.0,0.5,0.1666666666666666,0.0,0.1666666666666666,0.0,0.0
+0b5c3d94-afac-4a84-abe6-2fa54e9be176,1,"To get a death certificate in Madison, VA, you can apply in-person at any Virginia DMV or local Health Dept., by mail to the VDH Division of Vital Records, or online via Virginia Department of Health's (VDH) website or VitalChek, providing ID, the application (Form DL 82), and a $12-$14 fee, with in-person usually fastest for same-day service.
+Where: Any VA DMV customer service center or local Health Department office.
+What to Bring: Valid ID (driver's license, etc.).
+Process: Complete Form DL 82 (Vital Record Application) (or get one there) and pay the fee; eligible customers get the certificate the same day.
+Where: Virginia Department of Health (VDH) Vital Records or VitalChek (official partner).
+Process: Complete the online application, upload ID, and pay; receive email/SMS updates.
+Where: VDH Division of Vital Records, P. O. Box 1000, Richmond, VA 23218.
+What to Send: Completed DL 82 form, a copy of your ID, and payment (check/money order payable to ""Treasurer of Virginia"").
+Eligibility: Must be yourself or next-of-kin (parent, spouse, child, sibling) or have a legal interest.
+Cost: Around $12-$14 per copy (fee for search, not guaranteed).
+Note: If the death was very recent (less than 30 days), you may need to get it from the city/county where it was first filed.",222,10.0,105,how to get a death certificate in COUNTYSEAT STATE,civics,objective,open-ended,civics,51113,VA,Madison,Madison,0.1,0.0,0.6,0.0,0.0,0.1,0.2,0.0
+9c5a8a18-fd8f-4f94-ac91-6a7181355a2a,1,"The average water bill in Wahpeton, ND, is generally between $31 and $35 per month based on state averages, though specific rates may vary based on usage and location. The Dakota Rural Water District has a base rate of $60 per month plus $6.50 per 1,000 gallons.
+Key Utility Details for Wahpeton, ND:
+Water Rates: $6.50 per 1,000 gallons with a $60/month base rate for the rural water district.
+Garbage Rates (City): Single-family homes are $20.62/month for 32 gallons.
+Average State Utility Cost: Average monthly water costs in North Dakota are approximately $31 to $35.
+It is recommended to contact the City of Wahpeton utilities department directly for the most accurate residential rate for your specific location.",125,3.0,93,how much is the average water bill in COUNTYSEAT STATE,economy,mixed,numeric,economy,38077,ND,Richland,Wahpeton,0.0,0.0,0.6666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0
+e2bd794d-0955-40a5-bfd9-1e0871297944,1,"Kingwood, WV, known for its Appalachian heritage, offers hearty American comfort food, diner classics (like pancakes & omelettes), deli sandwiches, and Mexican options, with a strong tie to the region's history through its famous Buckwheat Festival and the iconic West Virginia Pepperoni Roll, a staple in Mountaineer Country.
+Local Flavors & Specialties:
+Buckwheat: A major draw is the historic Buckwheat Festival, celebrating a crop once vital to the county, with buckwheat cakes being a must-try.
+Pepperoni Rolls: As WV's state food, these bread rolls filled with pepperoni are a portable, savory snack rooted in coal mining history, available throughout the area.
+Comfort Food: Expect classic diner fare, from breakfast dishes like pancakes and omelettes to hearty American meals.
+Deli & Sandwiches: Local eateries offer substantial deli sandwiches and fresh-made options.
+International Bites: You can also find Mexican food, burgers, and other international tastes in town.
+Where to Find It:
+Diners & Cafes: Spots like Down Home Diner and Monroe's Deli Style Eatery provide local charm and classic dishes.
+Festivals: The Preston County Buckwheat Festival is a prime time to taste local specialties.
+Explore: Check Visit Mountaineer Country for a list of farm-to-table, gourmet, and international dining options.",200,9.0,89,what is COUNTYSEAT STATE known for food wise,culture,subjective,open-ended,civics,54077,WV,Preston,Kingwood,0.1111111111111111,0.0,0.2222222222222222,0.1111111111111111,0.0,0.3333333333333333,0.2222222222222222,0.0
+4a91e709-6221-441d-82f5-ad14592c80c9,1,"While specific ""bad"" neighborhoods are often subjective or vary by source, Elizabethtown, NC, has areas like New Town, known for older, blighted buildings needing revitalization, and the town overall faces challenges, including a higher crime rate than average, especially for car theft, impacting general neighborhood safety perception. For the most current, localized safety info, check local police reports or community forums like Nextdoor.
+Areas of Concern (Based on Available Data):
+New Town: A historically Black neighborhood facing revitalization efforts due to abandoned properties, indicating potential economic hardship and neglect, though efforts are underway to improve it.
+Overall High Crime: NeighborhoodScout highlights Elizabethtown's elevated motor vehicle theft rates, making car security a concern across the town, potentially affecting perceptions of all neighborhoods.
+How to Find More Detailed Info:
+Local Forums: Websites like Nextdoor can offer resident discussions on neighborhood safety.
+Official Crime Maps: Search for local police department crime maps or visit sites like NeighborhoodScout for statistics by area.
+Local News: Stay updated with reports from local outlets, like the Border Belt Independent, for revitalization projects and crime trends.",179,3.0,39,what are bad neighborhoods in COUNTYSEAT STATE,safety,mixed,open-ended,safety,37017,NC,Bladen,Elizabethtown,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+95f20619-84a2-4a73-8f1b-04751c3e799b,1,"The main health system in St. Charles, MO, is SSM Health, centered around SSM Health St. Joseph Hospital - St. Charles, a full-service acute care hospital with primary care clinics, outpatient centers, and specialists serving the area, part of a larger Catholic, not-for-profit network. Other key providers include Compass Health Network, offering behavioral, primary, and dental care in Missouri.
+SSM Health (St. Joseph - St. Charles):
+Hospital: A major acute care facility (329 beds) in historic downtown St. Charles, recognized as a Primary Stroke Center and STEMI Center, notes SSM Health.
+Services: Offers comprehensive care, including emergency, surgical, cancer care, maternity, primary care, urgent care, and specialized services through its network of clinics, as seen on SSM Health's general page and SSM Health primary care page.
+Reach: A large, integrated Catholic health system serving Missouri and other states, providing convenient access through neighborhood locations, mentions SSM Health's mission page.
+Other Providers:
+Compass Health Network: A significant non-profit offering behavioral health (mental health/addiction), primary medical, and dental services in St. Charles and across Missouri, notes Compass Health Network's location pages and Compass Health Network's general page.
+In essence, SSM Health is the dominant hospital system, supplemented by other crucial providers like Compass Health for specialized and integrated care in the St. Charles area, according to the City of St. Charles website.",227,9.0,65,what is COUNTYSEAT STATE health system,health,mixed,open-ended,health,29183,MO,St. Charles,St. Charles,0.0,0.0,0.1111111111111111,0.0,0.1111111111111111,0.7777777777777778,0.0,0.0
+dd080aae-5895-475e-9f9b-1a19cdeb0188,1,"Tazewell, TN offers a potentially good real estate investment for those seeking affordability, small-town charm, natural beauty (near Norris Lake), and a slower pace, with rising home values and relatively quick sales. However, investors should balance this with local economic growth potential (which is slower than major cities) and be mindful of higher crime rates compared to national averages, making it ideal for lifestyle investors rather than rapid appreciation seekers.
+Pros for Real Estate Investment:
+Affordable Living: Tazewell boasts a low cost of living and affordable housing, making it attractive for retirees, families, and budget-conscious buyers.
+Rising Home Values: Home values have been increasing, with Zillow showing a 3.3% year-over-year rise and Homes.com noting an 11% jump in median sale prices over the last year.
+Quick Sales: Homes sell faster in Tazewell (around 47 days) than the national average (53 days).
+Lifestyle Appeal: Strong community, natural scenery, and proximity to Norris Lake and hiking trails attract outdoor enthusiasts, potentially boosting rental demand.
+Gateway to Larger Cities: Convenient highway access to Knoxville and Morristown offers access to larger job markets.
+Cons & Considerations:
+Slower Economic Growth: While peaceful, the area lacks the rapid economic development of larger Tennessee cities, which could limit high-end appreciation.
+Crime Rates: Both Nextdoor and NeighborhoodScout data indicate Tazewell's crime rates (property and violent) are higher than both state and national averages, a key factor for rental property owners.
+Niche Market: It's a lifestyle market focused on rural living, not a booming tech or business hub, so investment returns might be steadier and less dramatic.
+Verdict:Tazewell, TN is a solid choice for investors targeting long-term rentals, vacation homes (due to lake access), or buying for personal use in a low-cost, scenic area. It's less suited for quick flips or high-growth speculative plays. Due diligence on specific properties and understanding the local rental market for tourism versus long-term tenants is crucial.",327,8.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,47025,TN,Claiborne,Tazewell,0.625,0.0,0.0,0.0,0.0,0.125,0.25,0.0
+a9828820-a131-4ea9-99b3-032d1785de39,1,"The best area to stay in Cambridge, OH depends on your focus: Downtown for walkability to shops, glass history (National Museum), and dining (The Forum), or near I-70 for budget-friendly chains (Holiday Inn Express, Quality Inn, Baymont) and easy highway access; for nature, look near Salt Fork State Park for lodges/cabins, or consider charming Bed & Breakfasts like the Colonel Taylor Inn for a quieter, historical vibe.
+Downtown Cambridge: Stay here for walkability to Dickens Victorian Village, the National Museum of Cambridge Glass, boutiques, and eateries like The Forum.
+Hotel Corridor (I-70): This area offers many chain hotels with amenities like free breakfast and parking, ideal for road trippers.
+Near Salt Fork State Park: This is your base for hiking, boating, and outdoor recreation, with options like the Salt Fork Lodge and Conference Center or Timberline Cabins for a rustic experience.
+B&Bs & Unique Stays: For a cozier feel, try the Microtel Inn & Suites by Wyndham Cambridge or a local B&B like the Colonel Taylor Inn B&B.
+Tip: Use the I-70 corridor hotels for easy access to everything, but if nature or history is your main goal, book closer to Salt Fork or Downtown.",200,10.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,39059,OH,Guernsey,Cambridge,0.8,0.0,0.0,0.0,0.0,0.1,0.1,0.0
+5dd3a47e-ddb2-4347-99a8-5758ed77cdda,1,"There isn't just one ""Durango CO church,"" but many, representing diverse denominations like Presbyterian (First Presbyterian, Providence PCA), Baptist (First Baptist, Frontier Independent Baptist, Reformed Gospel Church), Catholic (Sacred Heart, St. Columba), Vineyard (Durango Vineyard), Lutheran (Christ the King), and non-denominational/other Christian groups (Church of Christ, LDS, SDA), so you need to specify which one you mean.
+Here are some examples of churches and their affiliations:
+First Presbyterian Church: Presbyterian.
+First Baptist Church of Durango: Baptist.
+Sacred Heart Catholic Church / St. Columba: Catholic.
+Durango Vineyard Church: Part of the Vineyard USA movement (Protestant/Evangelical).
+Gospel Church Durango: Reformed Baptist (Calvinistic).
+Frontier Baptist Church: Independent Baptist.
+Christ the King Lutheran Church: Lutheran (ELCA).
+Durango Church of Christ: Non-denominational Christian (Church of Christ).
+The Church of Jesus Christ of Latter-day Saints: LDS.
+Durango SDA Church: Seventh-day Adventist.
+To find the denomination, you'll need to search for the specific church's name in Durango.",158,13.0,71,what denomination is the COUNTYSEAT STATE church,civics,objective,open-ended,civics,8065,CO,Lake,Durango,0.1538461538461538,0.0,0.0,0.0,0.0,0.8461538461538461,0.0,0.0
+483097fb-4478-472f-86f2-8828005773bb,1,"Towanda, PA, is important to U.S. history as an early pioneer settlement (1784) and a key Bradford County hub, known for its Native American roots, early French refugee settlement (French Azilium), thriving 19th-century lumber/industrial base (silk mills, factories), and well-preserved historic downtown with Greek Revival/Queen Anne architecture, showcasing early American town development along the Susquehanna River.
+Native American Heritage: The name ""Towanda"" comes from Native Americans who saw the area as a beautiful place to bury their dead, with the first agriculture happening here.
+Pioneer Arrival: Settled by pioneers seeking farmland in the 1780s, it was one of the first townships in the region, with Rudolf Fox building a cabin in 1770.
+French Refugees: Between 1793-1803, French refugees established a settlement (French Azilium) near Towanda, with rumors that Marie Antoinette was to join them.
+Revolutionary War: The area saw skirmishes, like the one where Col. Hartley's troops first encountered Indians near the Lycoming River, influencing the Sullivan Expedition route.
+Lumber & Industry: Towanda grew as a lumber town and later boasted flour mills, silk mills, foundries, and manufacturers of furniture, toys, and cut glass.
+Historic Architecture: Its economic boom (1830-1900) left a legacy of well-preserved Greek Revival, Queen Anne, and Classical Revival buildings, with the Towanda Historic District on the National Register.
+Bradford County Seat: Became the county seat in 1812, with the impressive Bradford County Courthouse dominating the skyline.
+Bradford County Courthouse: A monumental Beaux Arts structure.
+Hale Opera House: A significant cultural landmark from the late 19th century.
+French Azilium Site: A testament to the French refugee era.
+In essence, Towanda offers a tangible look at early American frontier life, industrial growth, and cultural layers, making it a vital spot in Pennsylvania's historical tapestry.",295,7.0,54,why is COUNTYSEAT STATE important to us history,culture,subjective,open-ended,civics,42015,PA,Bradford,Towanda,0.1428571428571428,0.0,0.5714285714285714,0.0,0.0,0.0,0.0,0.2857142857142857
+e7653459-bdcf-45f2-85da-47b3a0c516db,1,"For things to do in Brockton today (December 19, 2025), you can explore local history at the Brockton Historical Society, see art at the Fuller Craft Museum, bowl/play games at Westgate Lanes, visit parks like D.W. Field Park, or check Eventbrite for community events like live music or craft fairs, especially focusing on Haitian cultural events given the large community there. Consider nearby Boston options like free walking tours if Brockton is quiet, but focus on local spots like the iconic Rocky Marciano Statue for a quick, free activity.
+Indoor & Artsy Options:
+Fuller Craft Museum: See contemporary craft and design exhibits.
+Westgate Lanes: Bowling, arcade, pub & grill for some fun.
+Brockton Historical Society: Learn about the city's ""City of Champions"" past.
+Outdoor & Active Options (Weather Permitting - check forecast!):
+D.W. Field Park: Walk, explore, or visit the Ames Mansion.
+Rocky Marciano Statue: Pay homage to the boxing legend.
+Oak Hill Conservation Land: Enjoy some natural scenery.
+Community & Local Flavor:
+Check Eventbrite/City Site: Look for local comedy, live Haitian music (Kompa), or holiday events happening today.
+Local Eateries: Grab a bite at places like Joe Angelo's Cafe or explore Haitian restaurants for authentic food.
+Quick Tips:
+Check for Events: Eventbrite and the City of Brockton Events Page for day-of happenings.
+Weather: Today's weather is partly cloudy and cool (35°/24°), so bundle up for outdoor activities.",232,9.0,6,COUNTYSEAT STATE poor things to do today,events,subjective,open-ended,civics,25023,MA,Plymouth,"Brockton, Plymouth",0.4444444444444444,0.0,0.2222222222222222,0.1111111111111111,0.0,0.0,0.1111111111111111,0.1111111111111111
+138547f3-a21f-45d5-bb89-b3971aa6feef,1,"Havre, Montana, is a regional hub on the Hi-Line known for its rich history, including the unique underground city, and its access to outdoor recreation, with nearby attractions like Fort Assinniboine, the Wahkpa Chu'gn Archaeological Site, and Beaver Creek Park. Key features include Montana State University–Northern, Northern Montana Hospital, the BNSF Railway, and local casinos, all set amidst the plains and served by U.S. Highways 2 and 87.
+Historical & Cultural Attractions
+Havre Beneath the Streets: Explore the remnants of the original town's underground world of saloons, brothels, and opium dens.
+Fort Assinniboine: A well-preserved 19th-century military fort offering historical insights.
+H. Earl Clack Memorial Museum: Showcases local history, archaeology, and paleontology.
+Wahkpa Chu'gn Archaeological Site: A sacred buffalo jump site for Native Americans.
+Outdoor Recreation
+Beaver Creek Park: A large county park for hiking, fishing, camping, and picnicking.
+Fresno Reservoir: Popular for boating, fishing, and scenic views.
+Milk River: Runs through town, offering natural beauty.
+Economy & Education
+Major Employers: Northern Montana Hospital, MSU-Northern, and the BNSF Railway.
+Education: Home to Montana State University–Northern.
+Getting Around
+Located on U.S. Highway 2 (the main street) and the northern terminus of U.S. Highway 87, near the Canadian border.",207,4.0,13,what is in COUNTYSEAT STATE,culture,subjective,open-ended,civics,30041,MT,Hill,Havre,0.25,0.0,0.0,0.0,0.0,0.5,0.0,0.25
+14a59b92-ba13-4715-a222-3e79ac15ace6,1,"Yes, Saint Peter Public Schools, in St. Peter, Minnesota, likely has school today (December 18, 2025) as it's a regular school day before winter break, but you should check the official district calendar for any specific closures or early dismissals for that date, as schools generally run through December.
+To get the definitive answer:
+Visit the official Saint Peter Public Schools website: stpeterschools.org.
+Look for their ""Calendar"" or ""News"" section for announcements about today's schedule.",78,3.0,50,does COUNTYSEAT STATE have school today,education,objective,binary,education,27103,MN,Nicollet,St. Peter,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333,0.0
+06f1644f-b8ff-4e3b-8fb7-1a97aa733ff7,1,"To start a business in Holdrege, NE, research your idea, create a solid business plan, and use local resources like the Phelps County Development Corp (PCDC) and the Holdrege Area Chamber of Commerce for guidance; then, register with the state via the Nebraska Secretary of State, get an EIN from the IRS, secure funding, and obtain necessary licenses, with support available from state programs and organizations like the NBDC.
+Market Research: Understand your local customer and competition in Holdrege.
+Business Plan: Detail your goals, strategies, and financial projections.
+Get Help: Contact PCDC, SCEDD, NBDC (Nebraska Business Development Center), or the Chamber for free consultations and resources.
+Business Name: Choose and register your business name.
+Business Structure: Decide on Sole Proprietorship, Partnership, LLC, or Corporation.
+Register LLC: File a Certificate of Organization with the NE Secretary of State (online fee: $100).
+EIN: Apply for an Employer Identification Number from the IRS.
+State Tax ID: Determine if you need one from Nebraska.
+Licenses/Permits: Check with the city/county and state for required local and industry-specific licenses.
+Funding: Explore options like SBA loans or local grants.
+Bank Account: Open a dedicated business bank account.
+Accounting: Set up a system for tracking finances.
+Insurance: Get appropriate business insurance.
+Phelps County Development Corp (PCDC): Offers business education and planning assistance.
+Holdrege Area Chamber of Commerce: A valuable local network.
+SourceLink Nebraska: A statewide platform to find business resources.",235,11.0,41,how to start a business in COUNTYSEAT STATE,economy,objective,open-ended,economy,31137,NE,Phelps,Holdrege,0.0,0.0,0.1818181818181818,0.1818181818181818,0.0,0.3636363636363636,0.2727272727272727,0.0
+f46d715d-545a-4d97-aa94-19dc855965e2,1,"Howard, Kansas, is a very small town (around 600 people), so it doesn't have distinct ""bad parts"" like a large city; instead, it's generally considered a quiet, small-town Americana community, but like many rural areas, it faces economic challenges like a higher poverty rate (23.25%), with limited local industry beyond education, retail, and healthcare, though it offers historic charm and affordability.
+What to Consider About Howard:
+Small-Town Feel: It's a tight-knit community, not one with large, distinct high-crime neighborhoods.
+Economic Factors: With a relatively high poverty rate and small population, challenges often revolve around limited jobs and resources, rather than urban blight or violence.
+Safety: Crime data often highlights larger cities as having issues (like nearby Coffeyville or Independence), while Howard is more about quiet living.
+Focus on Charm: It's known for nostalgic downtown, drive-in food, and a historic atmosphere.
+In essence, instead of ""bad parts,"" think of it as a quiet, small Kansas town with typical small-town economic struggles, but a generally safe, community-focused environment.",178,3.0,82,what parts of COUNTYSEAT STATE are bad,safety,subjective,open-ended,safety,20049,KS,Elk,Howard,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0
+f60c8a4b-4110-4abc-b23f-05dc9716a28c,1,"Yes, Roswell, Georgia, uses traffic cameras, but primarily for school zone speed enforcement (Photo Speed Enforcement) around schools like near Vickery Mill Elementary, not for general intersection red-light running, as they stopped their traditional red-light camera program years ago (around 2012). These school zone cameras capture speeding drivers during specific hours, issuing warnings first, then fines, focusing on pedestrian safety rather than intersection violations.
+School Zones:: Roswell actively uses speed cameras in school zones, especially around Alpharetta Street near Vickery Mill Elementary, to slow drivers down.
+Focus on Speed:: The cameras target drivers going 10+ mph over the limit in school zones during operating hours (one hour before/after school).
+Warnings & Citations:: They issue warnings initially, then send $75 citations via mail for violations.
+No General Red-Light Cameras:: The city previously used red-light cameras at intersections but discontinued them, shifting focus to school safety with speed cameras.",151,3.0,111,does COUNTYSEAT STATE have red light cameras,transportation,objective,binary,transportation,35005,NM,Chaves,Roswell,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0
+4f048591-07c3-4059-b385-4f9431cbea17,1,"There's no single ""best,"" but for Edmonton, KY, John Caudill stands out as a former Federal Prosecutor with extensive experience in state and federal cases, praised for aggressive defense strategies, alongside firms like Foreman Watson Holtrey, LLP. Key factors in choosing include specific case needs, attorney's experience (federal vs. state, type of crime), local reputation (reviews, bar associations), and personal connection.
+Top Contenders & Highly-Rated Options:
+John Caudill (Caudill Law Firm): Unique as the only former Federal Prosecutor in the region, specializing in complex state & federal cases with extensive trial experience.
+Foreman Watson Holtrey, LLP: Criminal defense lawyers serving the area (based in Glasgow), offering free consultations and listed with Super Lawyers.
+Other Local Lawyers: You can find more options on sites like Justia and Avvo.
+How to Choose Your ""Best"" Attorney:
+Experience Matters: Look for attorneys with specific experience in the type of crime you're facing (e.g., federal crimes, drug offenses, violent crimes).
+Federal vs. State: If your case is federal, an attorney like John Caudill, with federal prosecution & defense history, offers a distinct advantage.
+Reputation & Reviews: Check sites like FindLaw, Yelp, and Avvo for client feedback.
+Consultations: Many firms offer free initial consultations, allowing you to discuss your case and assess their approach.
+Trust: Choose someone you trust to provide an aggressive defense and protect your rights.",223,9.0,84,who is the best criminal defense attorney in COUNTYSEAT STATE,civics,subjective,open-ended,civics,21169,KY,Metcalfe,Edmonton,0.4444444444444444,0.0,0.0,0.0,0.0,0.4444444444444444,0.1111111111111111,0.0
+a7d69ea1-a199-4b2e-bb3a-2e3ca83a6045,1,"The ""best"" area in Blairsville, GA, depends on your preference: for deep nature immersion, stay near Vogel State Park (cabins, hiking) or Choestoe Falls (mountain views, community); for resort amenities, consider Paradise Hills Winery or Copperhead Lodge; or choose quiet spots like Loftis Mountain/Bradley for peaceful mountain views, while areas near the Nottely River offer water access.
+For Nature Lovers & Hikers:
+Vogel State Park: Stay in historic CCC cabins or camp right in the park for immediate access to Lake Trahlyta, waterfalls, and hiking trails at the base of Blood Mountain.
+Choestoe Falls: A community known for spectacular mountain views, quiet charm, and friendly locals, great for hardcore nature enthusiasts.
+Loftis Mountain/Bradley: Offers peaceful, scenic mountain views and a tranquil environment, perfect for outdoor activities.
+For Amenities & Relaxation:
+Paradise Hills, Winery Resort & Spa: A popular choice with a resort, spa, winery, and great reviews.
+Copperhead Lodge & Resort: Offers cabins, a restaurant, a seasonal pool, and is great for couples or those wanting more luxury.
+The Ridges Resort on Lake Chatuge: While technically in Hiawassee, it's a nearby lakeside option for tranquil family fun.
+For Secluded & Quaint Stays:
+Misty Mountain Inn & Cottages / Your Home in the Woods B&B: Excellent B&B options for a cozy, quiet stay.
+Cabins at Highland Falls: Nestled in the forest, bordering the Chattahoochee National Forest for a secluded feel.
+Near the River:
+Sunrise River Cabins / Nottely River Campground: Ideal if you want to be close to the Nottely River for water activities.
+To Decide:
+If hiking is your priority: Vogel State Park or Choestoe area.
+If you want relaxation & amenities: Paradise Hills or Copperhead Lodge.
+For a quiet, romantic escape: A B&B or secluded cabin in areas like Loftis Mountain.",289,12.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,13291,GA,Union,Blairsville,0.3333333333333333,0.0,0.0833333333333333,0.0833333333333333,0.0,0.3333333333333333,0.1666666666666666,0.0
+ce696581-7c16-40b4-b432-a90d7e4590aa,1,"To get a free library card for Onslow County (serving Jacksonville, NC), apply online or in person at a branch (Jacksonville, Richlands, etc.) with a valid photo ID (like a driver's license) and proof of current address (like a recent utility bill) to prove you're an Onslow County resident, property owner, or employee, then pick up your card within 7 days to get full access to books, digital resources, and apps like Libby.
+Here's how to get your Onslow County Public Library Card:
+Start Online (Optional, but Recommended):
+Gather Your Documents: You'll need:
+Visit a Branch:
+Who's Eligible for Free Cards?
+Residents of Onslow County.
+Property owners in the county.
+People who work in Onslow County.
+Students in Onslow County schools get special digital access (LEAP program).
+What You Get:
+Access to physical books and materials.
+Digital resources and databases via the Libby app (for e-books/audiobooks) and others.
+Cards are valid for 3 years and renewable if your account balance is zero.",169,6.0,75,how to get a free library of COUNTYSEAT STATE card,civics,objective,open-ended,civics,37133,NC,Onslow,Jacksonville,0.0,0.1666666666666666,0.8333333333333334,0.0,0.0,0.0,0.0,0.0
+2ed865f6-25cd-40af-8608-ad004589eaff,1,"To become a teacher in Poplarville, MS, you need a bachelor's degree from an approved program, completion of a teacher prep program (including student teaching), passing scores on required Praxis exams (Core, PLT, Subject Area), and a successful background check, all submitted via the MECCA system for your Mississippi license, ideally starting with a Class A license.
+Education & Program:
+Exams:
+Application (MECCA):
+Apply directly through the Poplarville Separate School District (PSSD)'s website on Frontline, showing your qualifications.
+Pearl River Community College (PRCC) offers great starting points for education majors in the area, guiding students to 4-year degrees.
+Your path involves education, exams, and a formal online application through the state's MECCA system to get your license, followed by applying to districts like PSSD.",127,10.0,109,how to become a teacher in COUNTYSEAT STATE,education,objective,open-ended,education,28109,MS,Pearl River,Poplarville,0.5,0.2,0.1,0.0,0.0,0.0,0.2,0.0
+9c6385d0-c2d4-487c-a58f-70873088c815,1,"Crime in Orange, VA, is generally considered relatively low compared to national averages, especially in Orange County overall, but the Town of Orange sees higher property crime and some violent crime concerns, with residents noting issues like theft, though it's often seen as a safe, small-town environment with strict local policing on traffic. While Orange County's rates are well below Virginia's average, the town itself has higher crime per capita than similar-sized communities, primarily driven by property offenses like theft, say NeighborhoodScout and Nextdoor.
+Key Takeaways:
+Overall Safety: Orange County is safer than the state and national average, but the Town of Orange stands out with higher rates than other small towns.
+Property Crime Focus: The main issue appears to be property crime (theft, burglary), not violent crime, with some residents discussing petty theft.
+Violent Crime: Violent crime rates are lower than national averages, though specific stats show some assault activity.
+Community Perception: Locals generally view Orange as a safe place, with concerns often centered on traffic enforcement rather than violent threats.
+Statistics & Details (Context is Key):
+Orange County (County-Wide): Lower crime than state/national averages (2022 data).
+Town of Orange: Higher crime than national average overall, with a 1 in 64 chance of being a victim of property or violent crime, per NeighborhoodScout.
+Violent Crime: Low rates for murder/robbery; assault and rape rates vary but are generally not extreme.
+Property Crime: The biggest concern, especially theft and burglary.
+In essence, Orange offers a small-town feel with lower violent crime but requires awareness for property crime, making it generally safe but with specific areas to watch out for, especially property-related incidents.",280,8.0,44,COUNTYSEAT STATE how bad is crime,safety,mixed,open-ended,safety,51137,VA,Orange,Orange,0.75,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+e921b621-72da-43eb-bece-95013cf6d341,1,"In Booneville, MS, it is currently 48°F with cloudy skies. Winds are from the south at 7 mph, and the humidity is 78%.
+Daytime: Expect light rain and a high temperature of around 61°F. The chance of precipitation is high, around 68-93%.
+Tonight: Skies are expected to clear up, with a low temperature dropping to around 33°F.
+For the most up-to-date information, you can check detailed forecasts on the National Weather Service website or The Weather Channel.",83,6.0,26,what is the weather like in COUNTYSEAT STATE,geography,mixed,open-ended,environment,28117,MS,Prentiss,Booneville,0.6666666666666666,0.0,0.1666666666666666,0.0,0.0,0.1666666666666666,0.0,0.0
+85e803de-e257-4832-b863-db0aa6d893fb,1,"There isn't one single ""best"" academy in Pawhuska, OK, as it depends on what you value (test scores, student life, specific programs), but Pawhuska High School and its elementary/middle counterparts within Pawhuska Public Schools offer a local K-12 experience with student reviews mentioning good teachers and extracurriculars, while nearby options like Tulsa's top-ranked schools (e.g., Classen, Harding) excel statewide but aren't in Pawhuska. For Pawhuska, consider Indian Camp Elementary or Pawhuska Elementary, then the middle/high schools, focusing on the public system.
+For Local Pawhuska Schools:
+Pawhuska Public Schools (K-12): This district includes Pawhuska Elementary, Middle, and High Schools.
+Elementary Options: Both Pawhuska Elementary School and Indian Camp Elementary School are part of the district, with Indian Camp Elementary also listed as a strong choice by U.S. News.
+For Top-Ranked Statewide Options (Near Pawhuska):
+If rankings are paramount, schools in larger cities like Tulsa often lead state lists, such as Classen High School of Advanced Studies or Harding Charter Preparatory High School in Oklahoma City, but these are not in Pawhuska.
+How to Decide:
+Visit: Tour Pawhuska Public Schools to see the environment firsthand.
+Talk to Parents: Connect with local families for personal insights.
+Check Scores: Look at Niche or GreatSchools for data on test performance.",216,6.0,55,which COUNTYSEAT STATE academy is the best,education,mixed,open-ended,education,40113,OK,Osage,Pawhuska,0.5,0.0,0.0,0.1666666666666666,0.3333333333333333,0.0,0.0,0.0
+9c085a62-7d55-4656-8a01-d576c9ee631d,1,"Health insurance costs in Fond du Lac, WI, vary widely by plan (ACA, employer, Medicare), but expect individual ACA premiums from around $100-$600+/month before subsidies, with average unsubsidized rates around $485-$692/month for various carriers like Anthem or Common Ground. For seniors, Medicare Advantage plans in Fond du Lac County can average just over $20/month with low out-of-pocket costs, while state employees see specific rates like $1,000+ monthly.
+For Individual & Family Plans (ACA Marketplace):
+Average unsubsidized rates: Range roughly from $485 (MercyCare) to $692 (Quartz) monthly for individual plans across Wisconsin, depending on the carrier and plan tier (Silver, Gold, etc.).
+After Subsidies: The average Wisconsin resident pays about $167/month for 2025 plans after subsidies, with many paying under $10/month.
+For Seniors (Medicare):
+Medicare Advantage: In Fond du Lac County, the average monthly premium for 2026 plans is low, around $20.18, with an average out-of-pocket max of $6,390.
+For State Employees (City of Fond du Lac Example):
+Employees pay a portion (e.g., 20%), with the City covering the rest (80%). Specific rates depend on the plan chosen, like Aspirus or Common Ground.
+Key Factors Influencing Cost:
+Subsidies: Income-based federal tax credits can dramatically lower costs on the ACA Marketplace.
+Plan Type: HMO, PPO, Deductibles, Out-of-Pocket Maximums (MOOP).
+Carrier: Providers like Anthem, Dean, HealthPartners, Quartz have different pricing structures.
+Age & Location: Affects rates, especially on individual and Medicare plans.
+To get an accurate quote for your situation, use HealthCare.gov or contact local providers like Anthem Wisconsin or local brokers.",266,6.0,70,how much is health insurance COUNTYSEAT STATE,health,mixed,numeric,health,55039,WI,Fond du Lac,Fond du Lac,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0
+218b50c6-e61f-428f-9985-09ba686d3c75,1,"In Big Timber, MT, the local Transfer Site accepts cardboard, #1 & #2 plastic bottles, tin cans, e-waste, steel, copper, brass, lead batteries, used car oil, and antifreeze, but not hazardous materials or liquids; Republic Services offers bulk pickup for electronics/bulbs, while nearby options like Green Technology Solutions in Absarokee take batteries/electronics and Tri County handles more metals and cardboard for the region.
+Metals: Steel, copper, brass, tin cans, large appliances (washers, dryers).
+Plastics: #1 PETE (soda/water bottles) and #2 HDPE (milk jugs, detergent bottles).
+Paper: Cardboard, newspaper, mixed paper (junk mail, magazines).
+Automotive: Lead batteries (car/truck), used car oil, antifreeze (only).
+E-Waste: Electronics (specific bins available).
+Yard Waste: Grass and leaves for the compost pile.
+Hazardous materials, paint, oil (other than car oil), chemicals, liquids, old medications, medical waste, CRT monitors/TVs, and bulk scrap metal/large appliances (though large appliances are accepted for recycling).
+Republic Services (Big Timber): Handles bulk waste (mattresses, fridges) and yard debris pickup, plus electronics/bulbs.
+Green Technology Solutions (Absarokee): Accepts batteries and electronics.
+Tri County (Regional): Buys scrap metal (steel, copper, brass, etc.) and offers commercial cardboard recycling.
+Pro-Tip: Always rinse containers, flatten cardboard, and remove lids before recycling, and check the Big Timber Transfer Site's website for current rules.",214,7.0,11,what can be recycled in COUNTYSEAT STATE,civics,objective,open-ended,environment,30097,MT,Sweet Grass,Big Timber,0.1428571428571428,0.0,0.4285714285714285,0.0,0.0,0.4285714285714285,0.0,0.0
+a7ecb0fe-7b30-4cc2-a709-d3f512db9638,0,,0,,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,17147,IL,Piatt,Monticello,,,,,,,,
+1b7dd86d-7b61-46fd-b702-4a8b540fe989,1,"Living in Hayes Center, NE is generally affordable, especially for housing, with low home prices (often under $100k) and modest rental costs, such as around $1,000-$1,300 for 1-2 bedroom apartments, though options are limited in this small town of ~224 people, aligning with Nebraska's lower-than-average cost of living, particularly for housing.
+Housing Costs (Rent)
+1-Bedroom: Around $1,067/month on average.
+2-Bedrooms: Averages about $1,232 (apartments) to $1,297 (homes) monthly.
+3-Bedrooms: Around $1,243 (apartments) to $1,650 (homes) monthly.
+Housing Costs (Buying)
+Home prices are very low, with some listings under $35,000, and estimated values for homes in town often below $100,000-$150,000, notes Realtor.com and Realtor.com.
+Overall Cost of Living
+Lower Than Average: Nebraska's cost of living, especially housing and utilities, is significantly lower than the national average.
+Limited Data: Specific monthly budgets for groceries, transport, etc., are scarce for Hayes Center, but the low housing suggests overall costs are low.
+In Summary: Expect significantly lower housing expenses than the national average, with a small but functional rental market and very inexpensive home purchase opportunities, making it a budget-friendly place to live, notes ApartmentHomeLiving.com.",206,8.0,2,how much would it cost to live in COUNTYSEAT STATE,economy,mixed,numeric,economy,31085,NE,Hayes,Hayes Center,0.625,0.0,0.0,0.0,0.0,0.25,0.0,0.125
+bdb5c9cc-31cf-4363-932e-5a919eb02f55,1,"To become a 911 Dispatcher in or near Franklin, IN, you'll generally need a High School Diploma/GED, strong typing/computer skills (around 35 WPM), and excellent communication, with the Indiana State Police (ISP), Johnson County 911, or Franklin County (PA, but similar process) requiring certifications like CPR and Emergency Medical Dispatch (EMD) post-hire, plus passing background checks, skills tests (like CritiCall), and interviews, so check local postings on Johnson County 911 and IN.gov for Franklin, IN opportunities.
+General Requirements & Skills
+Education: High School Diploma or GED.
+Skills: Typing (35-40 WPM), computer proficiency, strong listening, clear verbal & written communication, map reading.
+Traits: Ability to stay calm under pressure, confidentiality, integrity, teamwork.
+Indiana-Specific Steps
+Meet Basic Criteria: Be at least 18, have a diploma, and strong English skills.
+Check for Openings: Look on Johnson County 911's Facebook Page for Franklin, IN (Johnson County) jobs or IN.gov job boards.
+Apply: Submit applications online or in person as directed.
+Pass Assessments: Expect typing tests, written exams, CritiCall (communication/multitasking), interviews, and background checks.
+Get Certified (Post-Hire): Indiana often requires EMD (Emergency Medical Dispatch) and CPR certifications within a few months of starting.
+Key Local Contacts/Resources
+Johnson County 911: Monitor their Facebook page for specific job postings in Franklin, IN.
+Indiana State Police: Offers dispatcher roles with specific state requirements.
+Pro-Tips
+Practice Typing & Listening: Essential skills for the job.
+Be Prepared for Rigorous Testing: The hiring process is thorough, including vision/hearing and psychological exams.",251,9.0,110,how to become a 911 dispatcher in COUNTYSEAT STATE,civics,objective,open-ended,civics,18081,IN,Johnson,Franklin,0.4444444444444444,0.0,0.4444444444444444,0.0,0.0,0.0,0.1111111111111111,0.0
+a0825ad7-209f-41bf-bda3-0b2be7caa198,1,"Living in Valdosta, GA, is generally more affordable than the national average, primarily driven by significantly lower housing costs (rent and buying), with overall expenses around 8% to 19% lower, though utilities can be slightly higher. Expect lower costs for groceries, healthcare, and transportation, making it an inexpensive place to live, with a single person needing roughly $2,000/month and a family of four around $4,300/month for basic expenses.
+Overall: 8-19% lower.
+Housing: 19-22% lower (Rent: ~$900-$1,300/mo; Home Price: ~$425k).
+Groceries: ~5% lower.
+Utilities: ~3-4% higher.
+Healthcare: ~9-10% lower.
+Transportation: ~1-2% lower.
+Rent: Around $900 - $1,300.
+Utilities: ~$210.
+Groceries: ~$300.
+Total (approx): ~$1,410+ (excluding personal spending/childcare).
+Housing is Key: Housing savings are the biggest factor, with rents and home prices well below the national average.
+Utilities Higher: Expect to pay slightly more for electricity, water, etc., than the average US city.
+Lower Everyday Costs: Groceries, doctor visits, and prescriptions are generally cheaper.
+Family Needs: A family of four might spend around $4,300 monthly for essentials, but costs vary greatly with family size and lifestyle.",189,7.0,2,how much would it cost to live in COUNTYSEAT STATE,economy,mixed,numeric,economy,13185,GA,Lowndes,Valdosta,0.8571428571428571,0.1428571428571428,0.0,0.0,0.0,0.0,0.0,0.0
+da275c70-7dce-4bad-852b-cd29428279d6,1,"In Oklahoma, a Self-Defense Act (SDA) handgun license (permit) involves two primary fees: one for the state and a smaller processing fee for the local sheriff's office.
+These fees are standard across the state and must be paid to the Oklahoma State Bureau of Investigation (OSBI) via a money order or cashier's check.
+5-year license: \$100.00
+10-year license: \$200.00
+You apply through your county sheriff's office. In Sayre, this would be the Beckham County Sheriff's Office. Most county offices charge a flat \$25 processing and fingerprinting fee. The exact amount and accepted payment methods for the local fee should be confirmed with the Beckham County Sheriff's Office, but it is typically cash (exact change), a money order, or cashier's check.
+Training Course: You must provide proof of training from an SDA-certified instructor, which involves a separate course fee paid to the instructor.
+Passport Photos: You need two recent, professional passport-style photos. The cost of these depends on where you get them taken.
+For the most accurate and current local payment information, it is recommended to contact the Beckham County Sheriff's Office directly and review the official OSBI SDA Application Instructions.",204,8.0,107,how much is a gun permit in COUNTYSEAT STATE,economy,objective,numeric,economy,40009,OK,Beckham,Sayre,0.0,0.0,0.75,0.0,0.0,0.25,0.0,0.0
+7da7ccb6-fd1f-4a44-9ef9-ca7c325b3c05,1,"Yes, students in Grove Hill, AL, attending Clarke County Schools likely have school today, Thursday, December 18, 2025, as their calendar shows Christmas Holidays starting December 23rd or 24th, but to be certain, check the Clarke County School District website or their Facebook page for any last-minute changes.
+Key Details:
+Normal Schedule: School usually runs until just before Christmas break.
+Christmas Break: Starts around December 23-24, with students returning in early January.
+Today's Weather: Expect scattered thunderstorms in Grove Hill today, with a high of 67°F and a 75% chance of rain during the day, which might affect outdoor activities but typically doesn't close schools unless severe.
+Recommendation:
+Check the official Clarke County School District website (clarkecountyschools.org) or their Facebook page (facebook.com/p/Clarke-County-Schools-100063640206368) for immediate alerts.",137,4.0,50,does COUNTYSEAT STATE have school today,education,objective,binary,education,1025,AL,Clarke,Grove Hill,0.0,0.5,0.0,0.0,0.0,0.25,0.25,0.0
+8031ee00-8a7b-4536-b782-445f797c607a,1,"Galesburg, IL has many churches from various denominations, including First United Methodist, First Lutheran, First Presbyterian, Central Congregational (UCC), Galesburg Catholic (Corpus Christi, Immaculate Heart of Mary), and various Baptist, Covenant, and Seventh-Day Adventist churches, so there isn't just one single denomination for ""the"" Galesburg church.
+Here are a few examples:
+Methodist: First United Methodist Church (FUMC)
+Lutheran: First Lutheran Church (ELCA)
+Congregational: Central Congregational Church (United Church of Christ)
+Presbyterian: First Presbyterian Church
+Catholic: Galesburg Catholic Community (Corpus Christi, Immaculate Heart of Mary)
+Baptist: Bethel Baptist Church and Harmony Baptist Church
+Covenant: Galesburg Covenant Church
+Seventh-Day Adventist: Galesburg Parkview SDA Church
+To find a specific church's denomination, it's best to search for that church's name, like ""First Christian Church Galesburg denomination,"" to see which faith tradition it belongs to.",136,15.0,71,what denomination is the COUNTYSEAT STATE church,civics,objective,open-ended,civics,17095,IL,Knox,Galesburg,0.0,0.0,0.0,0.0,0.0,0.5333333333333333,0.4,0.0666666666666666
+c6b71902-67ce-403a-99db-11dc7619af4e,1,"There aren't prominent private schools listed specifically in Seymour, TX; the main educational choice is the strong Seymour Independent School District (ISD), which serves K-12 with high ratings, great graduation rates, and CTE/dual-credit options, while the ""best"" private schools in Texas are in major cities (Dallas, Houston) and serve different needs, so your best bet is Seymour ISD or exploring nearby towns if a private option is essential.
+Seymour ISD Highlights (Public Option):
+Strong Performance: A-rated district with 100% graduation, high CCMR (College, Career, Military Ready) scores.
+Resources: Offers 30+ CTE (Career & Technical Education) courses and 11 dual-credit courses.
+Community Focus: Home of the Panthers, serving the local community.
+Finding Private Schools (If Necessary):
+Check Nearby Cities: For top private schools, you'll likely need to look at larger hubs like Wichita Falls or Dallas/Fort Worth, as Seymour is a smaller community.
+Use School Finders: Websites like Niche.com and GreatSchools.org can help you search for options in surrounding areas.
+Conclusion: Seymour ISD seems to be the primary and highly-rated educational choice for families in Seymour, TX, offering excellent public school resources.",191,7.0,48,what is the best private school in COUNTYSEAT STATE,education,mixed,open-ended,education,48023,TX,Baylor,Seymour,0.4285714285714285,0.4285714285714285,0.0,0.0,0.0,0.1428571428571428,0.0,0.0
+8c1da10e-216a-44e9-8d41-ea7833a90953,1,"For family law matters in East Greenwich, RI, you file with the Rhode Island Family Court, typically at the Kent County Courthouse in Warwick, where you'll submit forms (like divorce complaints, custody petitions) to the Clerk's Office with fees, though some complex cases or specific counties (like Providence for out-of-state spouses) might have nuances, so checking with the RI Judiciary site or a local attorney is key for correct procedures and locations.
+Where to File:
+Rhode Island Family Court: This is the primary court for divorce, custody, support, and other domestic issues.
+Kent County Courthouse (Warwick): Often the main location where family court sessions are held and paperwork is filed.
+What to File (Examples):
+Divorce: Complaint for Divorce, Summons.
+Custody/Support: Petitions for Child Custody, Placement, or Support.
+Other: Adoption, Guardianship, Restraining Orders.
+How to File:
+Get Forms: Download from the RI Judiciary website or get from the courthouse clerk.
+Complete Forms: Fill out accurately, including details like grounds for divorce if applicable.
+File with Clerk: Submit to the Family Court Clerk's Office with a fee and any required documents (like marriage certificates).
+Serve Spouse: A Summons must be formally given to your spouse via a Sheriff or Constable.
+Next Steps & Resources:
+RI Judiciary Website: courts.ri.gov for forms and court info.
+Local Attorneys: For help, use Justia or Super Lawyers to find East Greenwich or Warwick-based family lawyers.",236,12.0,56,family law where to file COUNTYSEAT STATE,civics,objective,open-ended,civics,44003,RI,Kent [6],East Greenwich ,0.4166666666666667,0.0,0.0833333333333333,0.0,0.0,0.5,0.0,0.0
+4658e641-0238-44b8-a950-e0df9fc35ada,1,"There's no single ""best"" attorney, as it depends on your specific case, but highly-regarded options serving Telluride, CO, include Shipp Law for local San Miguel County DUI/criminal expertise, Bagley Law Firm for broad experience, and firms like Howard & Associates or Sagal Law that cover the region with strong local knowledge and trial experience. To find the best fit, you should research these firms, check client reviews, and schedule consultations to discuss your situation directly.
+Top-Rated & Experienced Firms Serving Telluride:
+Shipp Law: A father-son duo (Dan & Clay Shipp) with extensive experience in San Miguel County, known for DUI and criminal defense and familiarity with local judges and DAs.
+Bagley Law Firm, LLC: Offers significant collective experience in criminal defense, family law, and personal injury, with high ratings on Martindale-Hubbell.
+Sagal Law, LLC: Known for a logical, problem-solving approach, handling complex matters from Denver to Telluride.
+Howard & Associates: Offers free consultations and serves the Telluride area from their Edwards office, with numerous attorney ratings.
+How to Choose the Right Attorney:
+Check Credentials & Reviews: Use sites like Martindale-Hubbell, Justia, Avvo, and Yelp to see peer reviews and client feedback for local attorneys.
+Experience in San Miguel County: Look for lawyers who regularly practice in the local courts, as they know the local legal landscape.
+Free Consultations: Many top firms, like Shipp Law and Howard & Associates, offer initial free consultations to discuss your case.
+Discuss Your Case: Ask about their experience with charges similar to yours and their strategy for achieving your goals.
+Key Tip: The sooner you contact a lawyer after an issue, the more effectively they can help protect your rights and build your defense.",281,8.0,84,who is the best criminal defense attorney in COUNTYSEAT STATE,civics,subjective,open-ended,civics,8113,CO,San Miguel,Telluride,0.5,0.0,0.0,0.0,0.0,0.375,0.125,0.0
+44757076-4894-4c4c-b996-243c0711fefe,1,"Specific annual tourist numbers for tiny Gove City, Kansas, aren't publicly tracked like major cities, but tourism in its region focuses on natural wonders like Monument Rocks & Castle Rock, drawing visitors to Gove County for scenic drives, geology, and prairie experiences, with state-level tourism booming, suggesting a steady trickle of nature lovers rather than large crowds.
+What to Expect in Gove County Tourism
+Natural Attractions: The primary draws are the massive chalk formations of Monument Rocks (Little London) and Castle Rock, which are significant paleontological and geological sites.
+Niche Tourism: Gove City, being small, serves as a base for exploring the wider county's vast plains, offering birdwatching, photography, and quiet rural escapes.
+Economic Impact: While Gove City itself doesn't have huge numbers, the overall Kansas tourism industry is robust, with millions of visitors and billions in spending annually, indicating that regional attractions do draw people.
+Where to Find More Info (for the area)
+Gove County Official Site: govecountyks.gov provides local info and highlights attractions.
+Visit Kansas: The state's official tourism site offers broader context on attractions, including those in western Kansas.
+In short, don't expect big-city visitor counts, but expect nature enthusiasts and road-trippers exploring the unique landscape of Western Kansas.",210,4.0,66,how many tourists visit COUNTYSEAT STATE each year,culture,objective,numeric,economy,20063,KS,Gove,Gove City,0.5,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+cdd8e665-e21d-4187-b718-78515156160b,1,"Waynesville, North Carolina has one correctional facility: the Haywood County Detention Center.
+It serves as the county jail, primarily housing individuals who are awaiting trial or have been committed to the custody of the Haywood County Sheriff. The facility has a capacity of just over 100 beds and has undergone or is undergoing expansion to meet the area's needs.
+There are no state or federal prisons (which typically house convicted felons serving longer sentences) located within the town limits of Waynesville, though a list of correctional institutions mentions a location in the city. The closest state prison facilities are in nearby areas within the North Carolina Department of Adult Correction's Western Region.
+For more information on county detention facilities, you can visit the Haywood County Sheriff's Office website, and for state prison locations, refer to the NC Department of Adult Correction website.",145,11.0,72,how many prisons are in COUNTYSEAT STATE,safety,objective,numeric,safety,37087,NC,Haywood,Waynesville,0.0909090909090909,0.0,0.5454545454545454,0.2727272727272727,0.0909090909090909,0.0,0.0,0.0
+5bbdab79-f022-4f9d-8283-6b46a545690a,1,"Yes, Junction, TX is worth visiting, especially for nature lovers and outdoor enthusiasts seeking a relaxing Hill Country escape with abundant river activities (tubing, kayaking, fishing), hiking at South Llano River State Park, scenic drives, birding, and a touch of history and local charm, making it a great, affordable base for exploring the region.
+River Recreation: The confluence of the North and South Llano Rivers offers swimming, tubing, kayaking, canoeing, and fishing (bass, perch, trout in winter).
+South Llano River State Park: A major draw with 18 miles of trails, birding, hiking, camping, and stunning views.
+Scenic Beauty & Drives: Rolling hills, limestone bluffs, wildflower fields, and opportunities for scenic drives (Loop 481, FM 2169).
+Outdoor Activities: Excellent for hiking, biking, hunting, birdwatching, and enjoying dark skies for stargazing.
+History & Culture: Explore the historic Kimble County Jail, Courthouse, the 1937 Truss Bridge, and the Kimble County Historical Museum.
+Small-Town Vibe: Offers local shops, restaurants (BBQ!), and events like rodeos, live music at places like London Hall, and the unique Easter Pageant.
+Nature Lovers: If you enjoy rivers, wildlife (deer, turkey), and natural landscapes.
+Outdoor Enthusiasts: Ideal for those who like to be active (hiking, water sports) or just relax in nature.
+Hill Country Explorers: A central spot to day trip to other towns like Fredericksburg, Bandera, or Luckenbach.
+Budget Travelers: An affordable option for a Texas getaway.
+Nightlife Seekers: It's a quiet town, not a party destination.
+Fast-Paced Travelers: Best for those looking for a relaxing retreat rather than constant action.",253,12.0,86,is COUNTYSEAT STATE worth visiting,culture,subjective,binary,civics,48267,TX,Kimble,Junction,0.5,0.0,0.1666666666666666,0.0833333333333333,0.0,0.0833333333333333,0.1666666666666666,0.0
+7f807d6f-ef2e-479d-82e8-0bc4c5dbd0fe,1,"To get a free library card for the Eureka Public Library District, you need to visit the library in person with proof of residency in the district, such as a driver's license, state ID, or a recent utility bill, plus a student ID if applicable, and fill out a registration form; kids under 14 need a parent/guardian present, while K-12 students (even outside the district but attending Eureka schools) can get special cards, notes the Eureka Public Library District website and their general info page.
+Who is eligible for a free card?
+Residents of the Eureka Public Library District.
+People who own property in the district.
+Teachers in the district.
+Students in grades 5-12 (with ID) or Pre-K-4 (with parent/guardian) attending schools in the district, even if they live outside.
+What to bring:
+Valid Photo ID: Driver's license, state ID, passport, or military ID.
+Proof of Address: A utility bill, piece of mail, or bank statement (within the last 30 days).
+Student/Staff ID: If you're a student or staff member.
+Steps to get your card:
+Check Eligibility: Confirm you live, own property, teach, or attend school in the Eureka district.
+Gather Documents: Collect your photo ID and proof of address (and student/staff ID if applicable).
+Visit the Library: Go to the Eureka Public Library District at 202 S. Main St., present your documents, and complete the registration form.
+For specific questions, visit the library's website (eurekapl.org) or call them directly.",253,8.0,75,how to get a free library of COUNTYSEAT STATE card,civics,objective,open-ended,civics,17203,IL,Woodford,Eureka,0.0,0.125,0.625,0.125,0.0,0.125,0.0,0.0
+985c9e53-d20b-4b58-a544-637574ff6d8f,1,"Living in Mason City, IA is significantly cheaper than the national average, primarily driven by very affordable housing, with overall costs around 7-13% lower than the U.S. average, though specific expenses like utilities can sometimes be near average. Expect major savings on housing (rent and buying), groceries, and transportation, making it an inexpensive place to live, especially for families, though costs can vary by lifestyle.
+Key Cost Estimates:
+Overall: About 7-13% lower than the national average.
+Housing: Significantly lower; rent can average around $900-$1,000 for an apartment, with home prices also well below national figures.
+Groceries: Generally 3-5% cheaper than the national average.
+Utilities: Costs are comparable to or slightly lower than the national average.
+Transportation: Also generally lower than the national average.
+Example Monthly Costs (for a single person):
+Total: Around $1,694 (including housing, food, energy, etc.).
+Housing (Rent): About $604 (single person) or $1,107 (family of four).
+In Summary:Mason City offers a very budget-friendly lifestyle, especially if you're coming from a larger city, thanks to much lower housing costs and generally cheaper daily expenses.",187,8.0,2,how much would it cost to live in COUNTYSEAT STATE,economy,mixed,numeric,economy,19033,IA,Cerro Gordo,Mason City,0.875,0.0,0.0,0.0,0.0,0.125,0.0,0.0
+0809fe7f-fc13-4b01-9429-a1e1a6399793,1,"Yes, Glenwood, MN, Minnesota, has its own dedicated police force, the Glenwood Police Department, which provides 24/7 law enforcement services, works with the Pope County Sheriff's Office, and actively engages in community programs, with Police Chief Dale Danter leading the department.
+Key Details:
+24/7 Coverage: The department has sworn officers on duty around the clock.
+Community Focus: They run programs like ""I Got Caught"" for helmet safety and participate in community events.
+Collaboration: They partner with the Pope County Sheriff's Office and the Glenwood Fire Department for training and emergency response.
+Location: They are located at 137 Minnesota Avenue East in Glenwood.
+Contact: You can find more information on their website, glenwoodmnpolice.com.",117,7.0,77,does COUNTYSEAT STATE have a police force,safety,objective,binary,safety,27121,MN,Pope,Glenwood,0.0,0.0,0.7142857142857143,0.0,0.0,0.0,0.2857142857142857,0.0
+77ffa56b-440d-40ad-8dfd-27e91cc387a7,1,"To get an expedited passport from Bloomfield, IN, you can use a private expediting service like RushMyPassport via FedEx Office or Passports and Visas.com, or apply in person at an official facility (like a Post Office) with an extra $60 fee for faster processing, or even book an urgent appointment at a regional passport agency for emergencies, all available through travel.state.gov.
+1. Private Expediting Services (Fastest for urgent needs)
+How: These companies, like RushMyPassport (via FedEx Office) or Passports and Visas.com, handle your application for you, getting it processed in days.
+Where: Visit a FedEx Office in nearby Bloomington or use their online service; Allstate Passports & Visas also serves the area.
+Best For: Very urgent travel, 24-hour to few-day service.
+2. Official Expedited Service (Extra Fee)
+How: Apply at an official Passport Acceptance Facility (Post Office, Clerk of Court) and pay an extra $60 fee for expedited processing, reducing wait times to weeks (not days).
+Where: Find facilities near Bloomfield through the Department of State's website.
+Best For: Standard expedited needs (2-3 weeks).
+3. Urgent Travel (Life-or-Death Emergency)
+How: If you have proof of an immediate family member's death, severe illness, or injury, you can make an urgent appointment at a Regional Passport Agency (likely in Chicago or Detroit).
+Where: Book through the U.S. Department of State website.
+Best For: Travel within 3 business days for emergencies.
+Steps to Take:
+Check Your Needs: Determine your travel date to choose the right option.
+Gather Documents: Complete DS-11 form (for new), proof of citizenship/ID, photos, and fees.
+Pay Extra: Add the $60 expedite fee to your application.
+Submit: Use a private service or official facility/agency.",288,7.0,19,how to get an expedited passport in COUNTYSEAT STATE,civics,objective,open-ended,civics,18055,IN,Greene,Bloomfield,0.0,0.0,0.2857142857142857,0.0,0.0,0.7142857142857143,0.0,0.0
+6b6cd638-3fe5-40c8-9ff8-0b7b5e316f16,1,"No, public schools near Santa Cruz, CA, are not expected to be closed tomorrow (Thursday, December 11, 2025), as it's a regular school day, not a designated holiday or emergency closure, but you should always check your specific district's website or notifications for any last-minute changes. Major holidays are months away, and while weather can cause closures, there are no widespread alerts for such issues in the Santa Cruz area right now.
+How to Confirm for Your School:
+Visit your specific school district's website (e.g., Santa Cruz City Schools, Pajaro Valley Unified).
+Look for alerts on the front page or news section.
+Check for local news alerts, as severe weather or emergencies can prompt closures.",120,5.0,23,are public schools closed tomorrow near COUNTYSEAT STATE,education,objective,binary,education,6087,CA,Santa Cruz,Santa Cruz,0.4,0.2,0.4,0.0,0.0,0.0,0.0,0.0
+d7e6eebb-df75-4e74-a3a3-ef347294f507,1,"A teacher's salary in New Hampton, IA, varies, but averages range from around $42,000 to $50,000 annually, with some experienced or specialized roles reaching higher, while the state mandates minimums are increasing, aiming for $50,000 by FY 2026 for all teachers. Specifics depend on experience and grade level, with averages around $49,668 (ZipRecruiter) or $42,194 (Salary.com) for general teachers, and high school roles potentially higher.
+Average Salary Estimates:
+General Teacher: Around $49,668/year ($23.88/hr) (ZipRecruiter, Dec 2025).
+General Teacher: Around $42,194/year ($20/hr) (Salary.com).
+High School Teacher: Estimated around $48,906/year (Indeed).
+Factors Influencing Salary:
+Experience: More experience generally leads to higher pay.
+Grade Level: High school teachers can earn more than elementary teachers.
+District: Salaries differ between districts, even within the same state.
+State Minimums (FY 2026):
+Iowa law sets a minimum teacher salary of $50,000 for Fiscal Year 2026 (starting July 2025).
+Teachers with at least 12 years of experience are guaranteed $62,000 or more in FY 2026.",176,7.0,87,how much does a school teacher make COUNTYSEAT STATE,education,mixed,numeric,education,19037,IA,Chickasaw,New Hampton,0.8571428571428571,0.0,0.1428571428571428,0.0,0.0,0.0,0.0,0.0
+97a98a7f-a2a9-4cc6-9f89-39fde8eaa437,1,"Yes, Newport, Arkansas, does have traffic cameras that issue citations for red light and speeding violations, specifically at the intersection of Hillside Avenue and Admiral Kalbfus Road near Pell Elementary, a program launched as a pilot in July 2025 to enhance safety. While some general sources say Arkansas prohibits red light cameras, Newport implemented this specific program, starting with warnings and then $100 fines for red light running, alongside speed camera enforcement.
+Key Details:
+Location: Hillside Ave & Admiral Kalbfus Rd (near Pell Elementary).
+Purpose: To reduce speeding and red-light running, especially for child safety.
+Fines: $100 for running a red light, $50 for speeding.
+Implementation: Started with a 30-day warning period; cameras are active 24/7.
+Context: These cameras are part of a pilot program, separate from general state-wide rules, and are intended to improve safety.",139,4.0,111,does COUNTYSEAT STATE have red light cameras,transportation,objective,binary,transportation,5067,AR,Jackson,Newport,0.0,0.0,0.0,0.25,0.0,0.0,0.5,0.25
+b16b3e05-ceb7-4161-b1e2-61d18a95f2d3,1,"Crime in Benton, MO, appears low, with sources highlighting its strong community and safety, though some data suggests moderate risks for property crime and a higher concentration of arrests compared to national figures, potentially influenced by its small size; overall, residents find it safe with common-sense precautions, but specific stats show higher property crime rates (theft/burglary) than violent crime, with Niche showing high theft rates per capita, contrasting with general perceptions of a peaceful town.
+Key Takeaways:
+Generally Safe: Sources like LullaPanda describe Benton as having ""low crime rates and strong sense of community,"" drawing families.
+Property Crime Focus: While violent crime seems low, Niche data indicates higher rates for property crimes like theft and burglary (relative to its small population), with theft at 2,042.8 per capita and burglary at 500.1, per Niche.
+Small Town Dynamics: Augurisk lists Benton with moderate property risk and low violent risk, noting potential high socioeconomic risks, but its small population (832) can skew per-capita statistics, says Niche and Augurisk.
+Rural Feel: It's described as rural, with most residents owning homes and a conservative leaning, suggesting a tight-knit community where basic safety awareness (like not walking alone late at night) is key, according to Niche and LullaPanda: Child Photo Contest.
+In Summary: Benton, MO, is generally considered a safe, peaceful place to live, but like many small towns, it experiences property crime issues that can look significant statistically due to the small population; residents suggest common-sense precautions are sufficient.",253,5.0,44,COUNTYSEAT STATE how bad is crime,safety,mixed,open-ended,safety,29201,MO,Scott,Benton,0.6,0.0,0.0,0.2,0.0,0.0,0.2,0.0
+912c91d5-56a7-4995-b979-06574c92f8e2,0,,0,,61,is COUNTYSEAT STATE in a state of emergency,safety,objective,binary,safety,37057,NC,Davidson,Lexington,,,,,,,,
+ac04d40c-a3be-432f-a4f7-cccc6cab8e5a,1,"For things to do in Magnolia, AR today, you can explore local shops on The Square, enjoy outdoor spots like Eastside Park or Lake Columbia, visit Southern Arkansas University, find activities through Eventbrite or Magnolia Banner News, or check out local businesses like Steve's Outdoor Sports or Serenity Day Spa for relaxation or recreation, keeping an eye on the weather for chances of showers.
+Local Attractions & Shopping:
+The Square Park: Walk around the downtown square for local charm.
+Local Shops: Browse unique spots like Regalia Boutique, Story's on the Square, or Shooters Sporting Goods.
+Magnolia Murals: Discover the town's art scene.
+Outdoor & Recreation:
+Lake Columbia: Enjoy the water or scenery.
+Eastside Park/Panther Stadium: Local parks and sports facilities.
+Steve's Outdoor Sports: For outdoor enthusiasts.
+University & Community:
+Southern Arkansas University (SAU): Explore the campus.
+Magnolia Banner News: Check their calendar for local happenings.
+Relax & Dine:
+Serenity Day Spa: A place to unwind.
+Local Restaurants: Check out places like Marlar's Cafeteria or JavaPrimo Coffee House.
+Events:
+Check Eventbrite for any specific events listed for today, though listings vary.
+Remember to check the weather, as there can be showers.",192,8.0,6,COUNTYSEAT STATE poor things to do today,events,subjective,open-ended,civics,5027,AR,Columbia,Magnolia,0.25,0.0,0.125,0.25,0.0,0.0,0.375,0.0
+2f2a1fa8-81bb-4811-880e-c2d1b182f73d,1,"A good salary in Ekalaka, MT, varies, but the median wage is around $52,000 annually, with most salaries falling between $42k and $59k; however, considering Ekalaka's rural context and higher cost of living for necessities, a salary closer to the $60k-$70k+ range would offer more comfort, especially given Montana's higher living wage requirements for families compared to the national average.
+Average & Median Wages in Ekalaka:
+Median Annual Salary: Around $52,000.
+Typical Range (25th-75th Percentile): $41,800 to $59,300.
+Highest Paying Industries: Public Administration (avg. ~$58k) and Construction (avg. ~$33k).
+What Makes a ""Good"" Salary (Context Matters):
+Living Wage: A single adult in Montana needs over $22/hour to meet basic needs, and more for families, making a $50k salary potentially tight.
+Household Income: The median household income in Ekalaka is lower than the state average, suggesting many rely on lower incomes.
+Cost of Living: While Ekalaka is small, rural living costs can be high, especially for healthcare, groceries, and transportation in Eastern Montana.
+To Live Comfortably:
+$50,000 - $60,000: Likely covers basic needs but leaves little room for savings or luxuries.
+$60,000 - $80,000+: A more comfortable range, allowing for better savings, discretionary spending, and managing family expenses in a rural setting.
+In essence, aim for the higher end of the average, or above $60k, to feel financially secure in Ekalaka, rather than just meeting the median.",236,5.0,95,what is a good salary in COUNTYSEAT STATE,economy,mixed,numeric,economy,30011,MT,Carter,Ekalaka,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+81d43c09-f379-48b4-a870-cbfdddaf3fa4,0,,0,,29,how to vote in COUNTYSEAT STATE primary,politics,objective,open-ended,politics,38013,ND,Burke,Bowbells,,,,,,,,
+68ea644c-bf4a-41aa-a4af-070a4e5b2781,1,"There are likely no billionaires living in Leitchfield, Kentucky, as major billionaire lists focus on larger cities or statewide populations, and Leitchfield (pop. ~6,400) is a small city; while Kentucky has billionaires, they reside in larger areas like Louisville, and the local news mentions farm subsidies, not billionaire residents.
+Small City: Leitchfield has a population of only around 6,400 people, making it highly unlikely to host a billionaire, notes Wikipedia.
+Billionaire Locations: Billionaires in Kentucky usually live in major metropolitan areas, with lists focusing on cities like Louisville, while small towns like Leitchfield aren't typically listed.
+Local Focus: News from Leitchfield mentions farm subsidies (EWG) and local business awards, not billionaires (EWG Farm Subsidy Database, K105).
+Therefore, while Kentucky has billionaires, none are publicly associated with Leitchfield, KY.",131,6.0,62,how many billionaires are there in COUNTYSEAT STATE,economy,objective,numeric,economy,21085,KY,Grayson,Leitchfield,0.1666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.5
+26684e74-69fe-4be1-9318-851b240b8fa0,0,,0,,68,what is the best area to live in COUNTYSEAT STATE,safety,subjective,open-ended,safety,18097,IN,Marion,Indianapolis,,,,,,,,
+2c5f41d7-61f5-449e-8440-698519317864,1,"Edgefield, SC, is generally leaning towards a buyer's market, with more homes available than buyers, but it's a nuanced situation with increasing demand and rising prices, making it a competitive-to-balanced market depending on the specific property and timing, especially with strong interest in new construction and steady local growth.
+Key Indicators (as of late 2025):
+Supply vs. Demand: Some reports suggest more homes for sale than buyers, indicating a buyer's edge.
+Sale-to-List Price: Homes often sell near list price, though hot properties can go above, showing some seller strength.
+Days on Market (DOM): Homes take a bit longer to sell (around 40-90+ days average in the county) compared to national averages, signaling buyers have more time to decide.
+Increasing Demand: There's growing interest, especially in new builds, making parts of the market competitive.
+Price Trends: Median prices have been rising, suggesting sellers still have leverage in a growing area.
+In Summary:While it's not a frantic seller's market like 2021, Edgefield offers buyers more choices and negotiation power, but sellers benefit from strong demand and rising values, creating a balanced environment with buyer advantages in inventory.",197,6.0,94,is COUNTYSEAT STATE a buyers or sellers market,economy,mixed,binary,economy,45037,SC,Edgefield,Edgefield,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+891da806-db6b-423a-b380-d3fdd1a0b10c,1,"Wellsboro, PA, has diverse churches (Presbyterian, Baptist, Methodist, Lutheran, Vineyard, etc.), but most share core Christian beliefs: one Triune God (Father, Son, Holy Spirit), the Bible as God's Word, Jesus as Son of God/Savior, salvation through Him, the Holy Spirit's work, and an eternal afterlife; specific nuances exist, like First Baptist's stance on sexuality (Nashville Statement) or Vineyard's focus on the Spirit-led community.
+Here's a breakdown by church type:
+First Presbyterian Church (FPC Wellsboro): Believes in the Trinity, Bible's authority, Jesus's incarnation, crucifixion, resurrection, and future return; emphasizes God's grace for salvation from sin.
+First Baptist Church: Upholds the Bible as God's word, Trinity, salvation by grace through faith in Jesus, and Christian ordinances; aligns with ""The Nashville Statement"" on marriage and sexuality (one man, one woman).
+United Methodist Church of Wellsboro: Rooted in Wesleyan tradition, believing in a loving God, Jesus's saving work, the Holy Spirit as comforter, and the Bible as primary authority.
+Trinity Lutheran Church (LCMS): An evangelical church following Lutheran teachings, focusing on the Triune God and Bible-based Reformation principles.
+Vineyard Church of Wellsboro: Aims to be a Spirit-led community, emphasizing worshiping God, growing in Christ, and extending Jesus's ministry through relationships and community outreach.
+St. Paul's Episcopal Church: A welcoming body focused on serving Christ, worship, fellowship, and nurturing the parish and wider community.
+Common Themes:
+God: One God, Triune (Father, Son, Holy Spirit).
+Bible: Primary, authoritative source for faith and practice.
+Jesus Christ: Son of God, Savior, Lord, bodily resurrected.
+Salvation: Through God's grace, by faith in Jesus.
+Holy Spirit: Active in believers' lives, guiding them.
+To know exactly what ""the"" Wellsboro church believes, you'd need to specify which one, as they represent different denominations with unique emphasis.",302,8.0,3,what does the COUNTYSEAT STATE church believe,civics,mixed,open-ended,civics,42117,PA,Tioga,Wellsboro,0.0,0.125,0.0,0.0,0.0,0.75,0.125,0.0
+400279ca-1016-4eeb-8504-49a4668092ba,0,,0,,29,how to vote in COUNTYSEAT STATE primary,politics,objective,open-ended,politics,48119,TX,Delta,Cooper,,,,,,,,
+af12a1f8-180a-4f36-af82-14f28f98fa4b,1,"To apply for Section 8 (Housing Choice Vouchers) near Watford City, ND, contact the Watford City Housing Authority (WCHA) directly for local options and the Great Plains Housing Authority (GPHA) or NDHFA for broader state assistance, as you'll likely apply through local Public Housing Agencies (PHAs) or the state's Housing Finance Agency using online portals or in-person forms, needing documents like ID, Social Security cards, and proof of income to get on waiting lists.
+1. Contact Your Local Agency (Watford City/McKenzie County)
+City of Watford City Housing Authority: Check their website or contact them (PO Box 4, Watford City, ND 58854; wchousingauthority@gmail.com) for local programs and application details, as they manage local housing.
+McKenzie County Housing Authority: While not explicitly detailed in snippets, it's essential to see if there's a local McKenzie County PHA.
+2. Apply Through Regional/State Agencies
+Great Plains Housing Authority (GPHA): They manage housing in many areas, including counties near Watford City, and offer online applications and in-person pickup, requiring documents like SSNs, IDs, and birth certificates.
+NDHFA (North Dakota Housing Finance Agency): They offer programs like ""Opening Doors"" and manage waiting lists for specific areas (Fargo, Grand Forks, Devils Lake), requiring online application submission and often using a first-come, first-served system.
+3. General Steps to Apply
+Check Eligibility: You'll need to meet income limits (paying ~30% of adjusted income) and pass background/citizenship checks.
+Gather Documents: Have Social Security cards, photo ID (driver's license), birth certificates, and pay stubs ready.
+Find Applications: Look for application packets on the GPHA, NDHFA, or local housing authority websites.
+Submit: Complete forms fully and submit them in person or online; incomplete applications are returned.
+Get on Waiting Lists: You'll be placed on a waiting list, which can be long, so apply to multiple agencies if possible.
+4. Helpful Resources
+HUD.gov: Find contact info for Public Housing Agencies (PHAs) in ND.
+ND Health & Human Services: Visit hhs.nd.gov/applyforhelp to find other support programs.
+Key Takeaway: Start with the Watford City & Great Plains Housing Authorities for immediate local options, and don't hesitate to check the NDHFA and HUD for broader assistance and information.",370,9.0,51,how to apply for section 8 near COUNTYSEAT STATE,economy,objective,open-ended,economy,38053,ND,McKenzie,Watford City,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+4afefd5e-e3cb-4f00-ab66-d18c02b0336d,1,"Yes, Vernon, TX, can be worth visiting for travelers interested in authentic small-town Texas, Western history (Great Western Trail, rodeos), local museums (Red River Valley Museum), unique shops, and community festivals (Bacon City USA, Summer's Last Blast), especially if you're passing through or looking for a slow-paced trip focused on Texas heritage and hospitality.
+History & Culture: Explore the Great Western Trail at Doan's Crossing, delve into local art and science at the Red River Valley Museum, and discover Texas history at the Wilbarger County Museum.
+Events: Catch events like the Santa Rosa Roundup (rodeo), Summer's Last Blast (cars/music), and Bacon City USA (October).
+Shopping: Enjoy downtown revitalization with diverse shops, antiques, boutiques, and gift stores on the Square.
+Small-Town Charm: Experience genuine Texas hospitality, friendly locals, and a chance to slow down from big-city life.
+Location: A convenient stop between Dallas/Fort Worth and Amarillo, TX, for road trippers.
+History buffs and Western enthusiasts.
+Road-trippers looking for authentic Texas stops.
+Those seeking unique antique finds or local crafts.
+Visitors interested in small-town festivals.
+If you're looking for major theme parks or bustling nightlife, Vernon isn't the place; but for a genuine taste of North Texas heritage and community, it's a charming and worthwhile stop.",218,5.0,86,is COUNTYSEAT STATE worth visiting,culture,subjective,binary,civics,48487,TX,Wilbarger,Vernon,0.0,0.0,0.2,0.0,0.0,0.4,0.4,0.0
