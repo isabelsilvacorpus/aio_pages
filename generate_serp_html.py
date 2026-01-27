@@ -207,13 +207,6 @@ def main() -> None:
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
 
-    ## Count of results to return 
-    aio_sources = pd.read_csv('sample_data/aio_sources.csv')
-    aio_retr = pd.merge(retr,
-             aio_sources[['retrieval_id', 'aio_sources_id']],
-             how = "left",
-             on = "retrieval_id")
-    n_aio_sources = aio_retr.groupby('retrieval_id')['aio_sources_id'].nunique().reset_index()
 
     # Normalize known source CSV schemas to the columns expected by render_serp().
     # Expected columns (any subset is fine):
