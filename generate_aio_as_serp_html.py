@@ -15,6 +15,23 @@ ASSET_FOLDER_NAME = "html_asset_files"
 
 from urllib.parse import urlparse
 
+def _disable_all_links(soup: BeautifulSoup) -> None:
+    for a in soup.find_all("a"):
+        # Remove navigation
+        if a.has_attr("href"):
+            del a["href"]
+        if a.has_attr("target"):
+            del a["target"]
+        if a.has_attr("rel"):
+            del a["rel"]
+
+        # Disable interaction + keep visual looking like normal text (tweak as desired)
+        style = a.get("style", "")
+        if style and not style.strip().endswith(";"):
+            style += ";"
+        style += "pointer-events:none; cursor:default;"
+        a["style"] = style
+
 def _domain_and_path(url: str, max_path: int = 50) -> tuple[str, str]:
     """
     Returns (domain, breadcrumb_text) where breadcrumb_text looks like:
@@ -131,7 +148,11 @@ def fill_one_result(result: Tag, url: str, title: str, snippet: str, source_name
 
 
 
-def render_serp(template_path: Path, out_path: Path, query: str, sources_df: pd.DataFrame) -> None:
+def render_serp(template_path: Path, 
+                out_path: Path, 
+                query: str, 
+                sources_df: pd.DataFrame,
+                n_sources) -> None:
     raw = template_path.read_text(encoding="utf-8", errors="ignore")
     raw = fix_asset_paths(raw)
 
@@ -154,8 +175,8 @@ def render_serp(template_path: Path, out_path: Path, query: str, sources_df: pd.
     if sort_cols:
         sources_df = sources_df.sort_values(sort_cols, ascending=True, na_position="last")
 
-    # Keep it reasonable like a SERP
-    sources_df = sources_df.head(10)
+    # Have same number of sources as AIO (or 8, whichever is lower)
+    sources_df = sources_df.head(min(8, n_sources))
 
     for _, row in sources_df.iterrows():
         url = str(row.get("source_url", "")).strip()
@@ -169,7 +190,7 @@ def render_serp(template_path: Path, out_path: Path, query: str, sources_df: pd.
         block = copy.deepcopy(template_result)
         fill_one_result(block, url=url, title=title, snippet=snippet, source_name=source_name)
         rso.append(block)
-
+    _disable_all_links(soup)
     out_path.write_text(str(soup), encoding="utf-8")
 
 
@@ -188,6 +209,16 @@ def main() -> None:
 
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
+    
+    ## Count of results to return 
+    aio_sources = pd.read_csv('sample_data/aio_sources.csv')
+    aio_retr = pd.merge(retr,
+             aio_sources[['retrieval_id', 'aio_sources_id']],
+             how = "left",
+             on = "retrieval_id")
+    n_aio_sources = aio_retr.groupby('retrieval_id')['aio_sources_id'].nunique().reset_index()
+    n_aio_sources_dict = dict(zip(n_aio_sources['retrieval_id'], n_aio_sources['aio_sources_id']))
+
 
     if "retrieval_id" not in retr.columns:
         raise RuntimeError("retrievals.csv must have a retrieval_id column")
@@ -195,7 +226,7 @@ def main() -> None:
         raise RuntimeError("aio_sources.csv must have a retrieval_id column")
 
     # If you only want rows where aio_presence==1, uncomment:
-    # retr = retr[retr.get("aio_presence", 0) == 1].copy()
+    retr = retr[retr.get("aio_presence", 0) == 1].copy()
 
     if args.limit and args.limit > 0:
         retr = retr.head(args.limit)
@@ -205,6 +236,7 @@ def main() -> None:
     rendered = 0
     for _, row in retr.iterrows():
         rid = str(row["retrieval_id"])
+        n_sources = n_aio_sources_dict[row['retrieval_id']]
         q = format_query(row)
 
         sources_df = src_groups.get(rid)
@@ -213,7 +245,7 @@ def main() -> None:
             sources_df = src.head(0)
 
         out_path = out_dir / f"{rid}.html"
-        render_serp(template_path, out_path, q, sources_df)
+        render_serp(template_path, out_path, q, sources_df, n_sources)
         rendered += 1
 
     print(f"Rendered {rendered} SERP HTML file(s) to: {out_dir.resolve()}")
