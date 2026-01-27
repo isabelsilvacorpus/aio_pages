@@ -15,6 +15,23 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 ASSET_FOLDER_NAME = "html_asset_files"
 TEXT_COL = "formatted_text"
 
+def _disable_all_links(soup: BeautifulSoup) -> None:
+    for a in soup.find_all("a"):
+        # Remove navigation
+        if a.has_attr("href"):
+            del a["href"]
+        if a.has_attr("target"):
+            del a["target"]
+        if a.has_attr("rel"):
+            del a["rel"]
+
+        # Disable interaction + keep visual looking like normal text (tweak as desired)
+        style = a.get("style", "")
+        if style and not style.strip().endswith(";"):
+            style += ";"
+        style += "pointer-events:none; cursor:default;"
+        a["style"] = style
+
 def _format_query_from_row(row) -> str:
     q = str(row.get("query", "")).strip()
     q = q.replace("COUNTYSEAT", str(row.get("CountySeat", "")).strip())
@@ -262,7 +279,8 @@ def render_one(template_html_path: Path, out_path: Path, aio_text: str, sources_
 
     _replace_aio_overview(soup, aio_container, aio_text)
     _replace_sources(soup, aio_container, sources_df)
-
+    _disable_all_links(soup)
+    
     out_path.write_text(str(soup), encoding="utf-8")
 
 

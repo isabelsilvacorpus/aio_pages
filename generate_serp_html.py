@@ -15,6 +15,23 @@ ASSET_FOLDER_NAME = "html_asset_files"
 
 from urllib.parse import urlparse
 
+def _disable_all_links(soup: BeautifulSoup) -> None:
+    for a in soup.find_all("a"):
+        # Remove navigation
+        if a.has_attr("href"):
+            del a["href"]
+        if a.has_attr("target"):
+            del a["target"]
+        if a.has_attr("rel"):
+            del a["rel"]
+
+        # Disable interaction + keep visual looking like normal text (tweak as desired)
+        style = a.get("style", "")
+        if style and not style.strip().endswith(";"):
+            style += ";"
+        style += "pointer-events:none; cursor:default;"
+        a["style"] = style
+
 def _domain_and_path(url: str, max_path: int = 50) -> tuple[str, str]:
     """
     Returns (domain, breadcrumb_text) where breadcrumb_text looks like:
@@ -170,6 +187,7 @@ def render_serp(template_path: Path, out_path: Path, query: str, sources_df: pd.
         fill_one_result(block, url=url, title=title, snippet=snippet, source_name=source_name)
         rso.append(block)
 
+    _disable_all_links(soup)
     out_path.write_text(str(soup), encoding="utf-8")
 
 
@@ -188,6 +206,14 @@ def main() -> None:
 
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
+
+    ## Count of results to return 
+    aio_sources = pd.read_csv('sample_data/aio_sources.csv')
+    aio_retr = pd.merge(retr,
+             aio_sources[['retrieval_id', 'aio_sources_id']],
+             how = "left",
+             on = "retrieval_id")
+    n_aio_sources = aio_retr.groupby('retrieval_id')['aio_sources_id'].nunique().reset_index()
 
     # Normalize known source CSV schemas to the columns expected by render_serp().
     # Expected columns (any subset is fine):
