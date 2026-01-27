@@ -6,11 +6,14 @@ import copy
 import re
 from pathlib import Path
 from typing import List, Optional
+from html import unescape
+
 
 import pandas as pd
 from bs4 import BeautifulSoup, NavigableString, Tag
 
 ASSET_FOLDER_NAME = "html_asset_files"
+TEXT_COL = "formatted_text"
 
 def _format_query_from_row(row) -> str:
     q = str(row.get("query", "")).strip()
@@ -113,7 +116,59 @@ def _replace_aio_overview(soup: BeautifulSoup, aio_container: Tag, aio_text: str
         for i, ln in enumerate(lines):
             if i:
                 p.append(soup.new_tag("br"))
-            p.append(ln)
+
+            ln_html = unescape(ln)
+            frag = BeautifulSoup(ln_html, "html.parser")
+
+            # safer: drop scripts/styles first
+            for t in frag(["script", "style"]):
+                t.decompose()
+
+            # Force all injected elements to inherit typography from the parent container
+            for t in frag.find_all(True):
+                if t.name in {"ul", "ol", "li"}:
+                    continue
+                style = t.get("style", "")
+                if style and not style.strip().endswith(";"):
+                    style += ";"
+                style += "font-family: inherit; font-size: inherit; font-style: inherit; line-height: inherit; color: inherit;"
+                t["style"] = style
+            for t in frag.find_all(["ul", "ol"]):
+                style = t.get("style", "")
+                if style and not style.strip().endswith(";"):
+                    style += ";"
+                style += (
+                    "font-family: inherit; font-size: inherit; font-style: inherit; line-height: inherit; color: inherit;"
+                    "-webkit-padding-start: 1.25em; padding-inline-start: 1.25em;"
+                    "margin: 0.5em 0; list-style-position: outside;"
+                )
+                style += "list-style-type: disc;" if t.name == "ul" else "list-style-type: decimal;"
+                t["style"] = style
+            for t in frag.find_all("li"):
+                style = t.get("style", "")
+                if style and not style.strip().endswith(";"):
+                    style += ";"
+                style += "margin: 0.25em 0;"
+                t["style"] = style
+
+            heading_sizes = {
+                "h1": "1.6em",
+                "h2": "1.4em",
+                "h3": "1.25em",
+                "h4": "1.15em",
+                "h5": "1.05em",
+                "h6": "1.0em",
+            }
+
+            for t in frag.find_all(["h1","h2","h3","h4","h5","h6"]):
+                style = t.get("style", "")
+                if style and not style.strip().endswith(";"):
+                    style += ";"
+                style += f"font-family: inherit; line-height: inherit; color: inherit; margin: 0.6em 0 0.3em; font-size: {heading_sizes[t.name]}; font-weight: 700;"
+                t["style"] = style
+
+            for child in list(frag.contents):
+                p.append(child)
 
         body.append(p)
 
@@ -214,7 +269,7 @@ def render_one(template_html_path: Path, out_path: Path, aio_text: str, sources_
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="aio_template.html", type=str)
-    ap.add_argument("--retrievals", default="sample_data/retrievals.csv", type=str)
+    ap.add_argument("--retrievals", default="sample_data/retrievals_formatted.csv", type=str)
     ap.add_argument("--sources", default="sample_data/aio_sources.csv", type=str)
     ap.add_argument("--out_dir", default="out_aio_html", type=str)
     ap.add_argument("--limit", default=0, type=int)
@@ -227,7 +282,7 @@ def main() -> None:
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
 
-    retr = retr[(retr.get("aio_presence", 0) == 1) & retr["aio_text"].notna()].copy()
+    retr = retr[(retr.get("aio_presence", 0) == 1) & retr[TEXT_COL].notna()].copy()
     if args.limit and args.limit > 0:
         retr = retr.head(args.limit)
 
@@ -239,7 +294,7 @@ def main() -> None:
     rendered = 0
     for _, row in retr.iterrows():
         rid = str(row["retrieval_id"])
-        aio_text = str(row["aio_text"])
+        aio_text = str(row[TEXT_COL])
         sources_df = src_groups.get(rid, src.head(0))
 
         out_path = out_dir / f"{rid}.html"

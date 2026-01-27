@@ -10,7 +10,7 @@ from typing import Optional
 import pandas as pd
 from bs4 import BeautifulSoup, Tag
 
-
+# for AIO as serps: python generate_serp_html.py
 ASSET_FOLDER_NAME = "html_asset_files"
 
 from urllib.parse import urlparse
@@ -177,7 +177,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="serp_template.html")
     ap.add_argument("--retrievals", default="sample_data/retrievals.csv")
-    ap.add_argument("--sources", default="sample_data/aio_sources.csv")
+    ap.add_argument("--sources", default="sample_data/serps.csv", help="CSV of sources (supports aio_sources.csv or serps.csv schema)")
     ap.add_argument("--out_dir", default="out_serp_html")
     ap.add_argument("--limit", type=int, default=0, help="0 = all; else first N retrieval rows")
     args = ap.parse_args()
@@ -189,10 +189,30 @@ def main() -> None:
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
 
+    # Normalize known source CSV schemas to the columns expected by render_serp().
+    # Expected columns (any subset is fine):
+    #   retrieval_id, source_url, source_title, source_text, source_name/root_domain, rank/source_rank
+    if "serps_url" in src.columns and "source_url" not in src.columns:
+        rename_map = {
+            "serps_url": "source_url",
+            "serps_title": "source_title",
+            "serps_lede": "source_text",
+            "serps_rank": "rank",
+        }
+        src = src.rename(columns={k: v for k, v in rename_map.items() if k in src.columns})
+
+    # Some SERP exports use generic column names; handle a few common variants.
+    if "url" in src.columns and "source_url" not in src.columns:
+        src = src.rename(columns={"url": "source_url"})
+    if "title" in src.columns and "source_title" not in src.columns:
+        src = src.rename(columns={"title": "source_title"})
+    if "snippet" in src.columns and "source_text" not in src.columns:
+        src = src.rename(columns={"snippet": "source_text"})
+
     if "retrieval_id" not in retr.columns:
         raise RuntimeError("retrievals.csv must have a retrieval_id column")
     if "retrieval_id" not in src.columns:
-        raise RuntimeError("aio_sources.csv must have a retrieval_id column")
+        raise RuntimeError("sources CSV must have a retrieval_id column")
 
     # If you only want rows where aio_presence==1, uncomment:
     # retr = retr[retr.get("aio_presence", 0) == 1].copy()
