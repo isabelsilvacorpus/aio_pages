@@ -15,6 +15,43 @@ ASSET_FOLDER_NAME = "html_asset_files"
 
 from urllib.parse import urlparse
 
+import re
+
+import re
+
+def table_blob_to_googleish_snippet(s: str, max_chars: int = 260) -> str:
+    if not s:
+        return ""
+
+    s = " ".join(str(s).split())
+
+    mt = re.search(r"Table_title:\s*(.*?)(?=\s*Table_content:|\s*$)", s)
+    title = (mt.group(1).strip() if mt else "").strip()
+
+    # ✅ capture the entire pipe row (both cells) before the next "row:"
+    mr = re.search(r"row:\s*(\|.*?\|)\s*(?=row:|$)", s)
+    if not mr:
+        out = re.sub(r"\bTable_(title|content):\s*", "", s)
+        out = re.sub(r"\b(header|row):\s*", "", out).replace("|", " ")
+        out = re.sub(r"\s{2,}", " ", out).strip()
+        out = f"{title} {out}".strip() if title else out
+        return (out[: max_chars - 1].rstrip() + "…") if len(out) > max_chars else out
+
+    cells = [c.strip() for c in mr.group(1).strip().strip("|").split("|") if c.strip()]
+
+    parts = [title] if title else []
+
+    if len(cells) == 2 and (":" in cells[0] and ":" in cells[1]):
+        keys = [k.strip() for k in cells[0].split(":") if k.strip()]
+        vals = [v.strip() for v in cells[1].split(":") if v.strip()]
+        for k, v in zip(keys, vals):
+            parts += [k, v]
+    else:
+        parts.append(" ".join(cells))
+
+    out = re.sub(r"\s{2,}", " ", " ".join(parts).strip())
+    return (out[: max_chars - 1].rstrip() + "…") if len(out) > max_chars else out
+
 def _disable_all_links(soup: BeautifulSoup) -> None:
     for a in soup.find_all("a"):
         # Remove navigation
@@ -100,6 +137,8 @@ def find_first_organic_result(rso: Tag) -> Optional[Tag]:
 
 def sanitize(result: Tag) -> None:
     # Make offline-friendly: remove ping + some JS attrs
+    for el in result.select("span.vhJ6Pe"):
+        el.decompose()
     for a in result.find_all("a"):
         if a.has_attr("ping"):
             del a["ping"]
@@ -142,11 +181,9 @@ def fill_one_result(result: Tag, url: str, title: str, snippet: str, source_name
     sn = result.select_one("div.VwiC3b")
     if sn is not None:
         sn.clear()
-        sn.append((snippet or "").strip())
+        sn.append(table_blob_to_googleish_snippet(snippet))
 
     sanitize(result)
-
-
 
 def render_serp(template_path: Path, 
                 out_path: Path, 
@@ -197,9 +234,9 @@ def render_serp(template_path: Path,
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="serp_template.html")
-    ap.add_argument("--retrievals", default="sample_data/retrievals.csv")
-    ap.add_argument("--sources", default="sample_data/aio_sources.csv")
-    ap.add_argument("--out_dir", default="out_aio_as_serp_html")
+    ap.add_argument("--retrievals", default="pilot_samples_jan_2026/retrievals.csv")
+    ap.add_argument("--sources", default="pilot_samples_jan_2026/aio_sources.csv")
+    ap.add_argument("--out_dir", default="pilot_aio_as_serp_html")
     ap.add_argument("--limit", type=int, default=0, help="0 = all; else first N retrieval rows")
     args = ap.parse_args()
 

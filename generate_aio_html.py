@@ -15,6 +15,61 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 ASSET_FOLDER_NAME = "html_asset_files"
 TEXT_COL = "formatted_text"
 
+def _clean_source_snippet(snippet: str) -> str:
+    raw = (snippet or "").strip()
+    if not raw:
+        return ""
+
+    # If it's already plain text (no table markers / pipes), keep it
+    if ("Table_title:" not in raw
+        and "Table_content:" not in raw
+        and "header:" not in raw
+        and "row:" not in raw
+        and "|" not in raw):
+        return " ".join(raw.split())
+
+    s = " ".join(raw.split())
+
+    mt = re.search(r"Table_title:\s*(.*?)(?=\s*Table_content:|\s*$)", s)
+    title = (mt.group(1).strip() if mt else "").strip()
+
+    def parse_pipe_row(pipe_row: str) -> list[str]:
+        pipe_row = pipe_row.strip().strip("|")
+        return [c.strip() for c in pipe_row.split("|") if c.strip()]
+
+    # capture the first full row up to the next row:
+    mr = re.search(r"row:\s*(\|.*?\|)\s*(?=row:|$)", s)
+    if not mr:
+        # fallback: strip tags/pipes into readable text
+        out = re.sub(r"\bTable_(title|content):\s*", "", s)
+        out = re.sub(r"\b(header|row):\s*", "", out).replace("|", " ")
+        return re.sub(r"\s{2,}", " ", f"{title} {out}".strip() if title else out).strip()
+
+    cells = parse_pipe_row(mr.group(1))
+
+    parts = [title] if title else []
+
+    # NWS pattern: "Humidity: Wind Speed" + "77%: S 5 mph"
+    if len(cells) == 2 and (":" in cells[0] and ":" in cells[1]):
+        keys = [k.strip() for k in cells[0].split(":") if k.strip()]
+        vals = [v.strip() for v in cells[1].split(":") if v.strip()]
+        for k, v in zip(keys, vals):
+            parts += [k, v]
+    else:
+        parts.append(" ".join(cells))
+
+    # Optional tiny tail from next row (keeps "Humidity..." feel)
+    rest = s[mr.end():]
+    m2 = re.search(r"row:\s*(\|.*?\|)", rest)
+    if m2:
+        tail = " ".join(parse_pipe_row(m2.group(1)))
+        if tail:
+            parts.append(tail)
+
+    out = re.sub(r"\s{2,}", " ", " ".join(p for p in parts if p).strip())
+    return out
+
+
 def _disable_all_links(soup: BeautifulSoup) -> None:
     for a in soup.find_all("a"):
         # Remove navigation
@@ -195,6 +250,7 @@ def _find_sources_ul(aio_container: Tag) -> Optional[Tag]:
 
 
 def _sanitize_card(card: Tag) -> None:
+
     for a in card.find_all("a"):
         if a.has_attr("ping"):
             del a["ping"]
@@ -253,6 +309,7 @@ def _replace_sources(soup: BeautifulSoup, aio_container: Tag, sources_df: pd.Dat
         url = str(row.get("source_url", "")).strip()
         title = str(row.get("source_title", "")).strip()
         snippet = str(row.get("source_text", "")).strip()
+        snippet = _clean_source_snippet(str(row.get("source_text", "")).strip())
         source_name = str(row.get("source_name", "")).strip() or str(row.get("root_domain", "")).strip()
 
         li = soup.new_tag("li")
@@ -287,9 +344,9 @@ def render_one(template_html_path: Path, out_path: Path, aio_text: str, sources_
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="aio_template.html", type=str)
-    ap.add_argument("--retrievals", default="sample_data/retrievals_formatted.csv", type=str)
-    ap.add_argument("--sources", default="sample_data/aio_sources.csv", type=str)
-    ap.add_argument("--out_dir", default="out_aio_html", type=str)
+    ap.add_argument("--retrievals", default="pilot_samples_jan_2026/retrievals_formatted.csv", type=str)
+    ap.add_argument("--sources", default="pilot_samples_jan_2026/aio_sources.csv", type=str)
+    ap.add_argument("--out_dir", default="pilot_aio_html", type=str)
     ap.add_argument("--limit", default=0, type=int)
     args = ap.parse_args()
 
