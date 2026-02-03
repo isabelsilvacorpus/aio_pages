@@ -194,9 +194,9 @@ def render_serp(template_path: Path, out_path: Path, query: str, sources_df: pd.
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="serp_template.html")
-    ap.add_argument("--retrievals", default="sample_data/retrievals.csv")
-    ap.add_argument("--sources", default="sample_data/serps.csv", help="CSV of sources (supports aio_sources.csv or serps.csv schema)")
-    ap.add_argument("--out_dir", default="out_serp_html")
+    ap.add_argument("--retrievals", default="pilot_samples_jan_2026/retrievals.csv")
+    ap.add_argument("--sources", default="pilot_samples_jan_2026/serps.csv", help="CSV of sources (supports aio_sources.csv or serps.csv schema)")
+    ap.add_argument("--out_dir", default="pilot_serp_html")
     ap.add_argument("--limit", type=int, default=0, help="0 = all; else first N retrieval rows")
     args = ap.parse_args()
 
@@ -206,6 +206,8 @@ def main() -> None:
 
     retr = pd.read_csv(Path(args.retrievals))
     src = pd.read_csv(Path(args.sources))
+    
+    retr = retr.loc[retr.aio_presence == 1]
 
 
     # Normalize known source CSV schemas to the columns expected by render_serp().
