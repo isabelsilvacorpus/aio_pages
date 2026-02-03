@@ -248,9 +248,8 @@ def main() -> None:
     src = pd.read_csv(Path(args.sources))
     
     ## Count of results to return 
-    aio_sources = pd.read_csv('sample_data/aio_sources.csv')
     aio_retr = pd.merge(retr,
-             aio_sources[['retrieval_id', 'aio_sources_id']],
+             src[['retrieval_id', 'aio_sources_id']],
              how = "left",
              on = "retrieval_id")
     n_aio_sources = aio_retr.groupby('retrieval_id')['aio_sources_id'].nunique().reset_index()
@@ -263,7 +262,7 @@ def main() -> None:
         raise RuntimeError("aio_sources.csv must have a retrieval_id column")
 
     # If you only want rows where aio_presence==1, uncomment:
-    retr = retr[retr.get("aio_presence", 0) == 1].copy()
+    retr = retr.loc[retr.aio_presence == 1].copy()
 
     if args.limit and args.limit > 0:
         retr = retr.head(args.limit)
