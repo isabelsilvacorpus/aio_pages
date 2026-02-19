@@ -344,9 +344,9 @@ def render_one(template_html_path: Path, out_path: Path, aio_text: str, sources_
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--template", default="aio_template.html", type=str)
-    ap.add_argument("--retrievals", default="pilot_samples_jan_2026/retrievals_formatted.csv", type=str)
-    ap.add_argument("--sources", default="pilot_samples_jan_2026/aio_sources.csv", type=str)
-    ap.add_argument("--out_dir", default="pilot_aio_html", type=str)
+    ap.add_argument("--retrievals", default="pilot_samples_v2/retrievals_formatted.csv", type=str)
+    ap.add_argument("--sources", default="pilot_samples_v2/aio_sources.csv", type=str)
+    ap.add_argument("--out_dir", default="pilot_v2_aio", type=str)
     ap.add_argument("--limit", default=0, type=int)
     args = ap.parse_args()
 
