@@ -6,8 +6,8 @@ import sys
 # export OPENAI_API_KEY="YOUR_KEY"
 # python 01_format_text.py
 
-INPUT_CSV = "pilot_samples_jan_2026/retrievals.csv"
-OUTPUT_CSV = "pilot_samples_jan_2026/retrievals_formatted.csv"
+INPUT_CSV = "pilot_samples_v2/retrievals.csv"
+OUTPUT_CSV = "pilot_samples_v2/retrievals_formatted.csv"
 
 DEV = """
 You format text into an HTML fragment to be inserted inside:
@@ -20,7 +20,7 @@ No attributes. No markdown.
 """
 
 USR = """
-Format the INPUT TEXT to resemble a Google AI Overview layout using headings, bullets, bold, and line breaks.
+Format the INPUT TEXT to resemble a Google AI Overview layout using headings, bullets, bold, spaces, and line breaks.
 
 CRITICAL CONSTRAINT:
 - Preserve the input text verbatim.
@@ -29,8 +29,10 @@ CRITICAL CONSTRAINT:
 - Only insert HTML tags (from the allowed list) and whitespace/line breaks to structure the text.
 - Headings may only wrap existing text; do not invent new titles.
 - Bullet points should be added when there is a list of sentences that follow the structure "lorem ipsum: sentence follows." OR a sequence of short sentences that logically appear to form a list.
-- Bold the clause before the colon in bullet points. Do NOT bold a full sentence unless it is a logical heading.
-- Do NOT add line breaks between bullet points or list items.  
+- In list items or summary sections, bold ONLY the words BEFORE the colon in bullet points. 
+- Do NOT bold full sentences. Do NOT bold full list items. For example, a sentence like "Use apps like Google Maps and set your route to see toll costs if available." should NOT be bold
+- Do NOT add line breaks between bullet points or list items.
+- Treat summary phrases with a colon as headings. For example: "Verdict:", "In Summary:", "Conclusion:"
 - Only assign headings to standalone phrases followed by lists (e.g. "Who is eligible for a free card?", 
 "Key Information and Statistics", "Key Takeaways").
 
