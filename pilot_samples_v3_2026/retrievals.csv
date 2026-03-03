@@ -1,0 +1,517 @@
+retrieval_id,aio_presence,aio_text,num_words,num_aio_sources,query_idx,query,category,subjectivity,answer_type,info_need,FIPS,State,County,CountySeat,Population,avg_aio_sources_domain_localness,pct_Database or aggregator,pct_Educational institution,pct_Government,"pct_Hospital, healthcare, or medical website","pct_Local business, retail, or product",pct_Local news,pct_Museum or library,"pct_National business, retail, or product",pct_National news,pct_Nonprofit or association,pct_Other,pct_Religious institution,pct_Review platform,pct_Social media or forum,pct_Tourism or travel website,pct_Wikipedia,domain_category_entropy,log_population,News and Information Index,percent_min_bachelors,num_words,flesch_kincaid,citations_per_100_words,hedges_per_100_words,county_seat_to_state_ratio_normalized,db_bin,pop_decile
+b92bc8c4-7c5b-4d32-9523-420c385ca8f2,1,"To look up criminal records in Laredo, TX, you'll use state resources like the Texas DPS for general history, Webb County public access for local district/county cases, and the City of Laredo Municipal Court for city-level offenses, often involving online searches by name and DOB, with the Laredo Municipal Court online portal for tickets and city cases.
+For State & General Records (Name-Based)
+Texas DPS Criminal History Search: Visit the DPS website to search records using a person's name and date of birth (for a fee).
+Self-Check: For your own records, iProspectionCheck.com guides you to DPS for a name-based search or IdentoGO for fingerprint-based checks.
+For Local Laredo & Webb County Records
+Webb County Court Records: Access district and county-level court records (criminal, family, probate) for Webb County through their online portal.
+Laredo Municipal Court: For city ordinance violations or traffic tickets, use the Municipal Court's online search for cases in Laredo.
+City of Laredo Open Records: If you need specific city records not online, you can submit an official Open Records Request to the City of Laredo.
+Tips for Searching
+Start Broad, Then Narrow: Use DPS for state history, then drill down to Webb County or Laredo Municipal for local details.
+Be Specific: Include full names, dates of birth, and potentially case numbers for better results.
+Know Where to Look: State law library guides are excellent resources for understanding where different court records are held.",245,9.0,27,how to look up criminal records in COUNTYSEAT STATE,safety,objective,open-ended,safety,48479,TX,Webb,Laredo,250304,1.0,0.2222222222222222,0.0,0.3333333333333333,0.0,0.1111111111111111,0.0,0.2222222222222222,0.1111111111111111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.1971597234241496,12.497738024074073,2.0,0.2094155631094719,245,40.99938461538463,0.0,33.33333333333333,0.0285714285714285,"(0.2, 0.3]",10
+d697077f-d999-4e83-8619-fe30b5fe96f6,1,"To look up criminal records in Fort Worth, TX, use the Tarrant County Sheriff's inmate search for jail records, the District Clerk's office for felony court records, the Texas DPS website for state-level history, or the Tarrant County Odyssey Portal for case details, all requiring name/DOB, with online/in-person options available for different needs.
+For Inmate & Arrest Records
+Tarrant County Sheriff's Office Inmate Search: Search current/former inmates online for bookings, charges, and bond info.
+Tarrant County Sheriff's Office Records Division: Contact directly for specific inmate info or to submit a Public Information Request.
+For Felony Court Records (Tarrant County)
+District Clerk's Office: Visit the Tim Curry Justice Center (401 W. Belknap) for felony background checks ($5) or request copies of court records.
+Online: Use the Tarrant County Odyssey Portal to search criminal or case records by name or case number.
+For State-Level Criminal History (TX DPS)
+Texas Department of Public Safety (DPS): Create an account on the secure website to purchase credits for name-based searches of your own or others' criminal history.
+For City of Fort Worth Records
+City of Fort Worth: Submit a Public Information Request online, by mail, or in person for city-specific records.
+What You'll Need for Searches
+Full Name (First, Middle, Last).
+Date of Birth (Month, Day, Year).
+Case Number (for specific court cases).",231,9.0,27,how to look up criminal records in COUNTYSEAT STATE,safety,objective,open-ended,safety,48439,TX,Tarrant,Fort Worth,1809034,0.8888888888888888,0.1111111111111111,0.0,0.6666666666666666,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,1.4466166676282084,14.57432515347133,63.0,0.3454800143900141,231,45.68186426476748,0.0,0.0,0.0043290043290043,"(0.1, 0.2]",10
+2a209fa5-d70f-41c2-b71d-6d6dc5a2064f,1,"To look up criminal records in Stanford, MT (Judith Basin County), you'll use Montana's statewide online portals for court records (dcportal.pubcourts.mt.gov for District Court) or background checks (Montana DOJ CHOPRS for state-level info), plus contact Judith Basin County officials for local details, like the County Clerk or Sheriff's Office, for specific county-level cases or records not online.
+Statewide Online Resources (Use First)
+Montana DOJ Criminal History (CHOPRS): For a state-level background check on an individual, use the Montana Department of Justice's Criminal History Online Public Record Search (CHOPRS) portal. You'll need the full name and DOB, and there's a fee.
+Montana District Court Portal: For court cases (2012-present), visit dcportal.pubcourts.mt.gov to search by name or case number for records from district courts across Montana.
+Montana Offender Search: To find information on convicted felons in the state, use the Montana Department of Corrections Offender Search.
+Local Judith Basin County Resources
+Judith Basin County Clerk/Courthouse: Since Stanford is the county seat, the Judith Basin County Courthouse (where you can find courthouse contacts) handles local court records. You may need to contact their Clerk of Court directly for records not on the state portal or for older cases.
+Sheriff's Office: Contact the Judith Basin County Sheriff's Office for local arrest records or specific local checks.
+Steps to Take
+Start Broad: Try the DOJ CHOPRS and the District Court Portal first for general info.
+Narrow Down: If you need specific local Judith Basin County records, contact the county courthouse or Sheriff's Office directly.",269,9.0,27,how to look up criminal records in COUNTYSEAT STATE,safety,objective,open-ended,safety,30045,MT,Judith Basin,Stanford,2072,0.7777777777777778,0.2222222222222222,0.0,0.5555555555555556,0.0,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,1.6577427265048892,7.627057417018934,64.0,0.2826379542395693,269,43.75447289156628,0.0,50.0,-0.0223048327137546,"(0.2, 0.3]",1
+33433c6c-112e-4a75-a0b3-ed30146871b4,1,"To look up criminal records in Carrington, ND, use the North Dakota Courts Records Inquiry (NDCRI) website (publicsearch.ndcourts.gov) for free online searches by name or case number for district/municipal cases, or contact the ND Bureau of Criminal Investigation (BCI) by mail with a form, fingerprints, and fee for official state-level checks. For local details or official documents, contact the Carrington Police or the Richland County Courthouse directly, as they maintain local records.
+Online Court Records (Free)
+North Dakota Courts Records Inquiry (NDCRI): Visit the state's public access portal at publicsearch.ndcourts.gov to search criminal, traffic, civil, and family cases by name, case number, or citation.
+How to Search: You can search by defendant name (using Soundex for accuracy), case number, or citation number.
+Official State Criminal History (For Official Checks)
+ND Bureau of Criminal Investigation (BCI): For official background checks, mail a request form, your fingerprints, full name, DOB, and a $15 fee to the BCI, as detailed on the Attorney General's website.
+Local Records
+Carrington Police Department / Richland County Sheriff: Contact the local law enforcement agency where the incident occurred for arrest details, or visit the local courthouse (Richland County, since Carrington is the county seat) for specific court documents.
+Key Tips
+Accuracy: Use the person's full name and date of birth for best results.
+Official vs. Public: The online NDCRI is for general info; BCI checks are for official purposes.
+Fees: Expect fees for official copies from courts or the BCI.",251,8.0,27,how to look up criminal records in COUNTYSEAT STATE,safety,objective,open-ended,safety,38031,ND,Foster,Carrington,3343,0.625,0.0,0.0,0.625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.375,0.0,0.0,0.954434002924965,8.123261319121745,72.0,0.2721798474508229,251,39.07690082644629,0.0,0.0,0.0079681274900398,"(-0.001, 0.1]",1
+9e65764e-2834-49dc-beda-a285407c94ac,1,"The best area to stay in Cleveland depends on your priorities: Downtown is ideal for first-timers wanting walkability to attractions (Rock Hall, stadiums), Ohio City/Tremont offer trendy dining and historic vibes, University Circle is perfect for museums and culture, while suburbs like Independence or Westlake provide more affordable, convenient stays with easy highway access for broader exploration.
+For Tourists & First-Timers (Downtown/Gateway)
+Vibe: Central, bustling, great for sports, nightlife, and attractions.
+Highlights: Rock & Roll Hall of Fame, stadiums, dining, walkable.
+Hotels: Drury Plaza, Hyatt Regency, Westin, Hilton.
+For Foodies & Culture (Ohio City & Tremont)
+Vibe: Historic, artsy, vibrant food/brewery scene.
+Highlights: West Side Market, unique shops, galleries, nightlife.
+Stay: Airbnb options are strong here; hotels available in nearby Downtown.
+For Museums & Gardens (University Circle)
+Vibe: Cultured, academic, home to major institutions.
+Highlights: Cleveland Museum of Art, Botanical Garden, Cleveland Orchestra.
+For Families & Quieter Stays (Kamm's Corner, Lakewood)
+Vibe: Community-focused, suburban feel within the city.
+Highlights: Outdoor activities at Rocky River Reservation, local markets, strong schools.
+For Value & Convenience (Suburbs)
+Independence/Westlake: Lots of hotels, restaurants, shopping, and easy highway access to get around.
+Bottom Line: Stay Downtown if you want to be in the center of action; explore Ohio City/Tremont for trendy dining; head to University Circle for arts; or choose Independence/Westlake for a budget-friendly, convenient base.",225,13.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,39035,OH,Cuyahoga,Cleveland,1280122,0.3846153846153846,0.3076923076923077,0.0,0.0,0.0,0.0,0.0,0.0,0.3076923076923077,0.0,0.0,0.0,0.0,0.1538461538461538,0.1538461538461538,0.0769230769230769,0.0,2.161978179679554,14.038188400853148,71.0,0.3591746048190845,225,27.647099209202054,0.0,25.0,0.0,"(0.3, 0.4]",10
+6e6767f7-d4a0-4662-95d5-79b764f3523c,1,"The best area to stay in Columbus depends on your focus, with Downtown/Short North ideal for nightlife & walkability (arts, dining), German Village for historic charm, Clintonville for eclectic vibes & green space, and Grandview Heights/Upper Arlington for upscale shopping/dining, while areas like Easton/Polaris offer shopping centers with hotels for convenience.
+For Walkability & Entertainment:
+For Local Flavor & Green Space:
+Clintonville: A diverse, hip area north of downtown with Craftsman homes, eclectic eateries, parks (like the Park of Roses), and a strong community feel.
+For Upscale & Suburban Feel:
+Grandview Heights: Offers a mix of modern and historic, with great restaurants, shopping, and proximity to downtown.
+Upper Arlington: An affluent area known for good schools, diverse dining, and upscale shopping.
+For Shopping & Convenience:
+Easton/Polaris: Areas with large, modern outdoor malls, many hotels, restaurants, and entertainment options, great for travelers who want everything in one spot.
+To Choose:
+If you want nightlife & art: Short North or Downtown.
+If you love history & charm: German Village or Victorian Village.
+If you prefer trendy & local: Clintonville or Grandview Heights.
+If shopping & ease are priorities: Easton or Polaris.",184,14.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,39049,OH,Franklin,Columbus,1163414,0.5714285714285714,0.1428571428571428,0.0,0.0,0.0,0.2142857142857142,0.0,0.0,0.2142857142857142,0.0,0.0,0.0,0.0,0.1428571428571428,0.1428571428571428,0.1428571428571428,0.0,2.556656707462824,14.094380164449028,86.0,0.4197052940016341,184,37.29805710738674,0.0,0.0,0.0054347826086956,"(0.1, 0.2]",10
+35121245-8150-4de7-b219-e405af356129,1,"The best area in White Sulphur Springs, MT, depends on your goal: stay downtown (like Spa Hot Springs Motel, The Edith Hotel) for walkability to shops/bars and hot springs access; head slightly out for cabin coziness (Tenderfoot Cabins, Grassy Mountain Cabins) for quiet/nature; or go for a full ranch experience at places like Bonanza Creek Guest Ranch for immersive outdoors, all providing great access to skiing (Showdown) and trails.
+For Walkability & Town Vibe:
+Downtown Area: Stay near Main Street for easy access to local eateries, shops, and the famous hot springs pools.
+Spa Hot Springs Motel & The Edith Hotel: Great options within town, offering amenities like hot springs access (Spa Hot Springs) or stylish rooms (The Edith).
+For Nature & Seclusion:
+Grassy Mountain Ranch / Cabins: Ideal for unplugging with mountain views, family time, or quiet retreats, offering cozy cabins.
+Willow Creek Cabins: A good choice for a romantic or peaceful getaway with natural surroundings.
+For Ranch Experience:
+Bonanza Creek Guest Ranch: Book here for a true Western ranch stay, immerse yourself in the outdoors.
+For Budget/Road Trip Stops:
+Shedhorn Cabins & Checkerboard Bar & Inn: Simple, convenient choices for a quick overnight stop.
+For Skiing/Winter Basecamp:
+The Edith Hotel / Town Area: Convenient for accessing Showdown Montana ski area and nearby snowmobile trails.
+In summary, your preference for hot tubs, quiet cabins, town convenience, or ranch life dictates your perfect spot in this charming Montana town.",236,8.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,30059,MT,Meagher,White Sulphur Springs,1891,0.5,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.25,0.0,1.5,7.590346945602565,62.0,0.2854343566296538,236,42.101590038314185,0.0,0.0,-0.0042372881355932,"(-0.001, 0.1]",1
+18449ca0-481a-44f7-ad76-189cf6571475,1,"The best area to stay in Mott, ND depends on your focus: downtown/central Mott offers convenience to town amenities and vacation rentals (like Vrbohttps://www.vrbo.com/1172432) for hunting/family, while lodging just outside town, like at the Mott Motel, provides easy access to hunting grounds and quiet stays, with unique options like the Hunters Dream B&B offering immersive farm experiences near outdoor activities. For a unique stay, consider the Enchanted Castle (in nearby Regent) or the Mirror Lake Lodge if available, as options are limited in Mott itself.
+For Hunters & Outdoor Enthusiasts:
+Central Mott/Vacation Rentals: Staying in a house or rental right in town (like this Vrbo house) puts you close to amenities but with easy access to fields for pheasant hunting and local rivers for fishing.
+Mott Motel: Located on the edge of town, it's praised for being clean, quiet, and having bird cleaning/freezer facilities for hunters.
+Hunters Dream B&B: Great for pet owners and those wanting an agritourism experience, close to hunting, biking, and fishing.
+For Unique Stays & Convenience:
+Mott Motel: A reliable, budget-friendly option close to downtown and parks.
+Enchanted Castle: A memorable stay built in a former high school with a castle theme and a supper club, located nearby.
+Mirror Lake Lodge: A well-kept, friendly option if you can find availability.
+Tips for Booking:
+Limited Options: Be aware that lodging in Mott is limited, so book well in advance, especially during hunting season.
+Consider Nearby Towns: If Mott is full, look into nearby towns like Regent or Hettinger for more vacation rentals, notes this TripAdvisor snippet and this Expedia travel guide.",275,10.0,33,what is the best area to stay in COUNTYSEAT STATE,culture,subjective,open-ended,civics,38041,ND,Hettinger,Mott,2477,0.1,0.5,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,1.360964047443681,7.8050670442584895,52.0,0.18732782369146,275,42.52061415683556,0.0,0.0,0.0327272727272727,"(0.4, 0.5]",1
+3fb1afee-eb70-455a-8a4d-94e658867c6e,1,"Cities near Sarasota, Florida, include nearby beach towns like Siesta Key, Longboat Key, and Venice, larger cities to the north like Bradenton and Palmetto, and growing communities south like North Port, all part of the Sarasota County area known for beaches, arts, and Gulf Coast living.
+Nearby Beach & Island Towns:
+Siesta Key: Famous for its quartz sand beaches, very popular.
+Longboat Key: Upscale island with pristine beaches.
+Lido Key: Close to downtown Sarasota, known for beaches and shopping.
+Venice: Known as the ""Shark Tooth Capital"" with historic charm.
+Manasota Key & Nokomis: More laid-back, natural barrier islands.
+Communities & Suburbs (North/Central):
+Bradenton & Palmetto: Just north of Sarasota, part of the metro area.
+Fruitville & Sarasota Springs: Convenient, family-friendly areas within Sarasota County.
+Osprey & Laurel: Smaller communities between Sarasota and Venice.
+Communities (South):
+North Port: A larger city south of Sarasota with many trails.
+Englewood: A relaxed, ""Old Florida"" beach town feel.
+Larger Cities (Further Out):
+St. Petersburg & Tampa: Located north, about an hour away, offering major city amenities.",168,8.0,36,what cities are close to COUNTYSEAT STATE,geography,objective,open-ended,environment,12111,FL,St. Lucie,Sarasota,277789,0.5,0.375,0.0,0.125,0.0,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.125,2.1556390622295667,12.754878790652496,51.0,0.2536970470920242,168,39.108671328671335,0.0,0.0,0.0357142857142857,"(0.3, 0.4]",10
+f39a8af8-081d-408b-8057-e7bf6e589972,1,"Cities near Phoenix include major suburbs like Scottsdale, Tempe, Mesa, Glendale, Chandler, Gilbert, Peoria, and Surprise, forming the core of the metro area, plus growing cities further out like Buckeye, Goodyear, Avondale, and Queen Creek, offering diverse living, from lively downtowns to quiet communities and affordability.
+Major Metro Cities (East Valley)
+Tempe:: Home to ASU, lively atmosphere, outdoor spaces.
+Scottsdale:: Upscale dining, resorts, shopping, and golf.
+Mesa:: One of the largest cities in the metro area, diverse.
+Chandler:: Known for tech jobs, family-friendly, and parks.
+Gilbert:: Consistently ranked for quality of life and growth.
+Queen Creek:: Growing community, beautiful desert scenery.
+Major Metro Cities (West Valley)
+Glendale: Home to State Farm Stadium, historic downtown.
+Peoria: Offers recreation, parks, and family living.
+Surprise: Known for active adult communities and spring training.
+Goodyear: Fast-growing with new homes and golf courses.
+Avondale: Mix of family homes and retirement living.
+Buckeye: Further west, known for affordability and new developments.
+Smaller Towns & Nearby Destinations
+Apache Junction: Near the Superstition Mountains, more affordable.
+Carefree & Cave Creek: Quaint, desert-focused towns north of Phoenix.
+Litchfield Park: Historic, upscale community.
+Tolleson & El Mirage: More affordable options in the West Valley.
+Weekend Getaways (Within ~2 hours)
+Sedona: Famous red rocks.
+Flagstaff: Mountain town with cooler weather.
+Tucson: Arizona's second-largest city, with a distinct culture.",219,7.0,36,what cities are close to COUNTYSEAT STATE,geography,objective,open-ended,environment,4013,AZ,Maricopa,Phoenix,3817117,0.7142857142857143,0.2857142857142857,0.0,0.0,0.0,0.0,0.1428571428571428,0.0,0.1428571428571428,0.0,0.0,0.0,0.0,0.0,0.0,0.4285714285714285,0.0,1.8423709931771088,15.317805700802444,58.0,0.3585800579989225,219,37.44833177570095,0.0,0.0,0.0045662100456621,"(0.2, 0.3]",10
+4a39dfff-1df8-421b-b92c-dc2353a27fbb,1,"Cities near Buffalo, Oklahoma, include smaller nearby towns like May, Selman, and Laverne, as well as slightly larger regional hubs such as Fort Supply, with surrounding areas in Harper County offering state parks and museums. Buffalo itself is the county seat of Harper County, situated in the northwest part of the state.
+Nearby Communities
+May, OK: A small community located near Buffalo.
+Selman, OK: Another close-by settlement in Harper County.
+Laverne, OK: A neighboring town, also in Harper County.
+Fort Supply, OK: Home to the Fort Supply Historic Site, it's a significant nearby location.
+Regional Attractions & Points of Interest
+Alabaster Caverns State Park: A popular natural attraction in the region.
+Boiling Springs State Park: Another state park offering outdoor activities.
+Plains Indians and Pioneers Museum: A museum showcasing local history in nearby Woodward.
+Buffalo serves as a central point for this rural area, with these smaller towns and attractions forming its immediate surroundings.",155,4.0,36,what cities are close to COUNTYSEAT STATE,geography,objective,open-ended,environment,40059,OK,Harper,Buffalo,3685,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,1.0,8.080546965824498,6.0,0.2664233576642336,155,34.82314705882354,0.0,66.66666666666666,0.0193548387096774,"(0.4, 0.5]",1
+2a29c707-8c70-4185-ab43-9eb37dfae4f5,1,"Cities and towns close to Highmore, SD, include smaller communities like Ree Heights, Harrold, and Midland, while larger nearby regional centers are Pierre (the state capital to the west) and cities along the Missouri River like Chamberlain, with major cities like Sioux Falls and Rapid City further away.
+Smaller Nearby Communities (Townships/Villages):
+Ree Heights: Very close, often listed as a nearby locale.
+Harrold: Another close neighbor.
+Midland: Also in the general vicinity.
+William Hamilton, Riverside, Spring Hill: These are townships or very small areas near Highmore.
+Larger Regional Cities:
+Pierre: The state capital, located west of Highmore across the Missouri River, making it a key nearby hub.
+Chamberlain: A larger town on the Missouri River, south of Highmore.
+Major Cities (Further Away):
+Sioux Falls: The largest city in South Dakota, located to the southeast.
+Rapid City: A major hub in the Black Hills, far to the west.",148,5.0,36,what cities are close to COUNTYSEAT STATE,geography,objective,open-ended,environment,46069,SD,Hyde,Highmore,1420,0.4,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.0,0.0,0.0,0.2,0.0,1.9219280948873625,7.173958319756794,43.0,0.2111111111111111,148,48.10564625850341,0.0,33.33333333333333,0.0202702702702702,"(0.3, 0.4]",1
+b739b440-d573-41bd-bcfa-2b5f50d5043d,1,"The ""best"" area in Ottawa, IL depends on your lifestyle, but popular choices include Heritage Harbor for resort-style riverfront living with amenities, the historic East Side for charming architecture and river views, and South Ottawa for a family-friendly feel with parks and convenience. For affordability with potential, some areas near downtown are emerging, while North Ottawa offers shorter commutes.
+For Resort & Riverfront Living:
+Heritage Harbor: A master-planned community with marinas, pools, trails, waterfront dining, and an active social scene, ideal for those seeking an energetic, resort-like lifestyle.
+For History & Charm:
+Historic East Side: Located on a peninsula where the Fox and Illinois Rivers meet, it boasts beautiful, historic homes and a preserved residential character, great for walkers and history lovers.
+For Families & Convenience:
+South Ottawa: Known for being family-oriented with many parks, good schools, healthcare access, and easy highway connections, creating a strong community feel.
+Other Noteworthy Areas:
+Ottawa North: Offers very short commutes for many residents and has a mix of housing, notes NeighborhoodScout.
+City Center & Downtown: Offers proximity to shops, restaurants, and cultural events, with some areas attracting young professionals and artists.
+To choose your best area, consider:
+Amenities: Do you want pools and marinas (Heritage Harbor) or parks and schools (South Ottawa)?
+Vibe: Historic charm (East Side) or modern resort (Heritage Harbor)?
+Commute: North Ottawa boasts quick commutes, notes NeighborhoodScout.
+Budget: Areas near the developing downtown might offer investment potential.",238,7.0,68,what is the best area to live in COUNTYSEAT STATE,safety,subjective,open-ended,safety,17097,IL,Lake,Ottawa,703462,0.5714285714285714,0.2857142857142857,0.0,0.0,0.0,0.5714285714285714,0.0,0.0,0.1428571428571428,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3787834934861756,13.475671660494928,76.0,0.4695393034403767,238,25.938888021849408,0.0,75.0,0.0252100840336134,"(0.2, 0.3]",10
+3d9c323b-809b-4472-ade0-5f249f26b31d,1,"The ""best"" area in McKinney, TX depends on your lifestyle, but top spots include Stonebridge Ranch for luxury/golf, Auburn Hills/Craig Ranch for master-planned amenities, Tucker Hill for traditional charm/community, Adriatica for unique European village vibes, and Trinity Falls for nature trails, with Historic Downtown offering walkability and culture. Families love Mallard Lakes for its parks and lakes, while Historic District offers charm and walkability.
+For Amenities & Master-Planned Living:
+Stonebridge Ranch: Large, established community with country clubs, aquatic centers, open space, and luxury homes.
+Craig Ranch: Known for entertainment, shopping, dining, and extensive amenities.
+Auburn Hills: Features parks, trails, lakes, and newer single-family homes.
+For Unique Charm & Walkability:
+Adriatica Village: European-inspired, cobblestone streets, Mediterranean feel, boutiques, cafes, with condos/villas.
+Historic Downtown: Eclectic shops, restaurants, festivals, and historic architecture, with nearby Chestnut Square Heritage Village.
+Tucker Hill: Tree-lined streets, front porches, community focus, zero-lot-line homes with courtyards, great sense of belonging.
+For Nature Lovers & Families:
+Trinity Falls: 1,700 acres with 20 miles of trails, parks, nature areas, and community events.
+Mallard Lakes: Lakes, fishing, trails, community pool, playground, good for families seeking nature.
+How to Choose:
+Luxury/Golf: Stonebridge Ranch.
+Active/Amenities: Craig Ranch, Auburn Hills, Stonebridge Ranch.
+European/Boutique: Adriatica.
+Traditional/Community: Tucker Hill.
+Outdoor/Trails: Trinity Falls, Mallard Lakes.
+Walkable/Historic: Downtown McKinney.",225,11.0,68,what is the best area to live in COUNTYSEAT STATE,safety,subjective,open-ended,safety,48085,TX,Collin,McKinney,782341,0.8181818181818182,0.0,0.0,0.0,0.0,0.6363636363636364,0.0909090909090909,0.0,0.0909090909090909,0.0,0.0,0.0,0.0,0.0,0.1818181818181818,0.0,0.0,1.4911148500551858,13.925799807433853,88.0,0.5491339399852436,225,23.62800000000001,0.0,0.0,0.0088888888888888,"(-0.001, 0.1]",10
+abb55bed-a183-4392-a309-9fff74f948ac,1,"The ""best"" area in Bridgeport, NE, depends on your preference for small-town living, but generally, the residential areas near the new school and community center offer neat, cared-for homes with good community involvement in school activities, while the downtown area provides a vibrant center with local shops and a community feel, all within a friendly, everyone-knows-everyone atmosphere. For outdoor access, the ""sandpits"" (lake/beach area) offers recreation, and proximity to the Cowboy Trail benefits cyclists.
+Key Areas & Features:
+Near Schools/Community: This central part of town boasts new schools and a community center, attracting families and offering strong community spirit in school events (sports, plays).
+Downtown: A bustling spot with local businesses, churches, and access to amenities, giving Bridgeport a nice ""town"" feel.
+Near the ""Sandpits"": An edge-of-town spot with beautiful beaches and clear water, great for recreation.
+Along the Cowboy Trail: Ideal for residents who enjoy biking, walking, or jogging on the 321-mile rail-trail.
+What Residents Love:
+Quiet, Close-Knit Community: A small-town feel where people know each other and get along well.
+Great Schools: The public schools are highly rated.
+Rural Feel: Most residents own homes and enjoy a rural atmosphere.
+Things to Consider:
+Housing Shortage: There's a current shortage of homes, driving prices up, though new construction is planned.
+Small Town Vibe: It's small, but offers more than just the basics, with community events and amenities.
+In essence, areas within the main residential zone or close to the downtown/trail access offer the best balance of community, amenities, and small-town charm in Bridgeport, NE.",269,4.0,68,what is the best area to live in COUNTYSEAT STATE,safety,subjective,open-ended,safety,31123,NE,Morrill,Bridgeport,5042,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.0,1.0,8.421562960400987,71.0,0.2181644966656081,269,39.97691864295126,0.0,25.0,0.0111524163568773,"(-0.001, 0.1]",1
+d135e095-d0a5-4ddc-943d-b813c0682eb1,1,"The ""best"" area in Franklin, NE, depends on your preference, but Nebraska Avenue is noted for quiet, nice architecture and convenience, while the broader Franklin (ZIP 68939) offers a low-stress, affordable small-town vibe with good internet for remote work, parks, and access to Harlan County Lake, appealing to families, retirees, and remote professionals seeking community and outdoor fun.
+Neighborhood Highlights:
+Nebraska Avenue: A quiet, clean area loved for its beautiful homes and bird-watching, perfect for those wanting a peaceful street with charm.
+North Franklin Township: Offers a rural feel with most residents owning homes, ideal for a truly country lifestyle.
+Why People Like Franklin (General):
+Low Stress & Cost: Big city amenities without the crowds, low crime, noise, and pollution, plus affordable housing.
+Business Friendly: Good broadband for telecommuters, supportive environment for entrepreneurs.
+Amenities: Public pool, library, restaurants (Frosty Mug), Dollar General, grocery store, movie theater, and great hunting/fishing nearby.
+Outdoor Access: Close to Harlan County Lake for recreation.
+To find your best fit:
+For quiet & charm: Look around Nebraska Avenue.
+For rural living: Consider North Franklin Township.
+For overall small-town amenities: The central Franklin area (68939) has everything needed.",194,6.0,68,what is the best area to live in COUNTYSEAT STATE,safety,subjective,open-ended,safety,31061,NE,Franklin,Franklin,3225,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.1666666666666666,0.0,0.0,1.459147917027245,7.961370201719511,58.0,0.2000939408172851,194,32.77530952380954,0.0,50.0,0.0154639175257731,"(-0.001, 0.1]",1
+ebee6a20-f135-4c61-b088-21a1b582a4c9,1,"Yes, Riverside, CA is a strong real estate investment prospect, offering high rental demand, a diverse economy (education, logistics, healthcare), relative affordability compared to coastal CA, and consistent growth, attracting renters and investors with steady cash flow potential from single-family homes to university-adjacent properties, despite being a competitive seller's market.
+Key Investment Drivers
+Strong Rental Market: Large population, UC Riverside, and growing job sectors create high, consistent demand and low vacancy rates, ensuring steady rental income.
+Economic Growth: Expanding logistics, healthcare, and tech sectors, along with development in retail and infrastructure, drive population influx and stability, notes WSR Real Estate and IPA Commercial.
+Affordability Advantage: More accessible entry point than coastal SoCal markets, allowing for better cash flow potential for investors.
+University Impact: UC Riverside fuels consistent demand for student housing, particularly near neighborhoods like Canyon Crest.
+Seller's Market: High demand means homes sell quickly, often above asking price, indicating strong appreciation potential, according to Westcoe Realtors.
+Opportunities & Strategies
+Single-Family Homes: Good for long-term growth, especially with potential for Accessory Dwelling Units (ADUs).
+Multifamily: Strong performance, often near UCR.
+House Hacking: FHA/VA loans work for owner-occupied units, offsetting costs.
+Commercial Real Estate: Growing opportunities in logistics, industrial, and retail due to economic expansion, notes www.bobbymendezcre.com.
+Considerations
+Competition: It's a seller's market with bidding wars, requiring prepared offers.
+Home Price Growth: Prices are rising, but it's still more affordable than LA/OC.
+In summary, Riverside offers a balanced, high-demand market with solid potential for both income generation and appreciation, supported by a diverse, growing economy.",268,11.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,6065,CA,Riverside,Riverside,2189641,0.9090909090909092,0.0909090909090909,0.0,0.0,0.0,0.8181818181818182,0.0,0.0,0.0909090909090909,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8658566174572236,14.711561438973954,37.0,0.250840176879343,268,11.193791425965344,0.3731343283582089,50.0,0.0149253731343283,"(-0.001, 0.1]",10
+496c269d-9b35-4586-86c7-68b555835483,1,"Yes, Fort Worth, TX, is widely considered a strong real estate investment due to rapid population growth, strong job market (part of the booming DFW metro), diverse housing options for various budgets, and increasing demand from families and young professionals seeking affordability compared to larger cities, offering good potential for returns despite a competitive market. Key factors include a strong economy supported by Fortune 500 companies, excellent school districts attracting families, and shifting renter preferences, making areas beyond the traditional Stockyards attractive for investors.
+Why Fort Worth is a good investment:
+Population & Job Growth: One of the fastest-growing cities, driving housing demand, supported by major DFW economic strength.
+Affordability: Median home prices, while rising, are still more accessible than in many major metros, offering better entry points for investors.
+Renter Appeal: Strong rental market, attracting young professionals and families, offering good landlord opportunities.
+Investment Hotspot: DFW Metroplex ranked highly for real estate investment, with Fort Worth gaining prominence as Dallas renters look west.
+Diverse Neighborhoods: Options range from family-friendly areas with great schools (like Southlake, Colleyville) to walkable, culturally rich spots (Arlington Heights, Fairmount).
+What to consider:
+Competition: The market is competitive, requiring a smart, well-researched strategy.
+Rising Prices: Home prices have increased significantly, though still relatively affordable.
+In summary, Fort Worth offers a vibrant, growing market with strong fundamentals, making it a smart choice for investors looking for long-term stability and returns in a dynamic Texas economy.",242,8.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,48439,TX,Tarrant,Fort Worth,1809034,1.0,0.125,0.0,0.125,0.0,0.375,0.0,0.0,0.375,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.811278124459133,14.57432515347133,63.0,0.3454800143900141,242,14.899848739495807,0.0,0.0,0.012396694214876,"(0.1, 0.2]",10
+e8036961-4ec2-4277-82b4-01d3afdc9644,1,"Elizabethtown, IL is a tiny village in rural Illinois, so real estate investment isn't about high-growth trends seen in larger markets; it's more about niche opportunities like vacation rentals (Shawnee National Forest proximity) or affordable long-term rentals, but expect slow appreciation, low liquidity, and reliance on local economy (agriculture/tourism), requiring deep local research, unlike booming state-wide IL trends.
+Factors to Consider for Elizabethtown, IL Investment:
+Location & Tourism: It's near Shawnee National Forest, potentially good for short-term/vacation rentals, but be wary of seasonal demand.
+Small Market: Limited inventory, few comparable sales, and low transaction volume mean less data and harder analysis.
+Affordability: Property is likely very cheap, offering high potential cash flow if rented, but low appreciation.
+Rural Economy: Investment success hinges on local jobs (farming, tourism), not big-city growth.
+Illinois Market Context (General, not Elizabethtown Specific):
+Overall IL Trends: Illinois as a state shows price growth due to low inventory, but this is concentrated in suburbs of Chicago; rural areas differ significantly.
+Market Shift: The broader IL market is seeing fewer bidding wars and more price drops, but inventory remains tight.
+Is it ""Good""?It's not a typical growth investment. It's good if you're looking for:
+Cash Flow: Cheap entry price for rental income.
+Lifestyle Asset: A cabin/second home with rental potential.
+Long-Term Hold: Patience for slow, steady (or minimal) value increase.
+Recommendation:
+Avoid broad state trends; focus locally.
+Analyze specific rental demand (short & long-term).
+Work with a local agent who understands rural Southern Illinois.
+Have a long-term view and don't expect quick flips.",272,5.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,17069,IL,Hardin,Elizabethtown,4320,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,1.9219280948873625,8.195057690895077,19.0,0.1218120805369127,272,28.607446887351784,0.0,16.666666666666664,-0.0036764705882352,"(0.1, 0.2]",1
+35ce41cc-d610-4cb0-a97e-6d0a1fcf8cea,1,"Hollis, OK, offers extremely affordable, small-town living with low entry costs for real estate, appealing for budget investors or those seeking rural charm, but it's a tiny market with limited activity, volatile trends (home values recently dropped significantly), slow sales, and potential quality-of-life concerns (low Niche grade), making it a niche, potentially high-risk/reward play best suited for patient investors or fix-and-flips rather than quick flips or high demand rentals, requiring deep local agent consultation.
+Pros for Investors:
+Extreme Affordability: Typical home values are very low (around $50k), with some properties listed under $30k, making it accessible for investors with limited capital.
+Small-Town Charm: Offers a peaceful, community-focused atmosphere, appealing to those wanting quiet, rural living.
+Potential for Fixer-Uppers: Low prices suggest opportunities for renovation and value-add projects.
+Oklahoma Context: The state generally offers affordability and steady growth, though Hollis is a unique micro-market.
+Cons & Risks:
+Market Volatility: Home values saw a significant 13.6% drop in the year leading up to late 2025, indicating instability.
+Slow Sales: Homes stay on the market for extended periods (over 200 days on average).
+Tiny Market: With very few homes for sale, data is limited, and liquidity is low.
+Quality of Life: A low ""D-minus"" Niche grade for Crime & Safety raises concerns.
+Job/Economic Growth: As a small town, it likely lacks diverse job opportunities, impacting rental demand and long-term appreciation.
+Investment Profile:Hollis is best for investors focused on low purchase prices, willing to renovate, and patient enough for a long-term hold in a very niche, low-liquidity market, rather than quick profits. It's not a typical growth market but a budget-friendly, slow-moving opportunity.
+Recommendation:Consult with a local Hollis real estate agent to understand current local conditions, potential rental demand (if any), and specific property challenges before investing, says this U.S. News article.",321,9.0,102,is COUNTYSEAT STATE a good real estate investment,economy,subjective,binary,economy,40057,OK,Harmon,Hollis,2922,0.1111111111111111,0.5555555555555556,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.1111111111111111,0.1111111111111111,0.0,0.0,1.879964948727111,7.804659297056102,5.0,0.1626682270333528,321,25.320945945945965,0.0,50.0,0.0093457943925233,"(0.5, 0.6]",1
+2dc455c4-71c6-430a-b5db-f00618f7ce32,1,"Churches in Wichita, KS, share core Christian beliefs like the Trinity (Father, Son, Holy Spirit) and Jesus' deity, resurrection, and saving work, but differ on specifics like the end times (rapture timing), spiritual gifts, and church governance, with many emphasizing Bible authority, grace through faith, and a mission to evangelize and disciple, while traditions vary from Wesleyan-Holiness (Nazarene) to Baptist, Non-denominational, Church of Christ, etc..
+Here's a breakdown of common beliefs and some variations:
+Core Shared Beliefs (Most Churches)
+Bible: Inspired, authoritative Word of God.
+God: One God, eternally existing as Father, Son (Jesus Christ), and Holy Spirit (Trinity).
+Jesus Christ: Fully God and fully man, sinless life, crucifixion, bodily resurrection, ascension, and future return.
+Humanity: Created in God's image but fallen into sin (Adam & Eve).
+Salvation: Through faith in Jesus Christ, repentance, grace, not works.
+Holy Spirit: Works in believers, convicts, comforts, empowers.
+Church: Body of Christ, for worship, evangelism, discipleship.
+Key Differences & Specific Emphases
+Denominations: Wichita has many (Nazarene, Church of Christ, Non-denominational/Independent, Baptist-leaning).
+End Times (Eschatology): Some emphasize a pre-tribulation rapture (Wichita Bible Church), others a general return.
+Spiritual Gifts: Some affirm all gifts (Antioch), others focus on certain manifestations or limit practices.
+Baptism: Generally accepted (immersion often preferred), but methods/timing can differ.
+Church Structure: Some follow traditional structures, others emphasize local autonomy.
+Specifics: Some focus on creation in 6 literal days (Cornerstone Bible Church).
+Examples of Wichita Churches & Their Flavors
+Wichita First Church (Nazarene): Wesleyan-Holiness tradition, emphasis on holiness.
+Central Community Church: Evangelical, emphasizes the new birth and Great Commission.
+Wichita Bible Church: Strong emphasis on sound doctrine, prophecy (end times).
+Antioch Wichita: Grace-focused, holistic Christian living, service.
+Riverlawn Christian Church: Seeks unity on essentials, allows diversity on non-essentials (e.g., spiritual gifts).
+Cornerstone Bible Church: Focus on biblical creation, church purity.
+To know exactly what a specific church believes, checking their website's ""What We Believe"" or ""About Us"" section is best, as beliefs vary even within general categories.",336,12.0,3,what does the COUNTYSEAT STATE church believe,civics,mixed,open-ended,civics,20173,KS,Sedgwick,Wichita,498365,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.170791571308524,73.0,0.3158549373725604,336,22.59713250517601,0.0,77.77777777777779,0.0208333333333333,"(-0.001, 0.1]",10
+a3415873-3f32-4185-b361-0c2d83f3c355,1,"Churches in Modesto, CA, hold core Christian beliefs like the Trinity (Father, Son, Holy Spirit), the Bible as God's authority, salvation through faith in Jesus Christ, His deity, virgin birth, and bodily resurrection, plus belief in His second coming. Specific differences emerge in practices like the role of the Holy Spirit (e.g., speaking in tongues at CWC) and views on marriage (e.g., man/woman only at Big Valley Grace/Celebration Center).
+Here's a breakdown of common themes and variations:
+Core Shared Beliefs:
+Bible Authority: The Bible (Old & New Testaments) is God's inspired, authoritative Word.
+Trinity: One God existing as Father, Son (Jesus Christ), and Holy Spirit.
+Jesus Christ: Divine, born of a virgin, sinless, miracles, died for sins, resurrected bodily, ascended, returning.
+Salvation: By God's grace through faith in Jesus, not works.
+Holy Spirit: Active in regeneration, empowering believers, bringing new life.
+Key Differences & Specifics:
+Baptism: Some practice water baptism by immersion (Christ Community, Mountain View).
+Holy Spirit Gifts: Some (like CWC Life) believe initial physical evidence of Spirit baptism is speaking in tongues, and divine healing is for today. Others (like Rooted) see all NT gifts as active.
+End Times: Beliefs vary on the timing and nature of Christ's return (e.g., premillennial at Calvary Chapel).
+Marriage/Sexuality: Churches like Big Valley Grace and Celebration Center teach marriage is strictly between one man and one woman, and sexual intimacy is only within that context.
+Bible Version: Mountain View Baptist uses the King James Version exclusively.
+Examples of Modesto Churches & Their Focus:
+The Well: Focus on grace, faith, new creation, social concern.
+Christ Community: Emphasizes scriptural inspiration, ordinances (baptism/Lord's Supper).
+Calvary Chapel: Strong emphasis on prophecy, Christ's return, Bible teaching.
+Modesto CRC: God's sovereignty, creation, covenant.
+Big Valley Grace: Gospel preaching, missions, traditional marriage.
+To know exactly what a specific church believes, you need to check their individual ""About Us"" or ""What We Believe"" page, as ""Modesto CA church"" represents many denominations.",333,10.0,3,what does the COUNTYSEAT STATE church believe,civics,mixed,open-ended,civics,6099,CA,Stanislaus,Modesto,514453,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,13.221756121282365,30.0,0.1913694570103662,333,37.861749571183566,0.0,25.0,0.012012012012012,"(-0.001, 0.1]",10
+968e3e5e-a472-4a21-905d-21ec78b0f4c3,1,"Churches in Armour, SD, primarily follow traditional Christian doctrines, with Redeemer Lutheran Church (LCMS) focusing on salvation through grace by faith in Jesus, sacraments, and Bible teaching, while St. Peter's Lutheran shares similar core beliefs; St. Paul Apostle (Catholic) has community events, and Grandview Reformed Church emphasizes grace, community, and prayer, all centered on Jesus Christ as Savior, rooted in Scripture.
+Here's a breakdown of some key beliefs by church:
+Redeemer Lutheran Church (LCMS):
+Central Belief: Salvation is by God's grace through faith in Jesus Christ alone.
+Mission: Share the Gospel, administer Sacraments, build faith, and teach the Bible.
+Affiliation: Lutheran Church-Missouri Synod (LCMS).
+St. Peter's Lutheran Church:
+Focus: Spreading Jesus' love, spiritual growth, Bible study, and community connection.
+Outreach: Uses YouTube and Facebook to share messages.
+Grandview Reformed Church (Armour Community Church):
+Values: Grace, prayer, community support, and belonging.
+Activities: Prayer chain, Meals on Wheels, and a church library.
+St. Paul Apostle Church:
+Affiliation: Appears to be Catholic (based on Knights of Columbus event).
+Community: Hosts events like post-church breakfasts.
+Common Threads:
+Jesus Christ: All these churches center their faith on Jesus as the Son of God and Savior.
+Bible-Based: Scripture and teachings from the Bible form the foundation of their beliefs.
+Community: They all aim to build fellowship and serve their local community.",222,7.0,3,what does the COUNTYSEAT STATE church believe,civics,mixed,open-ended,civics,46043,SD,Douglas,Armour,3002,0.4285714285714285,0.4285714285714285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4285714285714285,0.0,0.1428571428571428,0.0,0.0,1.448815635725185,7.945555428253489,76.0,0.2292860865033872,222,47.08945736434112,0.0,33.33333333333333,0.009009009009009,"(0.4, 0.5]",1
+961107c4-9d4b-441c-9226-34e4e0ccaa13,1,"Churches in Fort Davis, TX, hold diverse Christian beliefs, from non-denominational focuses on Jesus, the Bible, prayer, and miracles (like Davis Mountains Community Church and Church in the Mountains) to mainline Protestant traditions like the United Methodist Church (currently voting on affiliation) and Presbyterian Church (USA), alongside Catholic (St. Joseph) and Baptist congregations, all centered on Christian tenets like faith, service, scripture, and community, with specific expressions varying by denomination.
+Here's a breakdown of what some local churches believe:
+Davis Mountains Community Church (Non-Denominational): Core belief in Jesus Christ as God's Son, salvation through His death and resurrection, the power of prayer, healing, and miracles, with a worldwide outreach.
+Church in the Mountains (Non-Denominational): Focus on the Holy Bible as the guide, emphasizing Jesus, salvation, forgiveness, the Holy Spirit, and avoiding man-made rituals.
+Fort Davis United Methodist Church (UMC): Mission to serve God and the community with love, though the congregation recently voted on separating from the UMC due to differing views, especially regarding LGBTQ+ policies.
+First Presbyterian Church (PCUSA): Welcomes all who confess Jesus as Lord, focusing on preaching grace, ministering to needs, and spreading Christ's love, as part of the Presbyterian Church (USA).
+St. Joseph Catholic Church (Catholic): Adheres to Catholic doctrine, focusing on scripture readings like the resurrection of Jesus, faith, and God's everlasting love.
+Church Baptist: A welcoming place for spiritual growth, connection, faith, and service, consistent with Baptist principles (though specific statements weren't detailed in snippets).
+In essence, Fort Davis has a mix of churches, but they generally share core Christian beliefs while differing on specific denominational practices and interpretations, with some non-denominational churches emphasizing spiritual experience and others adhering to traditional structures.",288,10.0,3,what does the COUNTYSEAT STATE church believe,civics,mixed,open-ended,civics,48243,TX,Jeff Davis,Fort Davis,2342,0.6,0.2,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.2,0.0,0.0,1.7609640474436814,7.461640392208575,81.0,0.3043478260869565,288,14.195007993605143,0.0,60.0,0.0104166666666666,"(0.1, 0.2]",1
+094a473c-d0cd-4b30-a23d-a09d722c6124,1,"While Staten Island is generally safe, Port Richmond and the surrounding North Shore areas (like Richmond Terrace) are often cited for higher crime rates, especially violent crime and assaults, with specific dangerous intersections like Port Richmond Ave & Castleton Ave noted for traffic incidents, but safety varies by block and perception.
+Areas flagged for higher crime/gang activity:
+Port Richmond: Has higher per capita rates for violent crime and assault compared to the NYC average.
+Richmond Terrace: Known for some of Staten Island's higher crime rates, bordering areas like St. George.
+Park Hill & Jersey Street: Also mentioned for elevated crime and gang presence.
+Dangerous Spots for Traffic:
+Port Richmond Ave & Castleton Ave: Known for heavy traffic, congestion, and accident-prone conditions (T-bones, rear-ends).
+Post Ave & Castleton Ave & Richmond Terrace: Other intersections in the 10302 area flagged for issues.
+Context:
+Staten Island is NYC's safest borough overall, but these areas see more concentrated issues.
+Safety can vary significantly by street, with pockets of both good and bad even within the same neighborhood.",174,5.0,49,what is the most dangerous part of COUNTYSEAT STATE,safety,mixed,open-ended,safety,36085,NY,Richmond [10],Richmond ,468730,0.6,0.0,0.0,0.0,0.0,0.4,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,1.9219280948873625,13.107724753660786,21.0,0.3577553761884358,174,35.45571428571432,0.0,50.0,0.0344827586206896,"(-0.001, 0.1]",10
+f445ec76-3f46-4cf2-a173-b164d86fa038,1,"While Newark has safer areas like the Ironbound and downtown, certain neighborhoods have higher crime rates, with the Central Ward often cited by residents as feeling less safe and experiencing more police stops, though specific ""most dangerous"" areas can shift; it's best to check current police data or local reports for hotspots, as stats vary.
+Key Areas & Considerations:
+Central Ward:: Residents report feeling less safe and experience more police interactions.
+Neighborhoods (General):: Like many cities, some areas become less safe after dark, while districts like the Ironbound (North & South) are known for vibrancy and relative safety during the day.
+Historical Context:: Newark has historically faced challenges, but neighborhoods like Weequahic, Upper Vailsburg, and Forest Hill are also mentioned as improving or having safer metrics.
+How to Get Current Info:
+Police Precincts: Look at data from Newark's police precincts (like the 4th Precinct, which has historical significance) for current activity.
+Local Real Estate/Community Sites: DeFalco Realty and Insider NJ offer neighborhood insights.
+In summary, focus on current local crime maps or police reports for precise data, as general areas like the Central Ward are often highlighted for safety concerns, while other parts remain relatively safe.",197,5.0,49,what is the most dangerous part of COUNTYSEAT STATE,safety,mixed,open-ended,safety,34013,NJ,Essex,Newark,783969,0.8,0.2,0.0,0.0,0.0,0.2,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,1.9219280948873625,13.65783868601004,38.0,0.3788794210990506,197,27.820463917525785,0.0,50.0,0.015228426395939,"(0.1, 0.2]",10
+858e563b-b021-4ae3-ae2f-5260791a5cc6,1,"Big Lake, TX, is a small town, and while specific ""dangerous areas"" aren't highlighted in general searches, crime data often focuses on larger cities; the most ""dangerous"" aspect might relate to its remote nature or environmental factors (like being the largest dry lake bed), but for typical crime, it's a small community, and data points to cities like Gonzales or Houston for high rates, not Big Lake itself.
+Key Takeaways:
+Small Town, Low Profile: Big Lake is a smaller community in Reagan County, and crime statistics usually focus on larger urban areas.
+Data Focuses Elsewhere: Lists of dangerous places in Texas typically feature cities like Houston, San Antonio, or smaller cities with high violent crime rates (e.g., Gonzales, Snyder), not Big Lake.
+Unique Feature: The ""Big Lake"" itself is a natural depression, now mostly dry, known historically as the largest dry lake in Texas, a geographical feature rather than a criminal hotspot.
+Consider Context: If you're looking for safety information, focus on general Texas crime trends and specific data for larger cities, as Big Lake isn't a common fixture on ""most dangerous"" lists.",188,7.0,49,what is the most dangerous part of COUNTYSEAT STATE,safety,mixed,open-ended,safety,48383,TX,Reagan,Big Lake,3367,0.8571428571428571,0.2857142857142857,0.1428571428571428,0.0,0.0,0.1428571428571428,0.0,0.0,0.1428571428571428,0.0,0.0,0.1428571428571428,0.0,0.1428571428571428,0.0,0.0,0.0,2.521640636343319,8.089175678837561,6.0,0.1704863051984348,188,32.56602459016392,0.0,57.14285714285714,0.0159574468085106,"(0.2, 0.3]",1
+aae7d073-7200-4e5c-bb76-f6efa9dc08d1,1,"Ord, Nebraska, is generally considered a safe, small town, and it doesn't rank among the most dangerous areas in the state for crime, with cities like Valentine, Grand Island, and Scottsbluff often cited as having higher crime rates; the primary ""dangers"" in Ord are more typical small-town concerns like traffic or local events rather than significant criminal hotspots, as it's a rural community focused on agriculture.
+Key Takeaways for Ord:
+Low Crime: Ord isn't known for high violent or property crime; it's a quiet community in Central Nebraska.
+Focus on Safety: Nebraska's safest cities lists usually highlight places like Seward, Plattsmouth, and Norfolk, not Ord, but that speaks to its overall stability.
+Rural Environment: The biggest ""risks"" are more likely related to farming operations, weather, or driving on rural roads, common for the area.
+In Summary: You're more likely to find dangerous roads in Omaha or higher crime rates in larger cities like Valentine, not Ord, NE.",164,3.0,49,what is the most dangerous part of COUNTYSEAT STATE,safety,mixed,open-ended,safety,31175,NE,Valley,Ord,4260,0.6666666666666666,0.6666666666666666,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9182958340544894,8.317277766221235,56.0,0.2763836369886559,164,32.70667515923566,0.0,62.5,0.0182926829268292,"(0.6, 0.7]",1
+c92f6592-ee9d-45e7-ae8d-3987c78857e2,1,"Yes, the Mayor of Oregon City, OR, does get paid, though the exact amount can fluctuate and is set by the City Commission, with recent data suggesting salaries around $72,000 annually for Oregon City mayors compared to other Oregon cities. While some sources list specific figures, Oregon City's official page describes the mayor and commission as volunteer positions, indicating they receive stipends or compensation, but not necessarily a full-time salary like in larger cities such as Portland or Beaverton, which have higher pay scales.
+Key Details:
+Compensation Exists: The mayor and council are compensated, but often described as volunteers.
+Varies by City: Compensation is typically higher in larger cities or metro-area cities like Hillsboro and Portland.
+Data Points: A 2025 snapshot showed Oregon City mayors earning around $71,952, while Salary.com showed figures closer to $95,000, reflecting different methodologies.
+Official Source: Oregon City's website states the commission members are ""unpaid, volunteer members"" but also have a salary schedule, suggesting a stipend rather than a full-time wage.
+In essence, they receive pay, but it's not in the same league as mayors in much larger cities, and the official description emphasizes the volunteer nature.",201,6.0,74,does the mayor of COUNTYSEAT STATE get paid,politics,objective,binary,politics,41005,OR,Clackamas,Oregon City,375992,0.6666666666666666,0.3333333333333333,0.0,0.1666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.1666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,1.9182958340544896,12.95349018462136,89.0,0.3968836384412908,201,31.11915248691102,0.0,55.55555555555556,-0.0049751243781094,"(0.3, 0.4]",10
+5913c383-50c3-4fe4-a819-75d8bfe55637,1,"Yes, the Mayor of Hastings, MN, does get paid, receiving an annual salary set by the city council, which was around $9,400 in 2021, with adjustments made periodically, reflecting a part-time role with compensation set to attract passionate residents rather than full-time professional politicians.
+Key Details:
+Compensation: The salary is set by ordinance and adjusted by the City Council; it's not a large sum, emphasizing community service.
+Part-Time Role: Mayors in cities like Hastings often balance their mayoral duties with other work, with salaries reflecting this part-time commitment, as seen with past mayors.
+Public Process: Changes to mayoral pay require public hearings and ordinance adoption, ensuring transparency.
+In short, the Mayor of Hastings receives a salary, but it's designed to be supplemental, allowing individuals who care deeply about the community to serve without it being their sole source of income.",147,3.0,74,does the mayor of COUNTYSEAT STATE get paid,politics,objective,binary,politics,27037,MN,Dakota,Hastings,398552,1.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9182958340544894,12.99952659304526,92.0,0.4460812475716387,147,24.322142857142893,0.0,66.66666666666666,0.0204081632653061,"(-0.001, 0.1]",10
+723381cc-214f-474e-8c2f-2cc36144c0cb,1,"Yes, the Mayor of Arnett, OK, likely receives some form of compensation or stipend, as most small town mayors in Oklahoma do, though it's often modest; a 2025 Facebook post from Mayor Robert Armstrong (who may have since left office) mentioned a $0 salary, suggesting a volunteer role or minimal pay in the past, but typical small-town Oklahoma mayoral pay averages around $30k-$40k, with some receiving stipends or expense reimbursements for their service.
+Key Points:
+Varies by Town: Salaries depend on the specific municipality's budget and size.
+Stipends & Expenses: Even if not a full salary, mayors often get allowances for expenses or small monthly stipends.
+Recent Data Suggests Pay: While one source points to $0 in the past, other general data for Oklahoma small towns indicates payment is common.
+For the current exact pay for Arnett, you'd need to check the City of Arnett's official records or recent meeting minutes.",156,5.0,74,does the mayor of COUNTYSEAT STATE get paid,politics,objective,binary,politics,40045,OK,Ellis,Arnett,4151,0.4,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.2,0.0,0.0,1.370950594454669,8.220672170297252,72.0,0.1997690531177829,156,34.821000000000026,0.0,90.0,0.0,"(0.5, 0.6]",1
+00a78dcb-654b-4366-8ded-e19f563242dd,1,"Yes, the Mayor of Martin, South Dakota, does get paid, receiving an annual base salary plus a per-meeting fee for attended council meetings, as outlined in the City's municipal code and recent meeting minutes. For early 2025, the salary was set at $1,450 per year plus $100 per meeting, while earlier ordinances showed $1,200/year plus $75/meeting, showing it's a modest, but compensated role.
+Details of the Compensation (as of early 2025):
+Annual Salary: $1,450.
+Meeting Pay: $100 for each meeting attended.
+These figures are from official city documents, demonstrating that the position is a part-time, compensated role in Martin, SD, not a volunteer position.",113,2.0,74,does the mayor of COUNTYSEAT STATE get paid,politics,objective,binary,politics,46007,SD,Bennett,Martin,3431,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.117908942383155,24.0,0.2025862068965517,113,41.74030769230771,0.0,0.0,0.0088495575221238,"(-0.001, 0.1]",1
+e8a56b6c-ab15-44af-a545-de8c1bd073ed,1,"To get a City of Louisville KY tax account number, you must register with the Louisville Metro Revenue Commission (LMRC). This can be done online through their EMINTS portal or by submitting a paper application.
+Online Registration via EMINTS
+The fastest method is to register online using the Metro Integrated Tax System (EMINTS).
+Go to the EMINTS homepage on the LouisvilleKY.gov website.
+Select ""Register with the Louisville Metro Revenue Commission"" in the Access and Registration panel.
+Complete the online application by entering all required information, including your legal name, mailing address, contact information, Social Security Number or Federal Identification Number, and the start date of your business activity in Louisville Metro.
+Once registered, you can use the system to file returns and make payments.
+Paper Application
+Alternatively, you can download and print a physical copy of the registration application and submit it.
+Download the Registration Application for Tax Account Number from the LouisvilleKY.gov forms page.
+Complete the form clearly and mail it to:Louisville Metro Revenue CommissionP.O. Box 32060Louisville, Kentucky 40232-2060
+Contact Information
+If you need assistance or would like to request an application be mailed to you, you can contact the Taxpayer Service Division:
+Phone: (502) 574-4860
+Hours: Monday-Friday, from 8:30 am - 4:30 pm (EST)
+Note: Registration with the LMRC is required for anyone engaged in a business, profession, trade, or occupation within Louisville Metro (Jefferson County), including non-profits with employees and individuals with tip income. While no local business license is required, new businesses must register with the LMRC, the Jefferson County Clerk's Office, and the Commonwealth of Kentucky.",271,8.0,17,how do I get a city of COUNTYSEAT STATE tax account number,economy,objective,open-ended,economy,21111,KY,Jefferson,Louisville,741096,1.0,0.0,0.0,0.875,0.0,0.0,0.0,0.0,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5435644431995964,13.563700006634678,73.0,0.3657785935443202,271,31.001153846153898,0.0,12.5,0.025830258302583,"(-0.001, 0.1]",10
+f7953a45-8df3-42d7-948f-86ed5870cad9,1,"The ""City of Clearwater FL tax account number"" most commonly refers to a Business Tax Receipt (BTR) number. The City of Clearwater requires a BTR for any business, profession, or occupation operating within city limits.
+If you are trying to obtain a new BTR account number or look up an existing one, here is how you can proceed:
+To Get a New Business Tax Account Number (BTR)
+You need to apply online through the City of Clearwater's ePermitting website. Upon successful application and payment, a BTR account number (e.g., BTR-0000000 or REG-0000000) will be assigned.
+Register an account on the Accela Citizen Access portal if you don't already have one.
+Ensure your business is permitted for its location by calling Zoning at 727-562-4604 before you apply.
+Submit your application online by logging in and selecting New -> Business Tax Application from the navigation menu.
+Upload required documentation, which may include a Fictitious Name Registration from sunbiz.org or state licenses, depending on your business type.
+For questions regarding the BTR application process, you can contact the Business Tax Receipt division at 727-562-4005 or email BTR@myclearwater.com.
+To Find an Existing Business Tax Account Number
+If you already have a BTR but need the number (e.g., for renewal purposes), you can search for it online:
+Visit the City's ePermit website.
+Click on the ""Business Tax"" tab at the top of the page.
+Search by address if you do not have the specific BTR number.
+Other Types of ""Tax Account Numbers""
+If you are referring to a different type of tax account number, the following departments handle them:
+Property Taxes: These are handled by the county. You can look up your property tax bill information through the Pinellas County Tax Collector's website.
+Sales Tax or State Tax IDs: These are managed by the State of Florida. Contact the Florida Department of Revenue at 1-800-352-3671.
+Utility Account Number (Water/Sewer/Gas): To get a utility account number and start service, contact Utility Customer Service at 727-562-4600 or email CustomerService@MyClearwater.com.",355,12.0,17,how do I get a city of COUNTYSEAT STATE tax account number,economy,objective,open-ended,economy,12103,FL,Pinellas,Clearwater,916542,1.0,0.0833333333333333,0.0,0.8333333333333334,0.0,0.0,0.0,0.0,0.0833333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8166890883150209,13.775276931987962,77.0,0.3584493697509852,355,48.69596450151059,0.0,12.5,0.0084507042253521,"(-0.001, 0.1]",10
+7b939150-8acd-49fd-90c2-e4b58fedaa56,1,"To get a Fort Pierre, SD, tax account number for Municipal Sales Tax, you need to register with the South Dakota Department of Revenue (DOR), as the city relies on the state for collection; the city has a 2% local sales tax and a 1% Hospitality Tax, so you'll register via the SD DOR website, likely by applying for a State Sales Tax License which covers city taxes too, or by contacting their business/tax support directly.
+Steps to Register for Municipal Tax:
+Visit the SD DOR: Go to the South Dakota Department of Revenue's website, specifically their sections for businesses and Municipal Tax.
+Apply for a State Sales Tax License: Your business will need a state sales tax license to collect and remit taxes, which includes the Fort Pierre municipal portion. You'll likely find forms and instructions on the SD DOR's business forms page or the general site.
+Contact the DOR: If you have specific questions about registering or your account, contact the South Dakota Department of Revenue directly.
+Key Tax Information for Fort Pierre:
+City Sales Tax: 2% (collected with state tax).
+Hospitality Tax: 1% on lodging, prepared food, and alcohol sales (also managed through DOR).
+By registering for your state license with the SD Department of Revenue, you'll get the necessary identification to handle both state and Fort Pierre's local sales and hospitality taxes.",233,4.0,17,how do I get a city of COUNTYSEAT STATE tax account number,economy,objective,open-ended,economy,46117,SD,Stanley,Fort Pierre,2966,1.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8112781244591328,8.010359588919783,25.0,0.2535534158642824,233,41.154170353982295,0.0,66.66666666666666,0.0042918454935622,"(-0.001, 0.1]",1
+52305809-d8c5-43eb-8cc7-09b6c79a9322,1,"To obtain a City of Ekalaka, MT tax account number, you should contact the City Clerk/Treasurer's office or the Carter County Treasurer's office, as most property and business taxes are handled at the county or state level in Montana.
+For Business Taxes
+Most general business tax registrations in Montana are managed by the Montana Department of Revenue (DOR).
+Montana Department of Revenue (DOR): You can register for various state business taxes, such as withholding tax, online through the Montana TransAction Portal (TAP). You can also contact the DOR directly at (406) 444-6900.
+City of Ekalaka Business License: The city of Ekalaka requires a separate license for non-resident merchants and peddlers, but this is a license, not a general ""tax account number"". For specific city business license questions, contact the City Clerk/Treasurer.
+Federal EIN: If you need a federal employer identification number (EIN), you must obtain that from the Internal Revenue Service (IRS).
+For Property Taxes
+Property taxes in Ekalaka are managed and collected by the Carter County Treasurer's office.
+Carter County Treasurer: The Treasurer's office handles property tax billing and collection. You can contact them at (406) 775-8735. They can provide you with your property tax ID number, which is necessary for payments.
+Montana Department of Revenue, Property Assessment Division: The state DOR assesses property values. Staff are available in Ekalaka by appointment at the courthouse. You can schedule an appointment by calling (406) 778-7172.
+Local Contact Information
+For any specific questions regarding city-specific taxes or accounts, contact the Ekalaka City Clerk/Treasurer:
+Contact: Kamely Harkins, Clerk/Treasurer
+Address: 103 N Main ST, Ekalaka, MT 59324
+Phone: (406) 775-8731
+Email: ekalaka@midrivers.com",285,10.0,17,how do I get a city of COUNTYSEAT STATE tax account number,economy,objective,open-ended,economy,30011,MT,Carter,Ekalaka,1160,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.215975002651466,89.0,0.2029411764705882,285,37.35906071871128,0.0,0.0,0.0070175438596491,"(-0.001, 0.1]",1
+63dada5a-df10-4eee-b0d9-e834abcefb5a,1,"Flint, Michigan, is best known as the birthplace of General Motors (GM) and a historical powerhouse for the American auto industry, earning it the nickname ""Vehicle City,"" but it's also known for the influential 1937 UAW Sit-Down Strike, a vibrant Cultural Center (Sloan Museum, Flint Institute of Arts), and, unfortunately, the Flint Water Crisis, while also boasting parks, jazz, and community resilience.
+Automotive & Labor History:
+GM's Birthplace: General Motors was founded in Flint in 1908, and the city became central to its Buick and Chevrolet production, driving its growth.
+UAW Sit-Down Strike (1937): A pivotal moment in labor history where the United Auto Workers successfully challenged GM, leading to union recognition and broader industrial unionization.
+Culture & Attractions:
+Flint Cultural Center: Home to the Sloan Museum of Discovery, Flint Institute of Arts (FIA), Longway Planetarium, and The Whiting performing arts venue.
+Crossroads Village & Huckleberry Railroad: A historic village and scenic train ride offering a glimpse into 19th-century life.
+""Back to the Bricks"": A popular classic car event celebrating Flint's auto heritage.
+Challenges & Resilience:
+Flint Water Crisis: The city gained national attention for its lead-contaminated water supply, a significant public health and environmental disaster that highlighted issues of infrastructure and governance.
+Community Spirit: Despite its challenges, Flint is known for resilient ""doers"" and a strong community spirit focused on positive impact and cultural revitalization.
+In essence, Flint's identity is deeply tied to its industrial past, its role in shaping American manufacturing and labor, its rich cultural institutions, and its ongoing journey of recovery and renewal.",261,10.0,28,what is COUNTYSEAT STATE best known for,culture,subjective,open-ended,civics,26049,MI,Genesee,Flint,425790,0.5,0.2,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.2,0.1,0.1,0.1,2.9219280948873627,12.909385480294205,68.0,0.2283822920976417,261,14.786807202459414,0.0,0.0,0.0344827586206896,"(0.1, 0.2]",10
+965e9520-cd85-47b4-8b10-287c3db3e63c,1,"Ogden, Utah, is best known for its unique blend of rich railroad history as the ""Crossroads of the West,"" stunning outdoor recreation (skiing, hiking, biking) in the Wasatch Mountains, and a revitalized historic downtown with vibrant shops and breweries, all stemming from its gritty, innovative past as a frontier hub, says Ogden Made, Forbes, and Visit Utah.
+Key Aspects:
+Railroad Heritage: A crucial transcontinental railroad hub (nicknamed ""Junction City""), home to Union Station and a history of industry and innovation.
+Outdoor Adventure: Nicknamed the ""Outdoor Capital of the World,"" offering world-class skiing (Snowbasin, Powder Mountain), mountain biking, hiking, and river sports minutes from downtown.
+Historic Downtown: A walkable area with historic buildings, diverse dining, nightlife, and events like the Ogden Pioneer Days Rodeo, says Visit Utah.
+Grit & Innovation: A history as a Wild West town, Prohibition hotspot, and now a center for aerospace, outdoor gear manufacturing, and tech, according to Ogden City (.gov) and Ogden Made.
+Weber State University: A significant institution shaping the city's younger, educated workforce, notes Ogden, Utah - Wikipedia and Ogden City (.gov).
+In short, Ogden offers a unique mix of frontier history, urban revitalization, and immediate mountain access, making it a versatile destination, says Visit Utah and Forbes.",204,13.0,28,what is COUNTYSEAT STATE best known for,culture,subjective,open-ended,civics,49057,UT,Weber,Ogden,231236,0.8461538461538461,0.0,0.0,0.1538461538461538,0.0,0.1538461538461538,0.0,0.0,0.0,0.0769230769230769,0.0,0.0,0.0,0.0,0.0,0.5384615384615384,0.0769230769230769,1.881094760110075,12.491939321145823,47.0,0.2804944025968621,204,27.0834777227723,0.9803921568627452,0.0,0.0147058823529411,"(-0.001, 0.1]",10
+7678a263-3a1f-47f3-99ab-6bfb0bc5c7aa,1,"Mott, North Dakota, is best known as the ""Pheasant Hunting Capital of the Nation,"" attracting hunters for pheasants, deer, and grouse, alongside its rich history (including unique settler architecture like the Stern Homestead) and being recognized as the smallest town on globes, offering a small-town feel near the Badlands and Lake Tschida for outdoor recreation like fishing, boating, and exploring the Enchanted Highway.
+Key Highlights:
+Hunting & Outdoors: It's a premier spot for upland bird hunting, with excellent opportunities for deer and turkey too, plus fishing in the Cannonball River and nearby dams.
+Unique History & Culture: Mott boasts quirky claims, like being the smallest town on globes, and features historical sites like the Stern Homestead, a house-barn built by German-Russian immigrants.
+Local Attractions: Visit the Mott Gallery of History & Art, explore the Cannonball Trail, and experience the local atmosphere at various bars and eateries.
+Gateway to Regional Sights: It's a base for exploring the South Dakota Badlands, Lake Tschida for water sports, and the famous Enchanted Highway with its giant sculptures.
+In essence, Mott is known for its robust wildlife, unique history, and small-town charm in the heart of North Dakota's scenic landscape.",199,7.0,28,what is COUNTYSEAT STATE best known for,culture,subjective,open-ended,civics,38041,ND,Hettinger,Mott,2477,0.8571428571428571,0.0,0.0,0.5714285714285714,0.0,0.0,0.1428571428571428,0.0,0.0,0.0,0.0,0.0,0.0,0.1428571428571428,0.0,0.1428571428571428,0.0,1.6644977792004614,7.8050670442584895,52.0,0.18732782369146,199,33.35500000000002,0.0,0.0,0.0100502512562814,"(-0.001, 0.1]",1
+47cd1b44-9d1f-4b09-8a54-2583dae3b492,1,"Bowbells, ND, is best known as a quintessential small North Dakota town, serving as the Burke County seat, rooted in agriculture (wheat, barley, canola) and the oil industry, offering simple living, historical charm (like its 1909 schoolhouse), and access to prairie recreation like hunting and golf, all while retaining its connection to its Soo Line Railroad history.
+Key Characteristics:
+County Seat: It's the administrative hub for Burke County, housing the courthouse and local newspaper, The Burke County Tribune.
+Agriculture & Oil: The economy relies heavily on farming crops like wheat and sunflowers, plus oil and gas extraction businesses.
+Small-Town Charm: Known for its rural tranquility, friendly people, quaint local shops, and simple lifestyle, embracing ""Americana"".
+History: Named after London's famous Bow Bells and established by the Soo Line Railroad, it boasts a historic 1909 brick schoolhouse still in use.
+Recreation: Offers a golf course, parks, and access to hunting (pheasant, deer) and fishing in the surrounding prairies.
+In essence, Bowbells is known for being a grounded, agricultural community with deep railroad roots, a strong sense of local identity, and the peaceful pace of rural life in western North Dakota.",191,7.0,28,what is COUNTYSEAT STATE best known for,culture,subjective,open-ended,civics,38013,ND,Burke,Bowbells,1968,0.2857142857142857,0.4285714285714285,0.0,0.1428571428571428,0.0,0.0,0.1428571428571428,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1428571428571428,0.0,0.1428571428571428,2.1280852788913944,7.679251425953058,76.0,0.2353333333333333,191,36.47500000000002,0.0,0.0,0.0,"(0.4, 0.5]",1
